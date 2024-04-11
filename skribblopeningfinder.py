@@ -47,8 +47,8 @@ def find_similar_words(wordbank, size):
         for _word in potential_similar:
             if _word in words:
                 similar_words_dict[word].append(_word)
-        if count % 5000 == 0:
-            print(f"{count//1000}k/{total_words//1000}k, {int(count/total_words//0.01)}%")
+        if count % (50000//length) == 0:
+            print(f"{count//1000*length}k/{total_words//1000*length}k, {int(count/total_words//0.01)}%")
 
     print("Sorting...")
     
@@ -61,6 +61,17 @@ def find_similar_words(wordbank, size):
     top = []
     cumulative_frequency = 0
     while sorted_similar_words:
+        processed_values = set()
+        keys_to_delete = []
+        for key, value in sorted_similar_words.items():
+            if any(v in processed_values for v in value) and len(value) == 1:
+                keys_to_delete.append(key)
+            else:
+                processed_values.update(value)
+
+        for key in keys_to_delete:
+            del sorted_similar_words[key]
+        
         if top == 1 and not difficulty_priority:
             sorted_results = sorted(sorted_similar_words.items(), key=lambda item: (add_difficulty(item[1], wordbank_map), -len(item[0])), reverse=True)
         else:
@@ -73,12 +84,12 @@ def find_similar_words(wordbank, size):
         first_item, similar_list = sorted_results[0]
         top = len(similar_list)
         cumulative_frequency += top
-        if top == 1:
-            print(f"{similar_list[0]} | 1 | {cumulative_frequency/len(words)*1000//1/10}% | {', '.join(i for i in similar_list)}")
+        if cumulative_frequency/len(words) == 1.0:
+            print(f"{format(first_item, length)} | {top} | 100.% | {', '.join(i for i in similar_list)}")
         elif top > 9:
             print(f"{format(first_item, length)} |{ top} | {format(cumulative_frequency/len(words)*1000//1/10,4)}% | {', '.join(i for i in similar_list)}")
-        elif cumulative_frequency/len(words) == 1:
-            print(f"{format(first_item, length)} |{ top} | 100.%  | {similar_list}")
+        elif top == 1:
+            print(f"{similar_list[0]} | 1 | {cumulative_frequency/len(words)*1000//1/10}% | {similar_list[0]}")
         else:
             print(f"{format(first_item, length)} | {top} | {format(cumulative_frequency/len(words)*1000//1/10,4)}% | {', '.join(i for i in similar_list)}")
     
@@ -88,18 +99,7 @@ def find_similar_words(wordbank, size):
                     if word in value:
                         value.remove(word)
                         if not value:
-                            del sorted_similar_words[key]
-        
-        processed_values = set()
-        keys_to_delete = []
-        for key, value in sorted_similar_words.items():
-            if any(v in processed_values for v in value) and len(value) == 1:
-                keys_to_delete.append(key)
-            else:
-                processed_values.update(value)
-
-        for key in keys_to_delete:
-            del sorted_similar_words[key]
+                            del sorted_similar_words[key] 
 
     print("All words have been covered.")
 
