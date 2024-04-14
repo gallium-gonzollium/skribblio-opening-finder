@@ -21,9 +21,7 @@ def modify_words(words, commands):
             if "replace" in command:
                 for index, letter in enumerate(word):
                     for replace_letter in alphabet:
-                        modified_word = (
-                            word[:index] + replace_letter + word[index + 1 :]
-                        )
+                        modified_word = word[:index] + replace_letter + word[index + 1:]
                         modified_set.add(modified_word.lower())
             elif "insert" in command:
                 for index in range(len(word) + 1):
