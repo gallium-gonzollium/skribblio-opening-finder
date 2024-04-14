@@ -115,7 +115,7 @@ def find_similar_words(wordbank, size):
         for key in keys_to_delete:
             del sorted_similar_words[key]
 
-        if top == 1 and not difficulty_priority:
+        if top == 1 and not difficulty_priority and end == False:
             sorted_results = sorted(
                 sorted_similar_words.items(),
                 key=lambda item: (add_difficulty(item[1], wordbank_map), -len(item[0])),
@@ -132,7 +132,7 @@ def find_similar_words(wordbank, size):
                     ),
                     reverse=True,
                 )
-            elif end == False:
+            else:
                 sorted_results = sorted(
                     sorted_similar_words.items(),
                     key=lambda item: (
