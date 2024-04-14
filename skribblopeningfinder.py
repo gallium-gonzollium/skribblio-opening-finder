@@ -97,7 +97,7 @@ def find_similar_words(wordbank, size):
     while sorted_similar_words:
         if top != 1:
             passes[1] += 1
-        elif passes[1] == passes[0] and cumulative / len(words) < 0.95:
+        elif passes[1] == passes[0] and cumulative / len(words) < 0.95 and difficulty_priority == False:
             if (input(f"The rest {100-cumulative/len(words)//0.001/10}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.\n>>> ").lower()
                 == "end"):
                 end = True
