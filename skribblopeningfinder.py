@@ -3,14 +3,13 @@ import os
 
 
 def set_alphabet(name):
-    alphabet = [
-        "abcdefghijklmnopqrstuvwxyz",
-        "abcdefghijklmnopqrstuvwxyzäöüß123",
-        "abcdefghijklmnopqrstuvwxyzáéíóúüñ25",
-        "abcdefghijklmnopqrstuvwxyzàâæçéèêëîïôœùûüÿ9",
-    ]
-    langs = ["en", "de", "es", "fr"]
-    return alphabet[langs.index(filename[9:11])]
+    alphabet = {
+        "wordbank-en.txt": "abcdefghijklmnopqrstuvwxyz",
+        "wordbank-de.txt": "abcdefghijklmnopqrstuvwxyzäöüß123",
+        "wordbank-es.txt": "abcdefghijklmnopqrstuvwxyzáéíóúüñ25",
+        "wordbank-fr.txt": "abcdefghijklmnopqrstuvwxyzàâæçéèêëîïôœùûüÿ9",
+    }
+    return alphabet.get(name)
 
 
 def modify_words(words, commands):
@@ -95,15 +94,6 @@ def find_similar_words(wordbank, size):
     passes = [0, 0]
     end = False
     while sorted_similar_words:
-        if top != 1:
-            passes[1] += 1
-        elif passes[1] == passes[0] and cumulative / len(words) < 0.95 and difficulty_priority == False:
-            if (input(f"The rest {100-cumulative/len(words)//0.001/10}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.\n>>> ").lower()
-                == "end"):
-                end = True
-                print("Ending...")
-
-        passes[0] += 1
         processed_values = set()
         keys_to_delete = []
         for key, value in sorted_similar_words.items():
@@ -132,7 +122,7 @@ def find_similar_words(wordbank, size):
                     ),
                     reverse=True,
                 )
-            else:
+            elif end == False:
                 sorted_results = sorted(
                     sorted_similar_words.items(),
                     key=lambda item: (
@@ -142,20 +132,32 @@ def find_similar_words(wordbank, size):
                     ),
                     reverse=True,
                 )
+            elif sorted_results != sorted_similar_words.items():
+                sorted_results = sorted(sorted_similar_words.items(), key=None)
             if not sorted_results:
                 break
+        
         first_item, similar_list = sorted_results[0]
         top = len(similar_list)
+        if top != 1:
+            passes[1] += 1
+        elif passes[1] == passes[0] and cumulative / len(words) < 0.95 and difficulty_priority == False:
+            if (input(f"The rest {format(100-cumulative/len(words)//0.001/10,4)}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.\n>>> ").lower()
+                in ["end","edn","den","dne","ned","ned"]):
+                end = True
+                print("Ending...")
+        passes[0] += 1
         cumulative += top
+
         if end == False:
-            if cumulative / len(words) == 1.0:
-                print(f"{format(first_item, length)} | {top} | 100.% | {', '.join(i for i in similar_list)}")
+            if cumulative == len(words):
+                print(f"{similar_list[0]} | {top} | 100.% | {', '.join(i for i in similar_list)}")
             elif top > 9:
-                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
             elif top == 1:
                 print(f"{similar_list[0]} | 1 | {cumulative/len(words)*1000//1/10}% | {similar_list[0]}")
             else:
-                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
 
         for _ in range(top):  # for SOME reason doing 1 pass of this isn't enough...
             for word in similar_list:
@@ -167,9 +169,8 @@ def find_similar_words(wordbank, size):
 
     print(f"All {len(words)} words have been covered in {passes[0]} words.")
     try:
-        print(f"# words / # l.w.            = {len(words)/passes[0]//0.001/1000}")
-        print(f"# words / # l.w. (>1 close) = {len(words)/passes[1]//0.001/1000}")
-        print(f"# l.w. / # l.w. (>1 close)  = { passes[0]/passes[1]//0.001/1000}")
+        print(f"number of list words (>1 close)          = {format(str(passes[1])+' words',10)} | higher is better")
+        print(f"avg. efficiency per list word            = {format(len(words)/passes[0],5)}      | higher is better")
     except ZeroDivisionError:
         0
 
@@ -251,10 +252,13 @@ def main():
         for i in range(intput("How many words?\n>>> ", 10))
     ]
     if filename == "wordbank-en.txt":
-        if input("Set difficulty priority first? (y/n)\n>>> ").lower() == "y":
-            difficulty_priority = True
-        else:
-            difficulty_priority = False
+        i = None
+        while i not in ["y","n"]:
+            i = input("Set difficulty priority first? (y/n)\n>>> ").lower()
+            if i == "y":
+                difficulty_priority = True
+            elif i == "n":
+                difficulty_priority = False
     else:
         difficulty_priority = False
     difficulty_dict = {entry[0].lower(): entry[2] * (1 - entry[3]) for entry in wordbank}
