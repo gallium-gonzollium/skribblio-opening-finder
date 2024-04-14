@@ -95,13 +95,15 @@ def find_similar_words(wordbank, size):
     top = 0
     cumulative = 0
     passes = [0, 0]
+    end = False
     while sorted_similar_words:
         if top != 1:
             passes[1] += 1
         elif passes[1] == passes[0] and cumulative / len(words) < 0.95:
-            if (input(f"The rest {100-cumulative/len(words)//0.001/10}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.").lower()
+            if (input(f"The rest {100-cumulative/len(words)//0.001/10}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.\n>>> ").lower()
                 == "end"):
-                break
+                end = True
+                print("Ending...")
 
         passes[0] += 1
         processed_values = set()
@@ -122,7 +124,7 @@ def find_similar_words(wordbank, size):
                 reverse=True,
             )
         else:
-            if difficulty_priority:
+            if difficulty_priority and end == False:
                 sorted_results = sorted(
                     sorted_similar_words.items(),
                     key=lambda item: (
@@ -132,7 +134,7 @@ def find_similar_words(wordbank, size):
                     ),
                     reverse=True,
                 )
-            else:
+            elif end == False:
                 sorted_results = sorted(
                     sorted_similar_words.items(),
                     key=lambda item: (
@@ -147,14 +149,15 @@ def find_similar_words(wordbank, size):
         first_item, similar_list = sorted_results[0]
         top = len(similar_list)
         cumulative += top
-        if cumulative / len(words) == 1.0:
-            print(f"{format(first_item, length)} | {top} | 100.% | {', '.join(i for i in similar_list)}")
-        elif top > 9:
-            print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
-        elif top == 1:
-            print(f"{similar_list[0]} | 1 | {cumulative/len(words)*1000//1/10}% | {similar_list[0]}")
-        else:
-            print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+        if end == False:
+            if cumulative / len(words) == 1.0:
+                print(f"{format(first_item, length)} | {top} | 100.% | {', '.join(i for i in similar_list)}")
+            elif top > 9:
+                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+            elif top == 1:
+                print(f"{similar_list[0]} | 1 | {cumulative/len(words)*1000//1/10}% | {similar_list[0]}")
+            else:
+                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
 
         for _ in range(top):  # for SOME reason doing 1 pass of this isn't enough...
             for word in similar_list:
@@ -262,14 +265,14 @@ def main():
 
 try:
     main()
-except KeyboardInterrupt:
-    print("\n\n\nRestarting... (Press CTRL-C twice more to close)")
+except KeyboardInterrupt or EOFError:
+    print("\n\nRestarting... (Press CTRL-C twice more to close)")
     try:
         main()
-    except KeyboardInterrupt:
-        print("\n\n\nRestarting... (Press CTRL-C once more to close)")
+    except KeyboardInterrupt or EOFError:
+        print("\n\nRestarting... (Press CTRL-C once more to close)")
         try:
             main()
-        except KeyboardInterrupt:
+        except KeyboardInterrupt or EOFError:
             print("Exiting...")
             exit()
