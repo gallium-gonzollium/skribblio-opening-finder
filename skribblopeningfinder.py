@@ -139,7 +139,6 @@ def find_similar_words(wordbank, size):
         
         first_item, similar_list = sorted_results[0]
         top = len(similar_list)
-        cumulative += top
         if top != 1:
             passes[1] += 1
         elif passes[1] == passes[0] and cumulative / len(words) < 0.95 and difficulty_priority == False:
@@ -148,16 +147,17 @@ def find_similar_words(wordbank, size):
                 end = True
                 print("Ending...")
         passes[0] += 1
+        cumulative += top
 
         if end == False:
             if cumulative == len(words):
                 print(f"{similar_list[0]} | {top} | 100.% | {', '.join(i for i in similar_list)}")
             elif top > 9:
-                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
             elif top == 1:
                 print(f"{similar_list[0]} | 1 | {cumulative/len(words)*1000//1/10}% | {similar_list[0]}")
             else:
-                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)//0.001/10,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
 
         for _ in range(top):  # for SOME reason doing 1 pass of this isn't enough...
             for word in similar_list:
@@ -170,13 +170,7 @@ def find_similar_words(wordbank, size):
     print(f"All {len(words)} words have been covered in {passes[0]} words.")
     try:
         print(f"number of list words (>1 close)          = {format(str(passes[1])+' words',10)} | higher is better")
-        print(f"avg. efficiency per list word            = {format(len(words)/passes[0]//0.001/1000,5)}      | higher is better")
-        print(f"avg. efficiency per list word (>1 close) = {format(len(words)/passes[1]//0.001/1000,5)}      | higher is better")
-        if passes[0] == passes[1]:
-            print(f"discrepancy between efficiencies         = 1.000      | lower is better")
-        else:
-            print(f"discrepancy between efficiencies         = {format(passes[0]/passes[1]//0.001/1000-1,5)}      | lower is better")
-
+        print(f"avg. efficiency per list word            = {format(len(words)/passes[0],5)}      | higher is better")
     except ZeroDivisionError:
         0
 
