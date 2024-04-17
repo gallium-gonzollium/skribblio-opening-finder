@@ -1,6 +1,12 @@
 from collections import defaultdict
 import os
+import unicodedata
 
+def remove_diacritics(input_str):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', input_str)
+        if unicodedata.category(c) != 'Mn'
+    )
 
 def set_alphabet(name):
     alphabet = {
@@ -72,9 +78,7 @@ def find_similar_words(wordbank, size):
                     len(item[1]),
                     -len(item[0]),
                 ),
-                reverse=True,
-            )
-        )
+                reverse=True))
     else:
         sorted_similar_words = dict(
             sorted(
@@ -84,9 +88,7 @@ def find_similar_words(wordbank, size):
                     add_difficulty(item[1], wordbank_map),
                     -len(item[0]),
                 ),
-                reverse=True,
-            )
-        )
+                reverse=True))
 
     print(f"Starting optimal word search of length {size}...")
     top = 0
@@ -151,13 +153,13 @@ def find_similar_words(wordbank, size):
 
         if end == False:
             if cumulative == len(words):
-                print(f"{similar_list[0]} | {top} | 100.% | {', '.join(i for i in similar_list)}")
+                print(f"{remove_diacritics(similar_list[0])} | {top} | 100.% | {', '.join(i for i in similar_list)}")
             elif top > 9:
-                print(f"{format(first_item, length)} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{remove_diacritics(format(first_item, length))} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
             elif top == 1:
-                print(f"{similar_list[0]} | 1 | {cumulative/len(words)*1000//1/10}% | {similar_list[0]}")
+                print(f"{remove_diacritics(similar_list[0])} | 1 | {format(cumulative/len(words)*10000//1/100,4)}% | {similar_list[0]}")
             else:
-                print(f"{format(first_item, length)} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
+                print(f"{remove_diacritics(format(first_item, length))} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
 
         for _ in range(top):  # for SOME reason doing 1 pass of this isn't enough...
             for word in similar_list:
