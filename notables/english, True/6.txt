@@ -1,0 +1,392 @@
+tallet | 4 | 0.71% | ballet, wallet, tablet, mallet
+winger | 4 | 1.42% | winter, ginger, winner, finger
+bettle | 4 | 2.13% | beetle, bottle, kettle, battle
+bocket | 4 | 2.85% | socket, bucket, pocket, rocket
+banger | 4 | 3.56% | badger, banker, hanger, banner
+cotion | 3 | 4.09% | lotion, potion, cotton
+switch | 3 | 4.63% | stitch, twitch, switch
+peison | 3 | 5.16% | person, poison, prison
+feight | 3 | 5.70% | weight, height, flight
+hocker | 3 | 6.23% | locker, hacker, hockey
+butlet | 3 | 6.77% | outlet, bullet, butler
+chees  | 3 | 7.30% | cheeks, cheers, cheese
+caddle | 3 | 7.84% | saddle, paddle, candle
+hoodle | 3 | 8.37% | hoodie, poodle, noodle
+repper | 3 | 8.91% | pepper, reaper, rapper
+cridge | 3 | 9.44% | bridge, cringe, fridge
+cuffin | 3 | 9.98% | coffin, puffin, muffin
+pollar | 3 | 10.5% | pillar, collar, dollar
+bunter | 3 | 11.0% | butter, hunter, bunker
+masket | 3 | 11.5% | market, musket, basket
+canbon | 3 | 12.1% | canyon, carbon, cannon
+fillow | 3 | 12.6% | follow, willow, pillow
+closer | 3 | 13.1% | closet, clover, closed
+hizard | 3 | 13.7% | wizard, lizard, hazard
+purdle | 3 | 14.2% | hurdle, puddle, purple
+health | 3 | 14.7% | health, hearth, wealth
+brench | 3 | 15.3% | wrench, trench, branch
+breach | 3 | 15.8% | bleach, breath, preach
+parate | 3 | 16.3% | parade, karate, pirate
+bowder | 3 | 16.9% | bowser, border, powder
+hermet | 3 | 17.4% | hermes, hermit, helmet
+marrot | 3 | 18.0% | parrot, marmot, carrot
+ranish | 3 | 18.5% | danish, vanish, radish
+picple | 2 | 18.8% | pimple, pickle
+weapot | 2 | 19.2% | weapon, teapot
+peanet | 2 | 19.6% | peanut, planet
+sorts  | 2 | 19.9% | sports, shorts
+polace | 2 | 20.3% | palace, police
+erawer | 2 | 20.6% | eraser, drawer
+frange | 2 | 21.0% | france, orange
+dipper | 2 | 21.3% | diaper, zipper
+fother | 2 | 21.7% | mother, father
+screet | 2 | 22.1% | screen, street
+sammer | 2 | 22.4% | hammer, summer
+barrer | 2 | 22.8% | barber, barrel
+shados | 2 | 23.1% | shades, shadow
+hikini | 2 | 23.5% | bikini, hiking
+brapes | 2 | 23.8% | grapes, braces
+thront | 2 | 24.2% | throat, throne
+carget | 2 | 24.5% | carpet, target
+rbber  | 2 | 24.9% | rubber, robber
+skinky | 2 | 25.3% | slinky, skinny
+shover | 2 | 25.6% | shower, shovel
+pomato | 2 | 26.0% | tomato, potato
+sledve | 2 | 26.3% | sleeve, sledge
+ioland | 2 | 26.7% | poland, island
+beaven | 2 | 27.0% | beaver, heaven
+enline | 2 | 27.4% | online, engine
+fortal | 2 | 27.8% | portal, formal
+naturn | 2 | 28.1% | saturn, nature
+sprong | 2 | 28.5% | spring, strong
+botton | 2 | 28.8% | button, bottom
+kroken | 2 | 29.2% | kraken, broken
+corper | 2 | 29.5% | corner, copper
+scrool | 2 | 29.9% | scroll, school
+mondey | 2 | 30.3% | monday, monkey
+princh | 2 | 30.6% | prince, grinch
+cragon | 2 | 31.0% | crayon, dragon
+omelot | 2 | 31.3% | ocelot, omelet
+glnder | 2 | 31.7% | glider, gender
+ritten | 2 | 32.0% | kitten, rotten
+folter | 2 | 32.4% | filter, folder
+batana | 2 | 32.7% | katana, banana
+tunsel | 2 | 33.1% | tunnel, tinsel
+spiper | 2 | 33.5% | spider, sniper
+corple | 2 | 33.8% | corpse, couple
+oster  | 2 | 34.2% | oyster, poster
+cicle  | 2 | 34.5% | icicle, circle
+pubble | 2 | 34.9% | pebble, bubble
+violen | 2 | 35.2% | violin, violet
+almon  | 2 | 35.6% | almond, salmon
+auchor | 2 | 36.0% | anchor, author
+piseon | 2 | 36.3% | pigeon, piston
+secord | 2 | 36.7% | second, record
+turzan | 2 | 37.0% | turban, tarzan
+tacket | 2 | 37.4% | jacket, ticket
+baboo  | 2 | 37.7% | baboon, bamboo
+cavera | 2 | 38.1% | camera, cavern
+tenris | 2 | 38.5% | tennis, tetris
+scates | 2 | 38.8% | scales, skates
+gamage | 2 | 39.2% | garage, damage
+manute | 2 | 39.5% | manure, minute
+lader  | 2 | 39.9% | ladder, leader
+mision | 2 | 40.2% | minion, vision
+sugway | 2 | 40.6% | subway, segway
+cattle | 2 | 40.9% | rattle, castle
+witer  | 2 | 41.3% | writer, waiter
+marmer | 2 | 41.7% | farmer, marker
+stabue | 2 | 42.0% | stable, statue
+redit  | 2 | 42.4% | credit, reddit
+cencer | 2 | 42.7% | center, cancer
+patry  | 2 | 43.1% | pantry, pastry
+guiter | 2 | 43.4% | gutter, guitar
+squarh | 2 | 43.8% | squash, square
+jugle  | 2 | 44.2% | juggle, jungle
+chunch | 2 | 44.5% | church, crunch
+turket | 2 | 44.9% | turkey, turret
+seasor | 2 | 45.2% | sensor, season
+vulley | 2 | 45.6% | valley, pulley
+goalee | 2 | 45.9% | goatee, goalie
+cacada | 2 | 46.3% | cicada, canada
+voctor | 2 | 46.7% | doctor, vector
+safami | 2 | 47.0% | salami, safari
+lounce | 2 | 47.4% | lounge, bounce
+ruise  | 2 | 47.7% | cruise, bruise
+resert | 2 | 48.1% | desert, resort
+spream | 2 | 48.4% | spread, scream
+coyota | 2 | 48.8% | coyote, toyota
+nethew | 2 | 49.1% | nether, nephew
+ailor  | 2 | 49.5% | tailor, sailor
+greese | 2 | 49.9% | grease, greece
+bumfer | 2 | 50.2% | bumper, buffer
+layer  | 2 | 50.6% | player, lawyer
+walnus | 2 | 50.9% | walrus, walnut
+sirver | 2 | 51.3% | silver, server
+insine | 2 | 51.6% | insane, inside
+ester  | 2 | 52.0% | easter, jester
+moscot | 2 | 52.4% | moscow, mascot
+ellow  | 2 | 52.7% | yellow, bellow
+impalt | 2 | 53.1% | impact, impale
+athen  | 2 | 53.4% | athens, athena
+mirror | 1 | 53.6% | mirror
+makeup | 1 | 53.8% | makeup
+thanos | 1 | 54.0% | thanos
+volume | 1 | 54.1% | volume
+roblox | 1 | 54.3% | roblox
+soccer | 1 | 54.5% | soccer
+selfie | 1 | 54.7% | selfie
+amazon | 1 | 54.9% | amazon
+dagger | 1 | 55.0% | dagger
+cinema | 1 | 55.2% | cinema
+muscle | 1 | 55.4% | muscle
+zombie | 1 | 55.6% | zombie
+knight | 1 | 55.7% | knight
+tampon | 1 | 55.9% | tampon
+shield | 1 | 56.1% | shield
+tongue | 1 | 56.3% | tongue
+cowboy | 1 | 56.5% | cowboy
+beanie | 1 | 56.6% | beanie
+search | 1 | 56.8% | search
+cloudy | 1 | 57.0% | cloudy
+garden | 1 | 57.2% | garden
+faucet | 1 | 57.3% | faucet
+injury | 1 | 57.5% | injury
+nachos | 1 | 57.7% | nachos
+cactus | 1 | 57.9% | cactus
+keypad | 1 | 58.1% | keypad
+cobweb | 1 | 58.2% | cobweb
+needle | 1 | 58.4% | needle
+puppet | 1 | 58.6% | puppet
+insect | 1 | 58.8% | insect
+remote | 1 | 59.0% | remote
+adidas | 1 | 59.1% | adidas
+brazil | 1 | 59.3% | brazil
+meteor | 1 | 59.5% | meteor
+mexico | 1 | 59.7% | mexico
+waffle | 1 | 59.8% | waffle
+ribbon | 1 | 60.0% | ribbon
+tuxedo | 1 | 60.2% | tuxedo
+cyborg | 1 | 60.4% | cyborg
+napkin | 1 | 60.6% | napkin
+hunger | 1 | 60.7% | hunger
+degree | 1 | 60.9% | degree
+stoned | 1 | 61.1% | stoned
+sprite | 1 | 61.3% | sprite
+middle | 1 | 61.4% | middle
+forest | 1 | 61.6% | forest
+fungus | 1 | 61.8% | fungus
+tattoo | 1 | 62.0% | tattoo
+booger | 1 | 62.2% | booger
+trophy | 1 | 62.3% | trophy
+africa | 1 | 62.5% | africa
+pistol | 1 | 62.7% | pistol
+laptop | 1 | 62.9% | laptop
+gloves | 1 | 63.1% | gloves
+russia | 1 | 63.2% | russia
+norway | 1 | 63.4% | norway
+window | 1 | 63.6% | window
+cookie | 1 | 63.8% | cookie
+mohawk | 1 | 63.9% | mohawk
+sponge | 1 | 64.1% | sponge
+signal | 1 | 64.3% | signal
+sweden | 1 | 64.5% | sweden
+dishes | 1 | 64.7% | dishes
+dinner | 1 | 64.8% | dinner
+totoro | 1 | 65.0% | totoro
+medusa | 1 | 65.2% | medusa
+raisin | 1 | 65.4% | raisin
+tiktok | 1 | 65.5% | tiktok
+tissue | 1 | 65.7% | tissue
+speech | 1 | 65.9% | speech
+biceps | 1 | 66.1% | biceps
+armpit | 1 | 66.3% | armpit
+europe | 1 | 66.4% | europe
+picnic | 1 | 66.6% | picnic
+toilet | 1 | 66.8% | toilet
+garlic | 1 | 67.0% | garlic
+uranus | 1 | 67.2% | uranus
+hawaii | 1 | 67.3% | hawaii
+tripod | 1 | 67.5% | tripod
+google | 1 | 67.7% | google
+cherry | 1 | 67.9% | cherry
+seesaw | 1 | 68.0% | seesaw
+sudoku | 1 | 68.2% | sudoku
+celery | 1 | 68.4% | celery
+boxing | 1 | 68.6% | boxing
+bronze | 1 | 68.8% | bronze
+saliva | 1 | 68.9% | saliva
+yogurt | 1 | 69.1% | yogurt
+coffee | 1 | 69.3% | coffee
+turtle | 1 | 69.5% | turtle
+toucan | 1 | 69.6% | toucan
+thirst | 1 | 69.8% | thirst
+luxury | 1 | 70.0% | luxury
+betray | 1 | 70.2% | betray
+friend | 1 | 70.4% | friend
+eyelid | 1 | 70.5% | eyelid
+marble | 1 | 70.7% | marble
+oxygen | 1 | 70.9% | oxygen
+sneeze | 1 | 71.1% | sneeze
+batman | 1 | 71.3% | batman
+recipe | 1 | 71.4% | recipe
+autumn | 1 | 71.6% | autumn
+nickel | 1 | 71.8% | nickel
+juicer | 1 | 72.0% | juicer
+rewind | 1 | 72.1% | rewind
+galaxy | 1 | 72.3% | galaxy
+sprout | 1 | 72.5% | sprout
+jersey | 1 | 72.7% | jersey
+cashew | 1 | 72.9% | cashew
+israel | 1 | 73.0% | israel
+family | 1 | 73.2% | family
+nugget | 1 | 73.4% | nugget
+chrome | 1 | 73.6% | chrome
+puzzle | 1 | 73.7% | puzzle
+pencil | 1 | 73.9% | pencil
+helium | 1 | 74.1% | helium
+fedora | 1 | 74.3% | fedora
+cocoon | 1 | 74.5% | cocoon
+driver | 1 | 74.6% | driver
+artist | 1 | 74.8% | artist
+donkey | 1 | 75.0% | donkey
+obelix | 1 | 75.2% | obelix
+eminem | 1 | 75.4% | eminem
+python | 1 | 75.5% | python
+fossil | 1 | 75.7% | fossil
+period | 1 | 75.9% | period
+eclair | 1 | 76.1% | eclair
+action | 1 | 76.2% | action
+cuckoo | 1 | 76.4% | cuckoo
+stress | 1 | 76.6% | stress
+outlaw | 1 | 76.8% | outlaw
+stylus | 1 | 77.0% | stylus
+tundra | 1 | 77.1% | tundra
+magnet | 1 | 77.3% | magnet
+kidney | 1 | 77.5% | kidney
+shaggy | 1 | 77.7% | shaggy
+future | 1 | 77.8% | future
+modern | 1 | 78.0% | modern
+archer | 1 | 78.2% | archer
+scythe | 1 | 78.4% | scythe
+abacus | 1 | 78.6% | abacus
+handle | 1 | 78.7% | handle
+beggar | 1 | 78.9% | beggar
+caviar | 1 | 79.1% | caviar
+paypal | 1 | 79.3% | paypal
+lonely | 1 | 79.5% | lonely
+cradle | 1 | 79.6% | cradle
+victim | 1 | 79.8% | victim
+wasabi | 1 | 80.0% | wasabi
+genius | 1 | 80.2% | genius
+bakery | 1 | 80.3% | bakery
+mozart | 1 | 80.5% | mozart
+double | 1 | 80.7% | double
+flower | 1 | 80.9% | flower
+vacuum | 1 | 81.1% | vacuum
+spiral | 1 | 81.2% | spiral
+zigzag | 1 | 81.4% | zigzag
+cereal | 1 | 81.6% | cereal
+goblin | 1 | 81.8% | goblin
+circus | 1 | 81.9% | circus
+tweety | 1 | 82.1% | tweety
+arctic | 1 | 82.3% | arctic
+pigsty | 1 | 82.5% | pigsty
+memory | 1 | 82.7% | memory
+clinic | 1 | 82.8% | clinic
+voodoo | 1 | 83.0% | voodoo
+jaguar | 1 | 83.2% | jaguar
+nutmeg | 1 | 83.4% | nutmeg
+museum | 1 | 83.6% | museum
+turnip | 1 | 83.7% | turnip
+lyrics | 1 | 83.9% | lyrics
+casino | 1 | 84.1% | casino
+median | 1 | 84.3% | median
+tickle | 1 | 84.4% | tickle
+airbag | 1 | 84.6% | airbag
+popeye | 1 | 84.8% | popeye
+repeat | 1 | 85.0% | repeat
+plains | 1 | 85.2% | plains
+salute | 1 | 85.3% | salute
+pinata | 1 | 85.5% | pinata
+falcon | 1 | 85.7% | falcon
+narnia | 1 | 85.9% | narnia
+london | 1 | 86.0% | london
+papaya | 1 | 86.2% | papaya
+plague | 1 | 86.4% | plague
+shrimp | 1 | 86.6% | shrimp
+facade | 1 | 86.8% | facade
+blouse | 1 | 86.9% | blouse
+wreath | 1 | 87.1% | wreath
+iguana | 1 | 87.3% | iguana
+comedy | 1 | 87.5% | comedy
+rapier | 1 | 87.7% | rapier
+priest | 1 | 87.8% | priest
+darwin | 1 | 88.0% | darwin
+meadow | 1 | 88.2% | meadow
+earwax | 1 | 88.4% | earwax
+cousin | 1 | 88.5% | cousin
+ferret | 1 | 88.7% | ferret
+venice | 1 | 88.9% | venice
+stereo | 1 | 89.1% | stereo
+vortex | 1 | 89.3% | vortex
+gandhi | 1 | 89.4% | gandhi
+cement | 1 | 89.6% | cement
+orchid | 1 | 89.8% | orchid
+wiggle | 1 | 90.0% | wiggle
+mantis | 1 | 90.1% | mantis
+bonsai | 1 | 90.3% | bonsai
+bonnet | 1 | 90.5% | bonnet
+artery | 1 | 90.7% | artery
+nascar | 1 | 90.9% | nascar
+chorus | 1 | 91.0% | chorus
+profit | 1 | 91.2% | profit
+office | 1 | 91.4% | office
+ignite | 1 | 91.6% | ignite
+hippie | 1 | 91.8% | hippie
+louvre | 1 | 91.9% | louvre
+buddha | 1 | 92.1% | buddha
+geyser | 1 | 92.3% | geyser
+cymbal | 1 | 92.5% | cymbal
+pliers | 1 | 92.6% | pliers
+gopher | 1 | 92.8% | gopher
+uganda | 1 | 93.0% | uganda
+serbia | 1 | 93.2% | serbia
+snoopy | 1 | 93.4% | snoopy
+shogun | 1 | 93.5% | shogun
+pollen | 1 | 93.7% | pollen
+kermit | 1 | 93.9% | kermit
+gentle | 1 | 94.1% | gentle
+stalin | 1 | 94.2% | stalin
+fabric | 1 | 94.4% | fabric
+mirage | 1 | 94.6% | mirage
+boxcar | 1 | 94.8% | boxcar
+sensei | 1 | 95.0% | sensei
+quokka | 1 | 95.1% | quokka
+alpaca | 1 | 95.3% | alpaca
+studio | 1 | 95.5% | studio
+tardis | 1 | 95.7% | tardis
+grumpy | 1 | 95.9% | grumpy
+embers | 1 | 96.0% | embers
+purity | 1 | 96.2% | purity
+buffet | 1 | 96.4% | buffet
+intern | 1 | 96.6% | intern
+panini | 1 | 96.7% | panini
+hearse | 1 | 96.9% | hearse
+weasel | 1 | 97.1% | weasel
+chives | 1 | 97.3% | chives
+alaska | 1 | 97.5% | alaska
+berlin | 1 | 97.6% | berlin
+gravel | 1 | 97.8% | gravel
+sphinx | 1 | 98.0% | sphinx
+dexter | 1 | 98.2% | dexter
+quiche | 1 | 98.3% | quiche
+squeal | 1 | 98.5% | squeal
+hobbit | 1 | 98.7% | hobbit
+harbor | 1 | 98.9% | harbor
+casual | 1 | 99.1% | casual
+possum | 1 | 99.2% | possum
+canary | 1 | 99.4% | canary
+anubis | 1 | 99.6% | anubis
+welder | 1 | 99.8% | welder
+retail | 1 | 100.% | retail

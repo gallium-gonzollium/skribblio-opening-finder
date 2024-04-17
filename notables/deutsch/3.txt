@@ -1,0 +1,27 @@
+tar | 6 | 8.82% | tür, tau, tag, tal, bar, tor
+tut | 5 | 16.1% | hut, tot, gut, tuc, tnt
+ral | 4 | 22.0% | wal, ram, aal, rad
+aot | 4 | 27.9% | ast, alt, rot, axt
+zee | 4 | 33.8% | fee, tee, see, zeh
+bos | 4 | 39.7% | bus, box, ios, bob
+bmr | 3 | 44.1% | bär, bmx, bmw
+gau | 3 | 48.5% | gas, sau, gru
+han | 3 | 52.9% | van, pan, hai
+dhr | 3 | 57.3% | dhl, uhr, ohr
+uoo | 3 | 61.7% | zoo, uno, ufo
+rm  | 2 | 64.7% | arm, rom
+ki  | 2 | 67.6% | ski, kik
+keh | 2 | 70.5% | reh, kuh
+asb | 2 | 73.5% | ass, usb
+das | 2 | 76.4% | dax, dns
+huv | 2 | 79.4% | huf, suv
+zuß | 2 | 82.3% | zug, fuß
+mta | 2 | 85.2% | gta, mtv
+lkd | 2 | 88.2% | led, lkw
+ems | 2 | 91.1% | eis, emu
+app | 1 | 92.6% | app
+rgb | 1 | 94.1% | rgb
+co2 | 1 | 95.5% | co2
+dvd | 1 | 97.0% | dvd
+kfc | 1 | 98.5% | kfc
+fbi | 1 | 100.% | fbi

@@ -1,0 +1,377 @@
+schweim | 4 | 0.91% | schweiz, schwein, schleim, schweiß
+schwerz | 3 | 1.59% | schwert, schwarz, schmerz
+schwacm | 3 | 2.28% | schwach, schwarm, schwamm
+slitzer | 3 | 2.96% | glitzer, spitzer, blitzer
+menster | 3 | 3.65% | monster, fenster, meister
+wauchen | 3 | 4.33% | waschen, tauchen, rauchen
+brinnen | 3 | 5.02% | brennen, brunnen, drinnen
+spielel | 3 | 5.70% | spielen, spiegel, spieler
+srudel  | 2 | 6.16% | sprudel, strudel
+spanen  | 2 | 6.62% | spannen, spanien
+kratze  | 2 | 7.07% | kratzer, kratzen
+machen  | 2 | 7.53% | märchen, mädchen
+verand  | 2 | 7.99% | veranda, verband
+serben  | 2 | 8.44% | sterben, serbien
+geicht  | 2 | 8.90% | gedicht, gesicht
+renter  | 2 | 9.36% | rentier, rentner
+rechen  | 2 | 9.81% | rechnen, riechen
+patrose | 2 | 10.2% | patrone, matrose
+draulen | 2 | 10.7% | draußen, kraulen
+pfeifer | 2 | 11.1% | pfeffer, pfeifen
+trinsen | 2 | 11.6% | trinken, grinsen
+korsche | 2 | 12.1% | kirsche, porsche
+klicgen | 2 | 12.5% | klingen, klicken
+schwank | 2 | 13.0% | schrank, schwanz
+lipette | 2 | 13.4% | limette, pipette
+rochter | 2 | 13.9% | tochter, richter
+brucken | 2 | 14.3% | brocken, drücken
+banbier | 2 | 14.8% | barbier, bankier
+tibelle | 2 | 15.2% | libelle, tabelle
+trauben | 2 | 15.7% | träumen, trauben
+samsuag | 2 | 16.2% | samsung, samstag
+knochel | 2 | 16.6% | knochen, knöchel
+grullen | 2 | 17.1% | brüllen, grillen
+protent | 2 | 17.5% | protest, prozent
+fustung | 2 | 18.0% | festung, rüstung
+serwolf | 2 | 18.4% | seewolf, werwolf
+korelle | 2 | 18.9% | koralle, forelle
+floridt | 2 | 19.4% | florida, florist
+freitad | 2 | 19.8% | freitag, freibad
+himster | 2 | 20.3% | hamster, hipster
+friegen | 2 | 20.7% | fliegen, frieden
+arterix | 2 | 21.2% | arterie, asterix
+telekon | 2 | 21.6% | telekom, telefon
+heitung | 2 | 22.1% | zeitung, heizung
+ferreri | 2 | 22.6% | ferrari, ferrero
+walnoss | 2 | 23.0% | walnuss, walross
+smelett | 2 | 23.5% | skelett, omelett
+gigarre | 2 | 23.9% | gitarre, zigarre
+torpado | 2 | 24.4% | tornado, torpedo
+gußball | 2 | 24.8% | gumball, fußball
+bablett | 2 | 25.3% | tablett, ballett
+pflanme | 2 | 25.7% | pflanze, pflaume
+wachsen | 1 | 26.0% | wachsen
+spritze | 1 | 26.2% | spritze
+schacht | 1 | 26.4% | schacht
+moskito | 1 | 26.7% | moskito
+marimba | 1 | 26.9% | marimba
+agypten | 1 | 27.1% | ägypten
+axolotl | 1 | 27.3% | axolotl
+dynamit | 1 | 27.6% | dynamit
+student | 1 | 27.8% | student
+lacheln | 1 | 28.0% | lächeln
+popcorn | 1 | 28.3% | popcorn
+vorhang | 1 | 28.5% | vorhang
+urknall | 1 | 28.7% | urknall
+youtube | 1 | 28.9% | youtube
+positiv | 1 | 29.2% | positiv
+gartner | 1 | 29.4% | gärtner
+corrida | 1 | 29.6% | corrida
+billard | 1 | 29.9% | billard
+fußende | 1 | 30.1% | fußende
+bowling | 1 | 30.3% | bowling
+chirurg | 1 | 30.5% | chirurg
+grizzly | 1 | 30.8% | grizzly
+komiker | 1 | 31.0% | komiker
+anzeige | 1 | 31.2% | anzeige
+pistole | 1 | 31.5% | pistole
+funkeln | 1 | 31.7% | funkeln
+muschel | 1 | 31.9% | muschel
+tourist | 1 | 32.1% | tourist
+gorilla | 1 | 32.4% | gorilla
+doritos | 1 | 32.6% | doritos
+ketchup | 1 | 32.8% | ketchup
+babyfon | 1 | 33.1% | babyfon
+umarmen | 1 | 33.3% | umarmen
+hortest | 1 | 33.5% | hörtest
+ohrwurm | 1 | 33.7% | ohrwurm
+skilift | 1 | 34.0% | skilift
+saxofon | 1 | 34.2% | saxofon
+bugatti | 1 | 34.4% | bugatti
+quadrat | 1 | 34.7% | quadrat
+auspuff | 1 | 34.9% | auspuff
+bitcoin | 1 | 35.1% | bitcoin
+wildnis | 1 | 35.3% | wildnis
+sekunde | 1 | 35.6% | sekunde
+peugeot | 1 | 35.8% | peugeot
+dessert | 1 | 36.0% | dessert
+angebot | 1 | 36.3% | angebot
+kitzeln | 1 | 36.5% | kitzeln
+hashtag | 1 | 36.7% | hashtag
+burrito | 1 | 36.9% | burrito
+pokemon | 1 | 37.2% | pokemon
+trainer | 1 | 37.4% | trainer
+venedig | 1 | 37.6% | venedig
+belgien | 1 | 37.8% | belgien
+italien | 1 | 38.1% | italien
+komodie | 1 | 38.3% | komödie
+giraffe | 1 | 38.5% | giraffe
+sixpack | 1 | 38.8% | sixpack
+cockpit | 1 | 39.0% | cockpit
+kellner | 1 | 39.2% | kellner
+gebaude | 1 | 39.4% | gebäude
+kanguru | 1 | 39.7% | känguru
+spucken | 1 | 39.9% | spucken
+pelikan | 1 | 40.1% | pelikan
+karpfen | 1 | 40.4% | karpfen
+alkohol | 1 | 40.6% | alkohol
+lachgas | 1 | 40.8% | lachgas
+litschi | 1 | 41.0% | litschi
+veganer | 1 | 41.3% | veganer
+eisberg | 1 | 41.5% | eisberg
+affchen | 1 | 41.7% | äffchen
+erdnuss | 1 | 42.0% | erdnuss
+kolibri | 1 | 42.2% | kolibri
+maibaum | 1 | 42.4% | maibaum
+aquator | 1 | 42.6% | äquator
+werbung | 1 | 42.9% | werbung
+zwiebel | 1 | 43.1% | zwiebel
+sanduhr | 1 | 43.3% | sanduhr
+nashorn | 1 | 43.6% | nashorn
+barcode | 1 | 43.8% | barcode
+seetang | 1 | 44.0% | seetang
+avocado | 1 | 44.2% | avocado
+armband | 1 | 44.5% | armband
+granate | 1 | 44.7% | granate
+pastete | 1 | 44.9% | pastete
+windows | 1 | 45.2% | windows
+looping | 1 | 45.4% | looping
+geologe | 1 | 45.6% | geologe
+parkuhr | 1 | 45.8% | parkuhr
+eiszeit | 1 | 46.1% | eiszeit
+leopard | 1 | 46.3% | leopard
+pinguin | 1 | 46.5% | pinguin
+airpods | 1 | 46.8% | airpods
+beruhmt | 1 | 47.0% | berühmt
+panther | 1 | 47.2% | panther
+okarina | 1 | 47.4% | okarina
+trommel | 1 | 47.7% | trommel
+kapitan | 1 | 47.9% | kapitän
+harpune | 1 | 48.1% | harpune
+violine | 1 | 48.4% | violine
+pudding | 1 | 48.6% | pudding
+medizin | 1 | 48.8% | medizin
+savanne | 1 | 49.0% | savanne
+traktor | 1 | 49.3% | traktor
+graphit | 1 | 49.5% | graphit
+dreieck | 1 | 49.7% | dreieck
+katalog | 1 | 50.0% | katalog
+monokel | 1 | 50.2% | monokel
+zahnfee | 1 | 50.4% | zahnfee
+aquaman | 1 | 50.6% | aquaman
+vlogger | 1 | 50.9% | vlogger
+hubraum | 1 | 51.1% | hubraum
+renault | 1 | 51.3% | renault
+abheben | 1 | 51.5% | abheben
+rulpsen | 1 | 51.8% | rülpsen
+rasseln | 1 | 52.0% | rasseln
+android | 1 | 52.2% | android
+vitamin | 1 | 52.5% | vitamin
+muskete | 1 | 52.7% | muskete
+patriot | 1 | 52.9% | patriot
+frisbee | 1 | 53.1% | frisbee
+piranha | 1 | 53.4% | piranha
+arielle | 1 | 53.6% | arielle
+gandalf | 1 | 53.8% | gandalf
+spotify | 1 | 54.1% | spotify
+smaragd | 1 | 54.3% | smaragd
+spender | 1 | 54.5% | spender
+stopsel | 1 | 54.7% | stöpsel
+rettich | 1 | 55.0% | rettich
+dracula | 1 | 55.2% | dracula
+twitter | 1 | 55.4% | twitter
+doppelt | 1 | 55.7% | doppelt
+schmied | 1 | 55.9% | schmied
+nahrung | 1 | 56.1% | nahrung
+diamant | 1 | 56.3% | diamant
+prufung | 1 | 56.6% | prüfung
+pflugen | 1 | 56.8% | pflügen
+bahnhof | 1 | 57.0% | bahnhof
+tollwut | 1 | 57.3% | tollwut
+england | 1 | 57.5% | england
+atomuhr | 1 | 57.7% | atomuhr
+oktopus | 1 | 57.9% | oktopus
+fleisch | 1 | 58.2% | fleisch
+verkehr | 1 | 58.4% | verkehr
+pompeji | 1 | 58.6% | pompeji
+elefant | 1 | 58.9% | elefant
+alphorn | 1 | 59.1% | alphorn
+papagei | 1 | 59.3% | papagei
+fallout | 1 | 59.5% | fallout
+pikachu | 1 | 59.8% | pikachu
+roboter | 1 | 60.0% | roboter
+maßstab | 1 | 60.2% | maßstab
+digital | 1 | 60.5% | digital
+garnele | 1 | 60.7% | garnele
+murmeln | 1 | 60.9% | murmeln
+militar | 1 | 61.1% | militär
+konzert | 1 | 61.4% | konzert
+cartoon | 1 | 61.6% | cartoon
+bekifft | 1 | 61.8% | bekifft
+joghurt | 1 | 62.1% | joghurt
+verlies | 1 | 62.3% | verlies
+grabmal | 1 | 62.5% | grabmal
+familie | 1 | 62.7% | familie
+bigfoot | 1 | 63.0% | bigfoot
+posaune | 1 | 63.2% | posaune
+lakritz | 1 | 63.4% | lakritz
+hydrant | 1 | 63.6% | hydrant
+steuern | 1 | 63.9% | steuern
+googeln | 1 | 64.1% | googeln
+nirwana | 1 | 64.3% | nirwana
+laterne | 1 | 64.6% | laterne
+flussig | 1 | 64.8% | flüssig
+thymian | 1 | 65.0% | thymian
+klebrig | 1 | 65.2% | klebrig
+parasit | 1 | 65.5% | parasit
+klavier | 1 | 65.7% | klavier
+niedrig | 1 | 65.9% | niedrig
+ravioli | 1 | 66.2% | ravioli
+machete | 1 | 66.4% | machete
+abgrund | 1 | 66.6% | abgrund
+cricket | 1 | 66.8% | cricket
+xylofon | 1 | 67.1% | xylofon
+konigin | 1 | 67.3% | königin
+fischer | 1 | 67.5% | fischer
+erroten | 1 | 67.8% | erröten
+baklava | 1 | 68.0% | baklava
+nordpol | 1 | 68.2% | nordpol
+krieger | 1 | 68.4% | krieger
+paprika | 1 | 68.7% | paprika
+getrank | 1 | 68.9% | getränk
+macbook | 1 | 69.1% | macbook
+discord | 1 | 69.4% | discord
+friseur | 1 | 69.6% | friseur
+nordsee | 1 | 69.8% | nordsee
+parcour | 1 | 70.0% | parcour
+aladdin | 1 | 70.3% | aladdin
+wackeln | 1 | 70.5% | wackeln
+waluigi | 1 | 70.7% | waluigi
+hebamme | 1 | 71.0% | hebamme
+skyline | 1 | 71.2% | skyline
+distanz | 1 | 71.4% | distanz
+sonntag | 1 | 71.6% | sonntag
+viertel | 1 | 71.9% | viertel
+somalia | 1 | 72.1% | somalia
+brunett | 1 | 72.3% | brünett
+scheune | 1 | 72.6% | scheune
+perucke | 1 | 72.8% | perücke
+kniffel | 1 | 73.0% | kniffel
+strumpf | 1 | 73.2% | strumpf
+negativ | 1 | 73.5% | negativ
+langsam | 1 | 73.7% | langsam
+bleiche | 1 | 73.9% | bleiche
+oberarm | 1 | 74.2% | oberarm
+tsunami | 1 | 74.4% | tsunami
+sabbern | 1 | 74.6% | sabbern
+magazin | 1 | 74.8% | magazin
+schadel | 1 | 75.1% | schädel
+ehefrau | 1 | 75.3% | ehefrau
+einhorn | 1 | 75.5% | einhorn
+narkose | 1 | 75.7% | narkose
+sprache | 1 | 76.0% | sprache
+topfern | 1 | 76.2% | töpfern
+megafon | 1 | 76.4% | megafon
+schauen | 1 | 76.7% | schauen
+beatmen | 1 | 76.9% | beatmen
+amerika | 1 | 77.1% | amerika
+ukraine | 1 | 77.3% | ukraine
+quartal | 1 | 77.6% | quartal
+firefox | 1 | 77.8% | firefox
+pieksen | 1 | 78.0% | pieksen
+karotte | 1 | 78.3% | karotte
+karaoke | 1 | 78.5% | karaoke
+brownie | 1 | 78.7% | brownie
+flasche | 1 | 78.9% | flasche
+nutella | 1 | 79.2% | nutella
+marokko | 1 | 79.4% | marokko
+samurai | 1 | 79.6% | samurai
+vatikan | 1 | 79.9% | vatikan
+schnell | 1 | 80.1% | schnell
+ehemann | 1 | 80.3% | ehemann
+braille | 1 | 80.5% | braille
+seeigel | 1 | 80.8% | seeigel
+trophae | 1 | 81.0% | trophäe
+picasso | 1 | 81.2% | picasso
+bargeld | 1 | 81.5% | bargeld
+seerose | 1 | 81.7% | seerose
+pegasus | 1 | 81.9% | pegasus
+gourmet | 1 | 82.1% | gourmet
+kendama | 1 | 82.4% | kendama
+dreckig | 1 | 82.6% | dreckig
+origami | 1 | 82.8% | origami
+lasagne | 1 | 83.1% | lasagne
+creeper | 1 | 83.3% | creeper
+falltur | 1 | 83.5% | falltür
+galaxie | 1 | 83.7% | galaxie
+mauspad | 1 | 84.0% | mauspad
+windrad | 1 | 84.2% | windrad
+diabolo | 1 | 84.4% | diabolo
+zentaur | 1 | 84.7% | zentaur
+konsole | 1 | 84.9% | konsole
+wohnung | 1 | 85.1% | wohnung
+whiskey | 1 | 85.3% | whiskey
+falafel | 1 | 85.6% | falafel
+vietnam | 1 | 85.8% | vietnam
+jupiter | 1 | 86.0% | jupiter
+titanic | 1 | 86.3% | titanic
+teppich | 1 | 86.5% | teppich
+cupcake | 1 | 86.7% | cupcake
+tropfen | 1 | 86.9% | tropfen
+lexikon | 1 | 87.2% | lexikon
+vanille | 1 | 87.4% | vanille
+spirale | 1 | 87.6% | spirale
+truffel | 1 | 87.8% | trüffel
+seelowe | 1 | 88.1% | seelöwe
+scholle | 1 | 88.3% | scholle
+zeugnis | 1 | 88.5% | zeugnis
+sheriff | 1 | 88.8% | sheriff
+kompass | 1 | 89.0% | kompass
+uniform | 1 | 89.2% | uniform
+phoenix | 1 | 89.4% | phoenix
+beatbox | 1 | 89.7% | beatbox
+rutsche | 1 | 89.9% | rutsche
+ohrring | 1 | 90.1% | ohrring
+praline | 1 | 90.4% | praline
+nachbar | 1 | 90.6% | nachbar
+kuckuck | 1 | 90.8% | kuckuck
+polizei | 1 | 91.0% | polizei
+hamburg | 1 | 91.3% | hamburg
+kranich | 1 | 91.5% | kranich
+fassade | 1 | 91.7% | fassade
+shampoo | 1 | 92.0% | shampoo
+camping | 1 | 92.2% | camping
+stempel | 1 | 92.4% | stempel
+eintopf | 1 | 92.6% | eintopf
+flipper | 1 | 92.9% | flipper
+erdkern | 1 | 93.1% | erdkern
+netflix | 1 | 93.3% | netflix
+maßband | 1 | 93.6% | maßband
+ukulele | 1 | 93.8% | ukulele
+traurig | 1 | 94.0% | traurig
+plunder | 1 | 94.2% | plunder
+fahrrad | 1 | 94.5% | fahrrad
+achteck | 1 | 94.7% | achteck
+sehtest | 1 | 94.9% | sehtest
+stadion | 1 | 95.2% | stadion
+seehund | 1 | 95.4% | seehund
+keuchen | 1 | 95.6% | keuchen
+toaster | 1 | 95.8% | toaster
+stiefel | 1 | 96.1% | stiefel
+scanner | 1 | 96.3% | scanner
+stechen | 1 | 96.5% | stechen
+fechten | 1 | 96.8% | fechten
+luftung | 1 | 97.0% | lüftung
+undicht | 1 | 97.2% | undicht
+prallen | 1 | 97.4% | prallen
+sperren | 1 | 97.7% | sperren
+dreirad | 1 | 97.9% | dreirad
+drucker | 1 | 98.1% | drucker
+bremsen | 1 | 98.4% | bremsen
+spargel | 1 | 98.6% | spargel
+fritten | 1 | 98.8% | fritten
+gazelle | 1 | 99.0% | gazelle
+zitrone | 1 | 99.3% | zitrone
+lametta | 1 | 99.5% | lametta
+platzen | 1 | 99.7% | platzen
+treiben | 1 | 100.% | treiben

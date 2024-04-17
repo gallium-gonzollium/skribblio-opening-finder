@@ -1,0 +1,125 @@
+mand | 8 | 2.66% | mond, sand, mann, mund, hand, wand, land, band
+baut | 6 | 4.66% | baum, maut, haut, bart, laut, blut
+harn | 6 | 6.66% | harz, garn, farn, hart, horn, hahn
+gran | 5 | 8.33% | grab, iran, kran, gras, grün
+nass | 5 | 10.0% | fass, nase, bass, nuss, nasa
+helt | 5 | 11.6% | hell, zelt, welt, held, helm
+mopf | 5 | 13.3% | topf, mopp, kopf, zopf, mops
+dorm | 5 | 15.0% | dora, dorf, darm, dorn, form
+bose | 5 | 16.6% | hose, rose, boss, dose, boje
+kink | 5 | 18.3% | kind, pink, kinn, kino, link
+obe  | 4 | 19.6% | oben, oboe, ober, robe
+maus | 4 | 21.0% | maus, mais, mars, haus
+damm | 4 | 22.3% | kamm, dame, damm, lamm
+geld | 4 | 23.6% | feld, gelb, gold, geld
+kahl | 4 | 25.0% | zahl, kohl, wahl, kahl
+elde | 4 | 26.3% | ende, erde, elle, elfe
+lock | 4 | 27.6% | loch, bock, leck, rock
+gank | 4 | 28.9% | bank, tank, gang, gans
+rupe | 4 | 30.3% | ruhe, hupe, lupe, rune
+ber  | 3 | 31.3% | bier, berg, eber
+olf  | 3 | 32.3% | wolf, golf, olaf
+ech  | 3 | 33.3% | elch, echo, pech
+hohn | 3 | 34.3% | mohn, sohn, huhn
+worm | 3 | 35.3% | wurm, warm, wort
+oeer | 3 | 36.3% | meer, leer, oper
+holl | 3 | 37.3% | zoll, holz, voll
+kase | 3 | 38.3% | hase, oase, käse
+ahor | 3 | 39.3% | chor, thor, amor
+weil | 3 | 40.3% | seil, weiß, wein
+silz | 3 | 41.3% | salz, pilz, silo
+keis | 3 | 42.3% | keim, keks, reis
+mune | 3 | 43.3% | müde, mine, düne
+tuma | 3 | 44.3% | puma, tuba, zuma
+eumo | 3 | 45.3% | elmo, sumo, euro
+diel | 3 | 46.3% | dieb, ziel, dill
+stax | 3 | 47.3% | stab, styx, stau
+liva | 3 | 48.3% | lava, diva, lila
+fift | 3 | 49.3% | gift, fiat, fifa
+kolt | 3 | 50.3% | kilt, köln, kalt
+audo | 3 | 51.3% | judo, auto, audi
+flot | 3 | 52.3% | floß, floh, flut
+beot | 3 | 53.3% | bett, brot, boot
+yola | 3 | 54.3% | yoga, yoda, cola
+euke | 3 | 55.3% | ecke, luke, eule
+towe | 3 | 56.3% | löwe, möwe, töne
+safg | 3 | 57.3% | saft, safe, sarg
+nerz | 3 | 58.3% | nerd, netz, herz
+ene  | 2 | 59.0% | ente, vene
+fau  | 2 | 59.6% | pfau, frau
+nie  | 2 | 60.3% | knie, nike
+lgo  | 2 | 61.0% | logo, lego
+zan  | 2 | 61.6% | zaun, zahn
+rin  | 2 | 62.3% | urin, ring
+ick  | 2 | 63.0% | rick, dick
+ald  | 2 | 63.6% | aldi, wald
+pad  | 2 | 64.3% | pfad, ipad
+atm  | 2 | 65.0% | atom, atem
+hind | 2 | 65.6% | hund, wind
+felm | 2 | 66.3% | fell, film
+open | 2 | 67.0% | ofen, opel
+boch | 2 | 67.6% | koch, buch
+taum | 2 | 68.3% | taub, raum
+durn | 2 | 69.0% | dürr, dünn
+gung | 2 | 69.6% | gong, jung
+auba | 2 | 70.3% | abba, kuba
+tier | 2 | 71.0% | gier, tief
+hall | 2 | 71.6% | ball, hals
+forb | 2 | 72.3% | ford, korb
+aune | 2 | 73.0% | akne, auge
+efer | 2 | 73.6% | ufer, efeu
+lada | 2 | 74.3% | lama, lady
+gias | 2 | 75.0% | gips, glas
+teiß | 2 | 75.6% | heiß, teig
+kurm | 2 | 76.3% | kurz, turm
+orea | 2 | 77.0% | orca, oreo
+neme | 2 | 77.6% | meme, nemo
+laki | 2 | 78.3% | loki, maki
+yedi | 2 | 79.0% | yeti, jedi
+moom | 2 | 79.6% | moos, zoom
+tuad | 2 | 80.3% | toad, quad
+kolo | 2 | 81.0% | koto, polo
+ikel | 2 | 81.6% | ikea, igel
+soge | 2 | 82.3% | säge, soße
+gltt | 2 | 83.0% | gott, glut
+next | 2 | 83.6% | nest, text
+bavy | 2 | 84.3% | baby, navy
+daco | 2 | 85.0% | taco, dach
+tapi | 2 | 85.6% | taxi, tipi
+parr | 2 | 86.3% | narr, park
+chaf | 2 | 87.0% | chef, chat
+fonn | 2 | 87.6% | finn, föhn
+grom | 2 | 88.3% | gnom, groß
+sitg | 2 | 89.0% | sith, sieg
+oeal | 2 | 89.6% | oval, real
+arzt | 1 | 90.0% | arzt
+blau | 1 | 90.3% | blau
+esel | 1 | 90.6% | esel
+buro | 1 | 91.0% | büro
+frei | 1 | 91.3% | frei
+peru | 1 | 91.6% | peru
+affe | 1 | 92.0% | affe
+adhs | 1 | 92.3% | adhs
+kanu | 1 | 92.6% | kanu
+hulk | 1 | 93.0% | hulk
+rube | 1 | 93.3% | rübe
+hexe | 1 | 93.6% | hexe
+kiwi | 1 | 94.0% | kiwi
+biss | 1 | 94.3% | biss
+rohr | 1 | 94.6% | rohr
+zeus | 1 | 95.0% | zeus
+iris | 1 | 95.3% | iris
+elsa | 1 | 95.6% | elsa
+lidl | 1 | 96.0% | lidl
+odin | 1 | 96.3% | odin
+pups | 1 | 96.6% | pups
+jeep | 1 | 97.0% | jeep
+diat | 1 | 97.3% | diät
+lehm | 1 | 97.6% | lehm
+pony | 1 | 98.0% | pony
+senf | 1 | 98.3% | senf
+jazz | 1 | 98.6% | jazz
+idee | 1 | 99.0% | idee
+tutu | 1 | 99.3% | tutu
+krug | 1 | 99.6% | krug
+xbox | 1 | 100.% | xbox

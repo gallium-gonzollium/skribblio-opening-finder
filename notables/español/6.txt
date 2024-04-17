@@ -1,0 +1,269 @@
+puerte | 5 | 1.42% | puerto, puerta, puente, suerte, fuerte
+aleta  | 3 | 2.27% | atleta, maleta, paleta
+cuerto | 3 | 3.12% | cuervo, cuerno, muerto
+ginero | 3 | 3.97% | dinero, género, minero
+espasa | 3 | 4.82% | espada, esposa, españa
+tiedra | 3 | 5.68% | piedra, hiedra, tierra
+arillo | 3 | 6.53% | anillo, grillo, brillo
+sillar | 3 | 7.38% | billar, silbar, sellar
+comina | 3 | 8.23% | cocina, comida, colina
+aocion | 3 | 9.09% | poción, loción, acción
+barril | 3 | 9.94% | barril, barrio, carril
+regano | 3 | 10.7% | regalo, regazo, rebaño
+camita | 3 | 11.6% | cañita, camisa, ramita
+troneo | 3 | 12.5% | tronco, trofeo, trineo
+capido | 3 | 13.3% | cálido, rápido, cupido
+muele  | 2 | 13.9% | mueble, muelle
+corre  | 2 | 14.4% | correa, correr
+caino  | 2 | 15.0% | camino, casino
+grita  | 2 | 15.6% | gritar, grieta
+iolin  | 2 | 16.1% | piolín, violín
+espoba | 2 | 16.7% | escoba, espora
+duente | 2 | 17.3% | diente, duende
+palota | 2 | 17.8% | paloma, pelota
+penear | 2 | 18.4% | menear, pensar
+nuscar | 2 | 19.0% | buscar, nascar
+mastel | 2 | 19.6% | pastel, mantel
+santre | 2 | 20.1% | sastre, sangre
+cvispa | 2 | 20.7% | chispa, avispa
+portol | 2 | 21.3% | portal, portón
+hambro | 2 | 21.8% | hambre, hombro
+carion | 2 | 22.4% | carbón, camión
+pepito | 2 | 23.0% | pepita, pepino
+vocino | 2 | 23.5% | vecino, tocino
+cactel | 2 | 24.1% | cóctel, cartel
+careza | 2 | 24.7% | cabeza, cereza
+banura | 2 | 25.2% | basura, bañera
+kanana | 2 | 25.8% | katana, mañana
+peluda | 2 | 26.4% | peludo, peluca
+moxico | 2 | 26.9% | tóxico, méxico
+espojo | 2 | 27.5% | esposo, espejo
+gramar | 2 | 28.1% | bramar, grabar
+jabear | 2 | 28.6% | jadear, babear
+santar | 2 | 29.2% | cantar, saltar
+parata | 2 | 29.8% | pirata, patata
+corche | 2 | 30.3% | porche, corcho
+coltar | 2 | 30.9% | cortar, collar
+tunque | 2 | 31.5% | tanque, yunque
+melero | 2 | 32.1% | mesero, velero
+titera | 2 | 32.6% | tetera, tijera
+puello | 2 | 33.2% | pueblo, cuello
+cragon | 2 | 33.8% | crayón, dragón
+harida | 2 | 34.3% | herida, harina
+cagana | 2 | 34.9% | cagada, cabaña
+vereno | 2 | 35.5% | veneno, verano
+gaucho | 2 | 36.0% | gancho, caucho
+abuera | 2 | 36.6% | abuela, afuera
+salcon | 2 | 37.2% | balcón, salmón
+capiar | 2 | 37.7% | caviar, copiar
+coheta | 2 | 38.3% | cometa, cohete
+sorena | 2 | 38.9% | morena, sirena
+sketer | 2 | 39.4% | suéter, skater
+viston | 2 | 40.0% | visión, pistón
+tijido | 2 | 40.6% | tímido, tejido
+cierro | 2 | 41.1% | hierro, ciervo
+hocker | 2 | 41.7% | hacker, hockey
+rabana | 2 | 42.3% | sábana, rábano
+bailar | 1 | 42.6% | bailar
+trueno | 1 | 42.8% | trueno
+reddit | 1 | 43.1% | reddit
+garaje | 1 | 43.4% | garaje
+europa | 1 | 43.7% | europa
+grecia | 1 | 44.0% | grecia
+seguro | 1 | 44.3% | seguro
+segway | 1 | 44.6% | segway
+cupula | 1 | 44.8% | cúpula
+ciborg | 1 | 45.1% | cíborg
+nachos | 1 | 45.4% | nachos
+trampa | 1 | 45.7% | trampa
+flauta | 1 | 46.0% | flauta
+estufa | 1 | 46.3% | estufa
+pelaje | 1 | 46.5% | pelaje
+google | 1 | 46.8% | google
+champu | 1 | 47.1% | champú
+adulto | 1 | 47.4% | adulto
+armada | 1 | 47.7% | armada
+nutria | 1 | 48.0% | nutria
+hippie | 1 | 48.2% | hippie
+vidrio | 1 | 48.5% | vidrio
+safari | 1 | 48.8% | safari
+padres | 1 | 49.1% | padres
+orador | 1 | 49.4% | orador
+gatito | 1 | 49.7% | gatito
+hobbit | 1 | 50.0% | hobbit
+minion | 1 | 50.2% | minion
+anubis | 1 | 50.5% | anubis
+chrome | 1 | 50.8% | chrome
+dexter | 1 | 51.1% | dexter
+abrigo | 1 | 51.4% | abrigo
+blanco | 1 | 51.7% | blanco
+kraken | 1 | 51.9% | kraken
+lluvia | 1 | 52.2% | lluvia
+novela | 1 | 52.5% | novela
+obelix | 1 | 52.8% | obélix
+fiesta | 1 | 53.1% | fiesta
+gotear | 1 | 53.4% | gotear
+vestir | 1 | 53.6% | vestir
+titulo | 1 | 53.9% | título
+picnic | 1 | 54.2% | picnic
+medusa | 1 | 54.5% | medusa
+boveda | 1 | 54.8% | bóveda
+jardin | 1 | 55.1% | jardín
+oceano | 1 | 55.3% | océano
+lentes | 1 | 55.6% | lentes
+antena | 1 | 55.9% | antena
+paypal | 1 | 56.2% | paypal
+bosque | 1 | 56.5% | bosque
+abismo | 1 | 56.8% | abismo
+azotea | 1 | 57.1% | azotea
+niquel | 1 | 57.3% | níquel
+reptil | 1 | 57.6% | reptil
+narval | 1 | 57.9% | narval
+filtro | 1 | 58.2% | filtro
+triste | 1 | 58.5% | triste
+tambor | 1 | 58.8% | tambor
+chofer | 1 | 59.0% | chofer
+charco | 1 | 59.3% | charco
+vacuna | 1 | 59.6% | vacuna
+sarten | 1 | 59.9% | sartén
+boleto | 1 | 60.2% | boleto
+dormir | 1 | 60.5% | dormir
+frasco | 1 | 60.7% | frasco
+aleron | 1 | 61.0% | alerón
+cactus | 1 | 61.3% | cactus
+timbal | 1 | 61.6% | timbal
+caiman | 1 | 61.9% | caimán
+riesgo | 1 | 62.2% | riesgo
+doctor | 1 | 62.5% | doctor
+tomate | 1 | 62.7% | tomate
+flecha | 1 | 63.0% | flecha
+rapero | 1 | 63.3% | rapero
+eminem | 1 | 63.6% | eminem
+tarzan | 1 | 63.9% | tarzán
+hervir | 1 | 64.2% | hervir
+novato | 1 | 64.4% | novato
+modelo | 1 | 64.7% | modelo
+acunar | 1 | 65.0% | acuñar
+rosado | 1 | 65.3% | rosado
+delfin | 1 | 65.6% | delfín
+sensei | 1 | 65.9% | sensei
+laptop | 1 | 66.1% | laptop
+volcan | 1 | 66.4% | volcán
+pajaro | 1 | 66.7% | pájaro
+karate | 1 | 67.0% | kárate
+examen | 1 | 67.3% | examen
+payaso | 1 | 67.6% | payaso
+dardos | 1 | 67.8% | dardos
+buitre | 1 | 68.1% | buitre
+trebol | 1 | 68.4% | trébol
+grunon | 1 | 68.7% | gruñón
+germen | 1 | 69.0% | germen
+gusano | 1 | 69.3% | gusano
+israel | 1 | 69.6% | israel
+abedul | 1 | 69.8% | abedul
+latigo | 1 | 70.1% | látigo
+batman | 1 | 70.4% | batman
+marmol | 1 | 70.7% | mármol
+envase | 1 | 71.0% | envase
+mozart | 1 | 71.3% | mozart
+cesped | 1 | 71.5% | césped
+biblia | 1 | 71.8% | biblia
+egipto | 1 | 72.1% | egipto
+alarma | 1 | 72.4% | alarma
+pagina | 1 | 72.7% | página
+orbita | 1 | 73.0% | órbita
+adidas | 1 | 73.2% | adidas
+granja | 1 | 73.5% | granja
+famoso | 1 | 73.8% | famoso
+cuadro | 1 | 74.1% | cuadro
+geiser | 1 | 74.4% | géiser
+niebla | 1 | 74.7% | niebla
+frijol | 1 | 75.0% | frijol
+comodo | 1 | 75.2% | cómodo
+manati | 1 | 75.5% | manatí
+petalo | 1 | 75.8% | pétalo
+jabali | 1 | 76.1% | jabalí
+zapato | 1 | 76.4% | zapato
+arruga | 1 | 76.7% | arruga
+idioma | 1 | 76.9% | idioma
+azucar | 1 | 77.2% | azúcar
+estres | 1 | 77.5% | estrés
+alpaca | 1 | 77.8% | alpaca
+airbag | 1 | 78.1% | airbag
+juncos | 1 | 78.4% | juncos
+bigote | 1 | 78.6% | bigote
+quokka | 1 | 78.9% | quokka
+labios | 1 | 79.2% | labios
+muneca | 1 | 79.5% | muñeca
+iphone | 1 | 79.8% | iphone
+remoto | 1 | 80.1% | remoto
+tetris | 1 | 80.3% | tetris
+aceite | 1 | 80.6% | aceite
+lengua | 1 | 80.9% | lengua
+brasil | 1 | 81.2% | brasil
+bombon | 1 | 81.5% | bombón
+chicle | 1 | 81.8% | chicle
+pincel | 1 | 82.1% | pincel
+hamaca | 1 | 82.3% | hamaca
+popeye | 1 | 82.6% | popeye
+organo | 1 | 82.9% | órgano
+futbol | 1 | 83.2% | fútbol
+matraz | 1 | 83.5% | matraz
+saliva | 1 | 83.8% | saliva
+nalgas | 1 | 84.0% | nalgas
+africa | 1 | 84.3% | áfrica
+italia | 1 | 84.6% | italia
+ascuas | 1 | 84.9% | ascuas
+prisma | 1 | 85.2% | prisma
+limpio | 1 | 85.5% | limpio
+gorila | 1 | 85.7% | gorila
+ballet | 1 | 86.0% | ballet
+sudoku | 1 | 86.3% | sudoku
+zigzag | 1 | 86.6% | zigzag
+amable | 1 | 86.9% | amable
+fogata | 1 | 87.2% | fogata
+aguila | 1 | 87.5% | águila
+sequia | 1 | 87.7% | sequía
+sotano | 1 | 88.0% | sótano
+ladron | 1 | 88.3% | ladrón
+toalla | 1 | 88.6% | toalla
+cuerda | 1 | 88.9% | cuerda
+maceta | 1 | 89.2% | maceta
+frente | 1 | 89.4% | frente
+bobina | 1 | 89.7% | bobina
+piloto | 1 | 90.0% | piloto
+molino | 1 | 90.3% | molino
+tampon | 1 | 90.6% | tampón
+pintar | 1 | 90.9% | pintar
+lapida | 1 | 91.1% | lápida
+ceniza | 1 | 91.4% | ceniza
+bronce | 1 | 91.7% | bronce
+carcel | 1 | 92.0% | cárcel
+craneo | 1 | 92.3% | cráneo
+pureza | 1 | 92.6% | pureza
+postre | 1 | 92.8% | postre
+helado | 1 | 93.1% | helado
+jirafa | 1 | 93.4% | jirafa
+tesoro | 1 | 93.7% | tesoro
+concha | 1 | 94.0% | concha
+sombra | 1 | 94.3% | sombra
+viento | 1 | 94.6% | viento
+cadena | 1 | 94.8% | cadena
+quitar | 1 | 95.1% | quitar
+papaya | 1 | 95.4% | papaya
+jaguar | 1 | 95.7% | jaguar
+pijama | 1 | 96.0% | pijama
+bazuca | 1 | 96.3% | bazuca
+tirita | 1 | 96.5% | tirita
+tienda | 1 | 96.8% | tienda
+pulmon | 1 | 97.1% | pulmón
+vereda | 1 | 97.4% | vereda
+parque | 1 | 97.7% | parque
+minuto | 1 | 98.0% | minuto
+lasana | 1 | 98.2% | lasaña
+castor | 1 | 98.5% | castor
+canada | 1 | 98.8% | canadá
+lanzar | 1 | 99.1% | lanzar
+guante | 1 | 99.4% | guante
+pecera | 1 | 99.7% | pecera
+coyote | 1 | 100.% | coyote

@@ -1,0 +1,389 @@
+teather | 4 | 0.89% | teacher, leather, feather, weather
+moaster | 3 | 1.57% | monster, toaster, coaster
+bottery | 3 | 2.24% | battery, lottery, pottery
+proteit | 3 | 2.92% | protest, protein, protect
+mausage | 2 | 3.37% | sausage, massage
+bandane | 2 | 3.82% | bandana, bandage
+worning | 2 | 4.26% | morning, warning
+plunber | 2 | 4.71% | plumber, plunger
+carbage | 2 | 5.16% | cabbage, garbage
+packaxe | 2 | 5.61% | package, pickaxe
+pedding | 2 | 6.06% | pudding, wedding
+airpodt | 2 | 6.51% | airport, airpods
+milman  | 2 | 6.96% | milkman, mailman
+vachine | 2 | 7.41% | machine, vaccine
+cricken | 2 | 7.86% | cricket, chicken
+fireflx | 2 | 8.31% | firefly, firefox
+fictory | 2 | 8.76% | factory, victory
+creezer | 2 | 9.21% | freezer, creeper
+whispey | 2 | 9.66% | whiskey, whisper
+patrict | 2 | 10.1% | patriot, patrick
+barrior | 2 | 10.5% | warrior, barrier
+sience  | 2 | 11.0% | science, silence
+unicorm | 2 | 11.4% | unicorn, uniform
+gandals | 2 | 11.9% | gandalf, sandals
+cuptain | 2 | 12.3% | curtain, captain
+sweaker | 2 | 12.8% | sweater, speaker
+sungeon | 2 | 13.2% | dungeon, surgeon
+wookout | 2 | 13.7% | workout, cookout
+elipse  | 2 | 14.1% | ellipse, eclipse
+ciscuit | 2 | 14.6% | biscuit, circuit
+tlitter | 2 | 15.0% | twitter, glitter
+robster | 2 | 15.5% | lobster, rooster
+allery  | 2 | 15.9% | allergy, gallery
+pitchen | 2 | 16.4% | pitcher, kitchen
+captule | 2 | 16.8% | capsule, capture
+slicker | 2 | 17.3% | sticker, flicker
+surnace | 2 | 17.7% | furnace, surface
+bajamas | 2 | 18.2% | bahamas, pajamas
+romanie | 2 | 18.6% | romance, romania
+tornedo | 2 | 19.1% | tornado, torpedo
+diverce | 2 | 19.5% | divorce, diverge
+villagn | 2 | 20.0% | villain, village
+cheetas | 2 | 20.4% | cheetah, cheetos
+beiling | 2 | 20.8% | beijing, ceiling
+compans | 2 | 21.3% | compass, company
+leading | 2 | 21.7% | heading, loading
+florisa | 2 | 22.2% | florist, florida
+carpoon | 2 | 22.6% | cartoon, harpoon
+himster | 2 | 23.1% | hamster, hipster
+boulcer | 2 | 23.5% | bouncer, boulder
+flogger | 2 | 24.0% | vlogger, frogger
+eyelash | 1 | 24.2% | eyelash
+mailbox | 1 | 24.4% | mailbox
+nuclear | 1 | 24.7% | nuclear
+tsunami | 1 | 24.9% | tsunami
+doritos | 1 | 25.1% | doritos
+mansion | 1 | 25.3% | mansion
+parents | 1 | 25.6% | parents
+shotgun | 1 | 25.8% | shotgun
+failure | 1 | 26.0% | failure
+emerald | 1 | 26.2% | emerald
+gumball | 1 | 26.5% | gumball
+vehicle | 1 | 26.7% | vehicle
+notepad | 1 | 26.9% | notepad
+lighter | 1 | 27.1% | lighter
+dessert | 1 | 27.4% | dessert
+cyclops | 1 | 27.6% | cyclops
+america | 1 | 27.8% | america
+perfume | 1 | 28.0% | perfume
+mascara | 1 | 28.3% | mascara
+penguin | 1 | 28.5% | penguin
+shampoo | 1 | 28.7% | shampoo
+sandbox | 1 | 28.9% | sandbox
+raccoon | 1 | 29.2% | raccoon
+octagon | 1 | 29.4% | octagon
+sunrise | 1 | 29.6% | sunrise
+swimmer | 1 | 29.8% | swimmer
+mrbeast | 1 | 30.1% | mrbeast
+toenail | 1 | 30.3% | toenail
+lantern | 1 | 30.5% | lantern
+library | 1 | 30.7% | library
+spotify | 1 | 31.0% | spotify
+cupcake | 1 | 31.2% | cupcake
+giraffe | 1 | 31.4% | giraffe
+gorilla | 1 | 31.6% | gorilla
+pancake | 1 | 31.9% | pancake
+pikachu | 1 | 32.1% | pikachu
+whistle | 1 | 32.3% | whistle
+coconut | 1 | 32.5% | coconut
+centaur | 1 | 32.8% | centaur
+lilypad | 1 | 33.0% | lilypad
+samurai | 1 | 33.2% | samurai
+hexagon | 1 | 33.4% | hexagon
+balloon | 1 | 33.7% | balloon
+haircut | 1 | 33.9% | haircut
+seafood | 1 | 34.1% | seafood
+mustard | 1 | 34.3% | mustard
+burrito | 1 | 34.6% | burrito
+hangman | 1 | 34.8% | hangman
+britain | 1 | 35.0% | britain
+brownie | 1 | 35.2% | brownie
+android | 1 | 35.5% | android
+nutella | 1 | 35.7% | nutella
+alcohol | 1 | 35.9% | alcohol
+discord | 1 | 36.1% | discord
+shoebox | 1 | 36.4% | shoebox
+iceberg | 1 | 36.6% | iceberg
+tractor | 1 | 36.8% | tractor
+camping | 1 | 37.0% | camping
+charger | 1 | 37.3% | charger
+manhole | 1 | 37.5% | manhole
+caveman | 1 | 37.7% | caveman
+bowling | 1 | 37.9% | bowling
+windows | 1 | 38.2% | windows
+missile | 1 | 38.4% | missile
+toddler | 1 | 38.6% | toddler
+country | 1 | 38.8% | country
+grenade | 1 | 39.1% | grenade
+antenna | 1 | 39.3% | antenna
+eyebrow | 1 | 39.5% | eyebrow
+barcode | 1 | 39.7% | barcode
+pianist | 1 | 40.0% | pianist
+vulture | 1 | 40.2% | vulture
+bigfoot | 1 | 40.4% | bigfoot
+bazooka | 1 | 40.6% | bazooka
+balcony | 1 | 40.8% | balcony
+console | 1 | 41.1% | console
+burglar | 1 | 41.3% | burglar
+toolbox | 1 | 41.5% | toolbox
+doormat | 1 | 41.7% | doormat
+stomach | 1 | 42.0% | stomach
+traffic | 1 | 42.2% | traffic
+shooter | 1 | 42.4% | shooter
+ferrari | 1 | 42.6% | ferrari
+aquaman | 1 | 42.9% | aquaman
+tangled | 1 | 43.1% | tangled
+glasses | 1 | 43.3% | glasses
+laundry | 1 | 43.5% | laundry
+chimney | 1 | 43.8% | chimney
+ketchup | 1 | 44.0% | ketchup
+explode | 1 | 44.2% | explode
+ukraine | 1 | 44.4% | ukraine
+germany | 1 | 44.7% | germany
+refresh | 1 | 44.9% | refresh
+cowbell | 1 | 45.1% | cowbell
+clothes | 1 | 45.3% | clothes
+popcorn | 1 | 45.6% | popcorn
+diamond | 1 | 45.8% | diamond
+titanic | 1 | 46.0% | titanic
+ladybug | 1 | 46.2% | ladybug
+bedtime | 1 | 46.5% | bedtime
+cashier | 1 | 46.7% | cashier
+message | 1 | 46.9% | message
+seagull | 1 | 47.1% | seagull
+polygon | 1 | 47.4% | polygon
+measure | 1 | 47.6% | measure
+dentist | 1 | 47.8% | dentist
+spinach | 1 | 48.0% | spinach
+holiday | 1 | 48.3% | holiday
+reptile | 1 | 48.5% | reptile
+earbuds | 1 | 48.7% | earbuds
+tadpole | 1 | 48.9% | tadpole
+nothing | 1 | 49.2% | nothing
+dracula | 1 | 49.4% | dracula
+wrinkle | 1 | 49.6% | wrinkle
+cyclist | 1 | 49.8% | cyclist
+display | 1 | 50.1% | display
+trumpet | 1 | 50.3% | trumpet
+netflix | 1 | 50.5% | netflix
+sunburn | 1 | 50.7% | sunburn
+avocado | 1 | 51.0% | avocado
+mugshot | 1 | 51.2% | mugshot
+husband | 1 | 51.4% | husband
+catfish | 1 | 51.6% | catfish
+bitcoin | 1 | 51.9% | bitcoin
+mercury | 1 | 52.1% | mercury
+disease | 1 | 52.3% | disease
+referee | 1 | 52.5% | referee
+pokemon | 1 | 52.8% | pokemon
+plastic | 1 | 53.0% | plastic
+balance | 1 | 53.2% | balance
+samsung | 1 | 53.4% | samsung
+gravity | 1 | 53.7% | gravity
+dolphin | 1 | 53.9% | dolphin
+frisbee | 1 | 54.1% | frisbee
+website | 1 | 54.3% | website
+aladdin | 1 | 54.6% | aladdin
+rhombus | 1 | 54.8% | rhombus
+theatre | 1 | 55.0% | theatre
+zipline | 1 | 55.2% | zipline
+ravioli | 1 | 55.5% | ravioli
+volcano | 1 | 55.7% | volcano
+network | 1 | 55.9% | network
+tourist | 1 | 56.1% | tourist
+present | 1 | 56.4% | present
+youtube | 1 | 56.6% | youtube
+ostrich | 1 | 56.8% | ostrich
+haunted | 1 | 57.0% | haunted
+evening | 1 | 57.3% | evening
+unibrow | 1 | 57.5% | unibrow
+crystal | 1 | 57.7% | crystal
+goddess | 1 | 57.9% | goddess
+pegasus | 1 | 58.2% | pegasus
+stadium | 1 | 58.4% | stadium
+croatia | 1 | 58.6% | croatia
+ukulele | 1 | 58.8% | ukulele
+jupiter | 1 | 59.1% | jupiter
+ashtray | 1 | 59.3% | ashtray
+peacock | 1 | 59.5% | peacock
+upgrade | 1 | 59.7% | upgrade
+pinball | 1 | 60.0% | pinball
+bicycle | 1 | 60.2% | bicycle
+pyramid | 1 | 60.4% | pyramid
+lasagna | 1 | 60.6% | lasagna
+finland | 1 | 60.8% | finland
+trailer | 1 | 61.1% | trailer
+bouquet | 1 | 61.3% | bouquet
+cracker | 1 | 61.5% | cracker
+vitamin | 1 | 61.7% | vitamin
+outside | 1 | 62.0% | outside
+quarter | 1 | 62.2% | quarter
+picasso | 1 | 62.4% | picasso
+caramel | 1 | 62.6% | caramel
+leopard | 1 | 62.9% | leopard
+scratch | 1 | 63.1% | scratch
+hammock | 1 | 63.3% | hammock
+rainbow | 1 | 63.5% | rainbow
+diploma | 1 | 63.8% | diploma
+healthy | 1 | 64.0% | healthy
+panther | 1 | 64.2% | panther
+butcher | 1 | 64.4% | butcher
+student | 1 | 64.7% | student
+beatbox | 1 | 64.9% | beatbox
+lettuce | 1 | 65.1% | lettuce
+seasick | 1 | 65.3% | seasick
+monocle | 1 | 65.6% | monocle
+vampire | 1 | 65.8% | vampire
+karaoke | 1 | 66.0% | karaoke
+antlers | 1 | 66.2% | antlers
+forearm | 1 | 66.5% | forearm
+droplet | 1 | 66.7% | droplet
+vanilla | 1 | 66.9% | vanilla
+seaweed | 1 | 67.1% | seaweed
+receipt | 1 | 67.4% | receipt
+blender | 1 | 67.6% | blender
+airship | 1 | 67.8% | airship
+cushion | 1 | 68.0% | cushion
+snowman | 1 | 68.3% | snowman
+offline | 1 | 68.5% | offline
+hallway | 1 | 68.7% | hallway
+narwhal | 1 | 68.9% | narwhal
+machete | 1 | 69.2% | machete
+luggage | 1 | 69.4% | luggage
+copycat | 1 | 69.6% | copycat
+vatican | 1 | 69.8% | vatican
+hungary | 1 | 70.1% | hungary
+puberty | 1 | 70.3% | puberty
+cabinet | 1 | 70.5% | cabinet
+highway | 1 | 70.7% | highway
+kingdom | 1 | 71.0% | kingdom
+journey | 1 | 71.2% | journey
+gondola | 1 | 71.4% | gondola
+england | 1 | 71.6% | england
+pretzel | 1 | 71.9% | pretzel
+thunder | 1 | 72.1% | thunder
+blanket | 1 | 72.3% | blanket
+racecar | 1 | 72.5% | racecar
+popular | 1 | 72.8% | popular
+bedroom | 1 | 73.0% | bedroom
+crowbar | 1 | 73.2% | crowbar
+fortune | 1 | 73.4% | fortune
+license | 1 | 73.7% | license
+skillet | 1 | 73.9% | skillet
+parking | 1 | 74.1% | parking
+sheriff | 1 | 74.3% | sheriff
+pothole | 1 | 74.6% | pothole
+funeral | 1 | 74.8% | funeral
+bathtub | 1 | 75.0% | bathtub
+spoiler | 1 | 75.2% | spoiler
+dogfish | 1 | 75.5% | dogfish
+glacier | 1 | 75.7% | glacier
+excited | 1 | 75.9% | excited
+octopus | 1 | 76.1% | octopus
+anthill | 1 | 76.4% | anthill
+college | 1 | 76.6% | college
+yahtzee | 1 | 76.8% | yahtzee
+stapler | 1 | 77.0% | stapler
+janitor | 1 | 77.3% | janitor
+furious | 1 | 77.5% | furious
+anchovy | 1 | 77.7% | anchovy
+patient | 1 | 77.9% | patient
+phoenix | 1 | 78.2% | phoenix
+knuckle | 1 | 78.4% | knuckle
+buffalo | 1 | 78.6% | buffalo
+porsche | 1 | 78.8% | porsche
+mermaid | 1 | 79.1% | mermaid
+origami | 1 | 79.3% | origami
+somalia | 1 | 79.5% | somalia
+oatmeal | 1 | 79.7% | oatmeal
+climber | 1 | 80.0% | climber
+ireland | 1 | 80.2% | ireland
+diagram | 1 | 80.4% | diagram
+morocco | 1 | 80.6% | morocco
+soldier | 1 | 80.8% | soldier
+mammoth | 1 | 81.1% | mammoth
+palette | 1 | 81.3% | palette
+marimba | 1 | 81.5% | marimba
+ancient | 1 | 81.7% | ancient
+skyline | 1 | 82.0% | skyline
+austria | 1 | 82.2% | austria
+athlete | 1 | 82.4% | athlete
+pharaoh | 1 | 82.6% | pharaoh
+pelican | 1 | 82.9% | pelican
+fencing | 1 | 83.1% | fencing
+biology | 1 | 83.3% | biology
+peasant | 1 | 83.5% | peasant
+equator | 1 | 83.8% | equator
+spatula | 1 | 84.0% | spatula
+poutine | 1 | 84.2% | poutine
+bayonet | 1 | 84.4% | bayonet
+orchard | 1 | 84.7% | orchard
+dishrag | 1 | 84.9% | dishrag
+ocarina | 1 | 85.1% | ocarina
+denmark | 1 | 85.3% | denmark
+hashtag | 1 | 85.6% | hashtag
+trigger | 1 | 85.8% | trigger
+parsley | 1 | 86.0% | parsley
+pumpkin | 1 | 86.2% | pumpkin
+witness | 1 | 86.5% | witness
+siberia | 1 | 86.7% | siberia
+parasol | 1 | 86.9% | parasol
+defense | 1 | 87.1% | defense
+printer | 1 | 87.4% | printer
+bulldog | 1 | 87.6% | bulldog
+section | 1 | 87.8% | section
+actress | 1 | 88.0% | actress
+suburbs | 1 | 88.3% | suburbs
+scalpel | 1 | 88.5% | scalpel
+concert | 1 | 88.7% | concert
+horizon | 1 | 88.9% | horizon
+vinegar | 1 | 89.2% | vinegar
+timpani | 1 | 89.4% | timpani
+manatee | 1 | 89.6% | manatee
+exhaust | 1 | 89.8% | exhaust
+griffin | 1 | 90.1% | griffin
+asterix | 1 | 90.3% | asterix
+wetsuit | 1 | 90.5% | wetsuit
+anatomy | 1 | 90.7% | anatomy
+western | 1 | 91.0% | western
+baklava | 1 | 91.2% | baklava
+drought | 1 | 91.4% | drought
+stubble | 1 | 91.6% | stubble
+rhubarb | 1 | 91.9% | rhubarb
+pacific | 1 | 92.1% | pacific
+blossom | 1 | 92.3% | blossom
+pasture | 1 | 92.5% | pasture
+falafel | 1 | 92.8% | falafel
+meerkat | 1 | 93.0% | meerkat
+extinct | 1 | 93.2% | extinct
+marines | 1 | 93.4% | marines
+vietnam | 1 | 93.7% | vietnam
+cologne | 1 | 93.9% | cologne
+maracas | 1 | 94.1% | maracas
+neptune | 1 | 94.3% | neptune
+waluigi | 1 | 94.6% | waluigi
+seltzer | 1 | 94.8% | seltzer
+echidna | 1 | 95.0% | echidna
+provoke | 1 | 95.2% | provoke
+kendama | 1 | 95.5% | kendama
+apricot | 1 | 95.7% | apricot
+reality | 1 | 95.9% | reality
+algeria | 1 | 96.1% | algeria
+tinfoil | 1 | 96.4% | tinfoil
+wingnut | 1 | 96.6% | wingnut
+seizure | 1 | 96.8% | seizure
+minivan | 1 | 97.0% | minivan
+catalog | 1 | 97.3% | catalog
+tugboat | 1 | 97.5% | tugboat
+corrida | 1 | 97.7% | corrida
+booklet | 1 | 97.9% | booklet
+fallout | 1 | 98.2% | fallout
+pompeii | 1 | 98.4% | pompeii
+average | 1 | 98.6% | average
+shallow | 1 | 98.8% | shallow
+braille | 1 | 99.1% | braille
+assault | 1 | 99.3% | assault
+savanna | 1 | 99.5% | savanna
+jealous | 1 | 99.7% | jealous
+bobsled | 1 | 100.% | bobsled

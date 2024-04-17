@@ -1,0 +1,185 @@
+jalon | 5 | 1.51% | jabón, japón, jamón, salón, talón
+panta | 5 | 3.02% | punta, panda, fanta, pasta, palta
+plama | 5 | 4.53% | plata, plaga, playa, llama, pluma
+tarra | 4 | 5.74% | jarra, parra, garra, tarta
+morca | 4 | 6.94% | mosca, marca, horca, morsa
+cuelo | 4 | 8.15% | duelo, cuero, suelo, cielo
+trano | 4 | 9.36% | urano, trono, grano, trapo
+banco | 4 | 10.5% | barco, banca, banco, banyo
+cobra | 4 | 11.7% | cobre, cabra, cebra, cobra
+bamba | 4 | 12.9% | bambú, gamba, bambi, bomba
+maga  | 3 | 13.8% | magma, manga, magia
+palsa | 3 | 14.8% | pausa, balsa, salsa
+mecho | 3 | 15.7% | techo, macho, pecho
+cafle | 3 | 16.6% | cable, wafle, calle
+botan | 3 | 17.5% | botín, botas, botón
+selda | 3 | 18.4% | zelda, celda, selva
+campa | 3 | 19.3% | campo, caspa, rampa
+villa | 3 | 20.2% | valla, silla, viola
+poldo | 3 | 21.1% | pollo, polvo, toldo
+musdo | 3 | 22.0% | museo, mundo, musgo
+dumba | 3 | 22.9% | pumba, dumbo, tumba
+fudar | 3 | 23.8% | fugar, fumar, sudar
+caton | 3 | 24.7% | cajón, cañón, ratón
+papal | 3 | 25.6% | papel, pañal, panal
+crena | 3 | 26.5% | crema, crepa, arena
+plnto | 3 | 27.4% | punto, pluto, plato
+berro | 3 | 28.3% | burro, perro, barro
+vocar | 3 | 29.3% | tocar, volar, votar
+budon | 3 | 30.2% | buzón, bufón, budín
+mento | 3 | 31.1% | menta, manto, lento
+oruja | 3 | 32.0% | oruga, oreja, bruja
+hucha | 3 | 32.9% | hacha, ducha, lucha
+calar | 3 | 33.8% | jalar, cavar, calor
+cordo | 3 | 34.7% | corto, sordo, cerdo
+pirar | 3 | 35.6% | picar, girar, pilar
+osta  | 2 | 36.2% | costa, ostra
+noch  | 2 | 36.8% | notch, noche
+monj  | 2 | 37.4% | monje, monja
+libo  | 2 | 38.0% | limbo, libro
+coal  | 2 | 38.6% | coral, coala
+novi  | 2 | 39.2% | novia, novio
+ideo  | 2 | 39.8% | fideo, video
+clvo  | 2 | 40.4% | clavo, calvo
+hina  | 2 | 41.0% | hiena, china
+pare  | 2 | 41.6% | pared, padre
+inda  | 2 | 42.2% | india, linda
+coer  | 2 | 42.9% | comer, coser
+cico  | 2 | 43.5% | circo, chico
+leta  | 2 | 44.1% | aleta, letra
+mare  | 2 | 44.7% | madre, marte
+rado  | 2 | 45.3% | arado, radio
+bueo  | 2 | 45.9% | buceo, bueno
+huelo | 2 | 46.5% | huevo, hielo
+telon | 2 | 47.1% | tejón, melón
+tobre | 2 | 47.7% | torre, pobre
+moria | 2 | 48.3% | momia, morir
+galle | 2 | 48.9% | gallo, valle
+plima | 2 | 49.5% | clima, prima
+pulto | 2 | 50.1% | pulpo, bulto
+dolar | 2 | 50.7% | dólar, dolor
+zomba | 2 | 51.3% | zombi, comba
+sueio | 2 | 51.9% | sucio, sueño
+obeja | 2 | 52.5% | oveja, abeja
+mueda | 2 | 53.1% | rueda, mueca
+vends | 2 | 53.7% | venus, venda
+padal | 2 | 54.3% | pedal, pádel
+arion | 2 | 54.9% | arpón, avión
+cirne | 2 | 55.5% | carne, cisne
+gorro | 2 | 56.1% | gorra, zorro
+lecte | 2 | 56.7% | lente, leche
+hntel | 2 | 57.4% | hotel, intel
+cieta | 2 | 58.0% | dieta, cinta
+sogar | 2 | 58.6% | hogar, soñar
+eiano | 2 | 59.2% | piano, enano
+goipe | 2 | 59.8% | gripe, golpe
+flach | 2 | 60.4% | flash, flaco
+lunea | 2 | 61.0% | lunes, línea
+grizo | 2 | 61.6% | erizo, grifo
+aciro | 2 | 62.2% | ácaro, ácido
+anila | 2 | 62.8% | axila, ancla
+atono | 2 | 63.4% | otoño, átomo
+slave | 2 | 64.0% | suave, llave
+drana | 2 | 64.6% | drama, araña
+cingo | 2 | 65.2% | bingo, ciego
+peina | 2 | 65.8% | peine, reina
+freta | 2 | 66.4% | fruta, fresa
+salid | 2 | 67.0% | salud, salir
+mctor | 2 | 67.6% | actor, motor
+saula | 2 | 68.2% | sauna, jaula
+erroz | 2 | 68.8% | error, arroz
+bebar | 2 | 69.4% | besar, beber
+metad | 2 | 70.0% | mitad, metal
+soshi | 2 | 70.6% | yoshi, sushi
+taser | 2 | 71.2% | taser, láser
+linon | 2 | 71.9% | riñón, limón
+gnobo | 2 | 72.5% | globo, gnomo
+malde | 2 | 73.1% | balde, molde
+mosil | 2 | 73.7% | fósil, misil
+ovino | 1 | 74.0% | ovino
+lirio | 1 | 74.3% | lirio
+patio | 1 | 74.6% | patio
+lleno | 1 | 74.9% | lleno
+skype | 1 | 75.2% | skype
+espia | 1 | 75.5% | espía
+esqui | 1 | 75.8% | esquí
+joven | 1 | 76.1% | joven
+emoji | 1 | 76.4% | emoji
+opera | 1 | 76.7% | ópera
+pepsi | 1 | 77.0% | pepsi
+totem | 1 | 77.3% | tótem
+robot | 1 | 77.6% | robot
+vodka | 1 | 77.9% | vodka
+kirby | 1 | 78.2% | kirby
+debil | 1 | 78.5% | débil
+lapiz | 1 | 78.8% | lápiz
+heroe | 1 | 79.1% | héroe
+viaje | 1 | 79.4% | viaje
+torax | 1 | 79.7% | tórax
+nariz | 1 | 80.0% | nariz
+ac/dc | 1 | 80.3% | ac/dc
+steam | 1 | 80.6% | steam
+luigi | 1 | 80.9% | luigi
+xerox | 1 | 81.2% | xerox
+nieve | 1 | 81.5% | nieve
+firma | 1 | 81.8% | firma
+apple | 1 | 82.1% | apple
+hawai | 1 | 82.4% | hawái
+goofy | 1 | 82.7% | goofy
+sonic | 1 | 83.0% | sonic
+tunel | 1 | 83.3% | túnel
+anime | 1 | 83.6% | anime
+ovalo | 1 | 83.9% | óvalo
+mamut | 1 | 84.2% | mamut
+tucan | 1 | 84.5% | tucán
+shrek | 1 | 84.8% | shrek
+reloj | 1 | 85.1% | reloj
+ataud | 1 | 85.4% | ataúd
+pizza | 1 | 85.8% | pizza
+rocio | 1 | 86.1% | rocío
+lemur | 1 | 86.4% | lémur
+arbol | 1 | 86.7% | árbol
+mafia | 1 | 87.0% | mafia
+lanza | 1 | 87.3% | lanza
+gaita | 1 | 87.6% | gaita
+tabla | 1 | 87.9% | tabla
+cueva | 1 | 88.2% | cueva
+jenga | 1 | 88.5% | jenga
+casco | 1 | 88.8% | casco
+ganso | 1 | 89.1% | ganso
+deuda | 1 | 89.4% | deuda
+pulga | 1 | 89.7% | pulga
+queso | 1 | 90.0% | queso
+brazo | 1 | 90.3% | brazo
+curri | 1 | 90.6% | curri
+sello | 1 | 90.9% | sello
+norte | 1 | 91.2% | norte
+aguja | 1 | 91.5% | aguja
+bolos | 1 | 91.8% | bolos
+abajo | 1 | 92.1% | abajo
+herir | 1 | 92.4% | herir
+lince | 1 | 92.7% | lince
+mayor | 1 | 93.0% | mayor
+radar | 1 | 93.3% | radar
+ninja | 1 | 93.6% | ninja
+tigre | 1 | 93.9% | tigre
+negro | 1 | 94.2% | negro
+cojin | 1 | 94.5% | cojín
+yogur | 1 | 94.8% | yogur
+ruido | 1 | 95.1% | ruido
+paris | 1 | 95.4% | parís
+texto | 1 | 95.7% | texto
+final | 1 | 96.0% | final
+lejia | 1 | 96.3% | lejía
+regla | 1 | 96.6% | regla
+tumor | 1 | 96.9% | tumor
+nogal | 1 | 97.2% | nogal
+oeste | 1 | 97.5% | oeste
+pecas | 1 | 97.8% | pecas
+tenis | 1 | 98.1% | tenis
+choza | 1 | 98.4% | choza
+rusia | 1 | 98.7% | rusia
+sauce | 1 | 99.0% | sauce
+grava | 1 | 99.3% | grava
+virus | 1 | 99.6% | virus
+angel | 1 | 100.% | ángel

@@ -1,0 +1,46 @@
+ban |12 | 6.45% | bag, van, pan, fan, bad, bar, bay, lan, bun, man, bat, can
+gam |10 | 11.8% | ram, jam, gym, gem, dam, gap, gas, gum, gag, ham
+nug | 9 | 16.6% | rug, hug, mug, nut, tug, bug, nun, jug, pug
+wat | 8 | 20.9% | wax, rat, war, cat, fat, hat, wet, eat
+bow | 9 | 25.8% | bow, boy, mow, row, bot, bmw, low, cow, box
+dap | 7 | 29.5% | lap, dip, cap, rap, day, map, dab
+aie | 7 | 33.3% | ace, axe, die, air, age, pie, tie
+hog | 6 | 36.5% | fog, hoe, hop, dog, hot, log
+rig | 7 | 40.3% | pig, rag, rib, rim, wig, fig, dig
+ar  | 6 | 43.5% | ear, jar, car, oar, arm, art
+poo | 6 | 46.7% | pho, zoo, pot, moo, pro, pop
+soy | 7 | 50.5% | spy, son, sky, shy, soy, joy, toy
+bea | 5 | 53.2% | bee, tea, bed, sea, bra
+pun | 6 | 56.4% | pub, gun, sun, pin, pen, run
+mod | 5 | 59.1% | nod, mop, cod, mud, god
+saw | 5 | 61.8% | paw, jaw, saw, sew, sad
+uso | 3 | 63.4% | usa, usb, ufo
+gry | 4 | 65.5% | cry, dry, gru, fry
+sut | 4 | 67.7% | cut, sit, hut, suv
+kec | 3 | 69.3% | keg, kfc, key
+tye | 4 | 71.5% | toe, tee, dye, eye
+afs | 2 | 72.5% | abs, afk
+ol  | 3 | 74.1% | owl, oil, old
+elu | 4 | 76.3% | elf, elk, flu, emu
+wen | 3 | 77.9% | web, hen, den
+lip | 3 | 79.5% | sip, tip, lid
+egd | 2 | 80.6% | end, egg
+gna | 2 | 81.7% | dna, gta
+ast | 2 | 82.7% | ant, ash
+rew | 3 | 84.4% | dew, new, red
+wce | 2 | 85.4% | wwe, ice
+for | 2 | 86.5% | fur, fox
+cpp | 3 | 88.1% | cup, cpu, app
+ivk | 2 | 89.2% | ivy, ink
+ski | 1 | 89.7% | ski
+mad | 2 | 90.8% | pad, mac
+wob | 2 | 91.9% | job, wok
+bux | 2 | 93.0% | bmx, bus
+flt | 2 | 94.0% | blt, fly
+nbl | 2 | 95.1% | nba, nfl
+tv  | 2 | 96.2% | mtv, atv
+oax | 2 | 97.3% | oak, tax
+hit | 1 | 97.8% | hit
+mp  | 2 | 98.9% | amp, imp
+urn | 1 | 99.4% | urn
+eel | 1 | 100.% | eel

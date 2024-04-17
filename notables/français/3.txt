@@ -1,0 +1,21 @@
+col | 5 | 9.25% | bol, coq, sol, cil, cou
+bur | 5 | 18.5% | mur, bar, dur, but, bus
+las | 4 | 25.9% | bas, lys, pas, lac
+ain | 4 | 33.3% | ail, adn, fin, vin
+ile | 3 | 38.8% | île, blé, clé
+rie | 3 | 44.4% | oie, rue, riz
+aru | 3 | 50.0% | ara, gru, arc
+rot | 3 | 55.5% | pot, rat, roi
+bma | 3 | 61.1% | boa, bmx, bmw
+ub  | 2 | 64.8% | pub, usb
+te  | 2 | 68.5% | été, thé
+on  | 2 | 72.2% | son, onu
+ne  | 2 | 75.9% | âne, nez
+eac | 2 | 79.6% | eau, sac
+mtr | 2 | 83.3% | mtv, mer
+poo | 2 | 87.0% | pro, zoo
+sul | 2 | 90.7% | jul, sel
+lid | 2 | 94.4% | nid, lit
+kfc | 1 | 96.2% | kfc
+cap | 1 | 98.1% | cap
+fee | 1 | 100.% | fée

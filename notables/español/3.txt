@@ -1,0 +1,15 @@
+oio | 5 | 15.6% | oro, río, ojo, tío, oso
+sar | 4 | 28.1% | sal, sur, mar, bar
+ol  | 3 | 37.5% | sol, ola, gol
+bmu | 3 | 46.8% | emú, bmw, bmx
+wed | 3 | 56.2% | sed, web, red
+pa  | 2 | 62.5% | paz, pan
+ejo | 2 | 68.7% | eco, ajo
+usa | 2 | 75.0% | usb, uña
+ruy | 2 | 81.2% | cuy, rey
+adn | 1 | 84.3% | adn
+kfc | 1 | 87.5% | kfc
+dia | 1 | 90.6% | día
+vid | 1 | 93.7% | vid
+gru | 1 | 96.8% | gru
+mtv | 1 | 100.% | mtv

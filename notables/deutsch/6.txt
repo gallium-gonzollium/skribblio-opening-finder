@@ -1,0 +1,364 @@
+backer | 4 | 0.8 % | hacker, tacker, backen, bäcker
+sickel | 4 | 1.6 % | pickel, sockel, nickel, sichel
+witter | 4 | 2.4 % | gitter, wetter, winter, ritter
+lochen | 4 | 3.2 % | lachen, locher, kochen, rochen
+fingen | 4 | 4.0 % | singen, finger, ringen, fangen
+recken | 4 | 4.8 % | rechen, rücken, becken, lecken
+winder | 3 | 5.4 % | widder, windel, winzer
+hecker | 3 | 6.0 % | henker, wecker, hocker
+hummer | 3 | 6.60% | hummer, hammer, hummel
+beller | 3 | 7.19% | böller, keller, teller
+daufen | 3 | 7.8 % | daumen, laufen, saufen
+weigen | 3 | 8.4 % | weinen, weizen, zeigen
+piesel | 3 | 9.0 % | diesel, pinsel, wiesel
+kessen | 3 | 9.6 % | kessel, kissen, küssen
+filber | 3 | 10.2% | silber, filter, fieber
+binken | 3 | 10.8% | binden, winken, sinken
+dantel | 3 | 11.4% | hantel, dattel, mantel
+follen | 3 | 12.0% | fallen, pollen, rollen
+kiffer | 3 | 12.6% | koffer, kiefer, kiffen
+fahler | 3 | 13.2% | fahrer, fehler, fühler
+autter | 3 | 13.8% | auster, butter, mutter
+felten | 3 | 14.3% | felsen, falten, zelten
+breten | 3 | 15.0% | braten, treten, bremen
+schile | 3 | 15.6% | schule, schilf, schild
+trille | 3 | 16.2% | taille, grille, brille
+beifen | 3 | 16.8% | beißen, reifen, beizen
+wuffel | 3 | 17.4% | würfel, waffel, büffel
+qulle  | 2 | 17.8% | qualle, quelle
+geack  | 2 | 18.2% | gebäck, gepäck
+redit  | 2 | 18.6% | kredit, reddit
+ernen  | 2 | 19.0% | ernten, lernen
+banne  | 2 | 19.4% | banane, banner
+pinat  | 2 | 19.8% | pinata, spinat
+punke  | 2 | 20.2% | punker, punkte
+iland  | 2 | 20.5% | irland, island
+artis  | 2 | 21.0% | arktis, artist
+geweh  | 2 | 21.4% | geweih, gewehr
+suche  | 2 | 21.8% | seuche, suchen
+frsch  | 2 | 22.2% | frisch, frosch
+rdner  | 2 | 22.6% | redner, ordner
+fliee  | 2 | 23.0% | fliese, fliege
+feien  | 2 | 23.4% | ferien, feiern
+elter  | 2 | 23.7% | elster, eltern
+straß  | 2 | 24.2% | straße, strauß
+eiche  | 2 | 24.6% | leiche, eichel
+lippe  | 2 | 25.0% | klippe, lippen
+schee  | 2 | 25.4% | schere, schnee
+plane  | 2 | 25.8% | planke, planet
+balon  | 2 | 26.2% | balkon, ballon
+titch  | 2 | 26.6% | twitch, stitch
+oster  | 2 | 27.0% | ostern, poster
+nackel | 2 | 27.4% | fackel, nacken
+kocken | 2 | 27.8% | socken, korken
+messel | 2 | 28.1% | sessel, messer
+kochen | 2 | 28.5% | kuchen, köcher
+manzel | 2 | 28.9% | kanzel, mandel
+rahren | 2 | 29.4% | fahren, rahmen
+niegen | 2 | 29.7% | biegen, niesen
+morden | 2 | 30.2% | norden, morgen
+raufer | 2 | 30.5% | räuber, läufer
+delfie | 2 | 31.0% | selfie, delfin
+kabino | 2 | 31.4% | kabine, kasino
+ruller | 2 | 31.8% | müller, roller
+bondon | 2 | 32.2% | london, bonbon
+benlin | 2 | 32.6% | benzin, berlin
+zupfer | 2 | 33.0% | kupfer, zupfen
+russel | 2 | 33.4% | fussel, rüssel
+luiter | 2 | 33.8% | leiter, lüfter
+duache | 2 | 34.2% | dusche, drache
+steheo | 2 | 34.5% | stereo, stehen
+pagier | 2 | 35.0% | magier, papier
+turzan | 2 | 35.4% | tarzan, turban
+bohser | 2 | 35.8% | bohrer, bowser
+wurbel | 2 | 36.1% | wirbel, wurzel
+tanzem | 2 | 36.6% | tandem, tanzen
+salari | 2 | 37.0% | salami, safari
+statuv | 2 | 37.4% | statue, stativ
+kreipe | 2 | 37.8% | kneipe, kreide
+gartel | 2 | 38.2% | gürtel, garten
+dinner | 2 | 38.6% | diener, donner
+richts | 2 | 39.0% | nichts, rechts
+tenris | 2 | 39.4% | tennis, tetris
+mudern | 2 | 39.8% | modern, rudern
+schath | 2 | 40.2% | schach, schatz
+paviar | 2 | 40.6% | kaviar, pavian
+gahlen | 2 | 41.0% | gähnen, wählen
+vinion | 2 | 41.4% | minion, vision
+zikado | 2 | 41.8% | zikade, mikado
+gronze | 2 | 42.1% | grenze, bronze
+gendel | 2 | 42.6% | gondel, pendel
+marsch | 2 | 43.0% | matsch, barsch
+jopeln | 2 | 43.4% | jodeln, popeln
+delken | 2 | 43.8% | melken, denken
+gnwalt | 2 | 44.2% | gewalt, anwalt
+parage | 2 | 44.6% | parade, garage
+kappel | 2 | 45.0% | kapsel, kuppel
+zerkel | 2 | 45.4% | ferkel, zirkel
+dektor | 2 | 45.8% | doktor, rektor
+mauber | 2 | 46.2% | sauber, maurer
+sputen | 2 | 46.6% | spaten, spülen
+ubfall | 2 | 47.0% | unfall, abfall
+katada | 2 | 47.4% | kanada, katana
+rapete | 2 | 47.8% | rakete, tapete
+indien | 1 | 48.0% | indien
+drehen | 1 | 48.2% | drehen
+brucke | 1 | 48.4% | brücke
+tippen | 1 | 48.6% | tippen
+sudpol | 1 | 48.8% | südpol
+umhang | 1 | 49.0% | umhang
+ruhrei | 1 | 49.2% | rührei
+portal | 1 | 49.4% | portal
+knoten | 1 | 49.6% | knoten
+eigelb | 1 | 49.8% | eigelb
+slinky | 1 | 50.0% | slinky
+haribo | 1 | 50.2% | haribo
+schwan | 1 | 50.4% | schwan
+brause | 1 | 50.6% | brause
+kurbis | 1 | 50.8% | kürbis
+athene | 1 | 51.0% | athene
+pharao | 1 | 51.2% | pharao
+flugel | 1 | 51.4% | flügel
+helium | 1 | 51.6% | helium
+specht | 1 | 51.8% | specht
+shogun | 1 | 52.0% | shogun
+matrix | 1 | 52.2% | matrix
+person | 1 | 52.4% | person
+freund | 1 | 52.6% | freund
+beamer | 1 | 52.8% | beamer
+wutend | 1 | 53.0% | wütend
+tunnel | 1 | 53.2% | tunnel
+zoomen | 1 | 53.4% | zoomen
+snoopy | 1 | 53.6% | snoopy
+kirche | 1 | 53.8% | kirche
+tomate | 1 | 54.0% | tomate
+huawei | 1 | 54.2% | huawei
+alpaka | 1 | 54.4% | alpaka
+aktion | 1 | 54.6% | aktion
+aimbot | 1 | 54.8% | aimbot
+monaco | 1 | 55.0% | monaco
+amboss | 1 | 55.2% | amboss
+shisha | 1 | 55.4% | shisha
+fabrik | 1 | 55.6% | fabrik
+kaktus | 1 | 55.8% | kaktus
+lineal | 1 | 56.0% | lineal
+amazon | 1 | 56.2% | amazon
+gandhi | 1 | 56.3% | gandhi
+moskau | 1 | 56.5% | moskau
+afrika | 1 | 56.7% | afrika
+saphir | 1 | 56.9% | saphir
+diplom | 1 | 57.1% | diplom
+batman | 1 | 57.4% | batman
+glatze | 1 | 57.6% | glatze
+dikdik | 1 | 57.8% | dikdik
+zyklop | 1 | 58.0% | zyklop
+studio | 1 | 58.2% | studio
+billig | 1 | 58.4% | billig
+sphinx | 1 | 58.6% | sphinx
+glocke | 1 | 58.8% | glocke
+geysir | 1 | 59.0% | geysir
+bonsai | 1 | 59.2% | bonsai
+ungarn | 1 | 59.4% | ungarn
+bounty | 1 | 59.6% | bounty
+knodel | 1 | 59.8% | knödel
+klinik | 1 | 60.0% | klinik
+jaguar | 1 | 60.2% | jaguar
+hanuta | 1 | 60.4% | hanuta
+heulen | 1 | 60.6% | heulen
+uganda | 1 | 60.8% | uganda
+urlaub | 1 | 61.0% | urlaub
+orange | 1 | 61.2% | orange
+mammut | 1 | 61.4% | mammut
+museum | 1 | 61.6% | museum
+cyborg | 1 | 61.8% | cyborg
+europa | 1 | 62.0% | europa
+ozelot | 1 | 62.2% | ozelot
+haarig | 1 | 62.4% | haarig
+risiko | 1 | 62.6% | risiko
+iphone | 1 | 62.8% | iphone
+bambus | 1 | 63.0% | bambus
+eisbar | 1 | 63.2% | eisbär
+cousin | 1 | 63.4% | cousin
+gepard | 1 | 63.6% | gepard
+bayern | 1 | 63.8% | bayern
+grotte | 1 | 64.0% | grotte
+montag | 1 | 64.2% | montag
+halfte | 1 | 64.4% | hälfte
+krabbe | 1 | 64.6% | krabbe
+gemuse | 1 | 64.8% | gemüse
+zement | 1 | 65.0% | zement
+paypal | 1 | 65.2% | paypal
+laptop | 1 | 65.4% | laptop
+frucht | 1 | 65.6% | frucht
+hotdog | 1 | 65.8% | hotdog
+hawaii | 1 | 66.0% | hawaii
+narwal | 1 | 66.2% | narwal
+mexiko | 1 | 66.4% | mexiko
+hering | 1 | 66.6% | hering
+hobbit | 1 | 66.8% | hobbit
+neptun | 1 | 67.0% | neptun
+python | 1 | 67.2% | python
+grafik | 1 | 67.4% | grafik
+domino | 1 | 67.6% | domino
+toyota | 1 | 67.8% | toyota
+kojote | 1 | 68.0% | kojote
+jetski | 1 | 68.2% | jetski
+kamera | 1 | 68.4% | kamera
+gehirn | 1 | 68.6% | gehirn
+seekuh | 1 | 68.7% | seekuh
+gewurz | 1 | 68.9% | gewürz
+vulkan | 1 | 69.1% | vulkan
+tundra | 1 | 69.3% | tundra
+eminem | 1 | 69.5% | eminem
+einrad | 1 | 69.7% | einrad
+tattoo | 1 | 70.0% | tattoo
+tiktok | 1 | 70.2% | tiktok
+einode | 1 | 70.4% | einöde
+israel | 1 | 70.6% | israel
+globus | 1 | 70.8% | globus
+dirndl | 1 | 71.0% | dirndl
+hippie | 1 | 71.2% | hippie
+saturn | 1 | 71.4% | saturn
+vakuum | 1 | 71.6% | vakuum
+segway | 1 | 71.8% | segway
+prisma | 1 | 72.0% | prisma
+merkur | 1 | 72.2% | merkur
+mozart | 1 | 72.4% | mozart
+aufzug | 1 | 72.6% | aufzug
+mosaik | 1 | 72.8% | mosaik
+darwin | 1 | 73.0% | darwin
+barbar | 1 | 73.2% | barbar
+buddha | 1 | 73.4% | buddha
+manege | 1 | 73.6% | manege
+uranus | 1 | 73.8% | uranus
+sprite | 1 | 74.0% | sprite
+narnia | 1 | 74.2% | narnia
+chrome | 1 | 74.4% | chrome
+kruste | 1 | 74.6% | kruste
+anubis | 1 | 74.8% | anubis
+turkei | 1 | 75.0% | türkei
+airbag | 1 | 75.2% | airbag
+lustig | 1 | 75.4% | lustig
+louvre | 1 | 75.6% | louvre
+papaya | 1 | 75.8% | papaya
+nessie | 1 | 76.0% | nessie
+corona | 1 | 76.2% | corona
+klasse | 1 | 76.4% | klasse
+slalom | 1 | 76.6% | slalom
+tablet | 1 | 76.8% | tablet
+medusa | 1 | 77.0% | medusa
+goblin | 1 | 77.2% | goblin
+parfum | 1 | 77.4% | parfüm
+podium | 1 | 77.6% | podium
+herbst | 1 | 77.8% | herbst
+totoro | 1 | 78.0% | totoro
+insekt | 1 | 78.2% | insekt
+ameise | 1 | 78.4% | ameise
+kermit | 1 | 78.6% | kermit
+cowboy | 1 | 78.8% | cowboy
+zombie | 1 | 79.0% | zombie
+obelix | 1 | 79.2% | obelix
+reptil | 1 | 79.4% | reptil
+shorts | 1 | 79.6% | shorts
+google | 1 | 79.8% | google
+thanos | 1 | 80.0% | thanos
+puzzle | 1 | 80.2% | puzzle
+palast | 1 | 80.4% | palast
+gebiss | 1 | 80.6% | gebiss
+giftig | 1 | 80.8% | giftig
+minute | 1 | 81.0% | minute
+arbeit | 1 | 81.2% | arbeit
+chemie | 1 | 81.3% | chemie
+dynamo | 1 | 81.5% | dynamo
+pfutze | 1 | 81.7% | pfütze
+pfeife | 1 | 82.0% | pfeife
+nascar | 1 | 82.2% | nascar
+atomar | 1 | 82.4% | atomar
+teufel | 1 | 82.6% | teufel
+bikini | 1 | 82.8% | bikini
+melone | 1 | 83.0% | melone
+gottin | 1 | 83.2% | göttin
+tweety | 1 | 83.4% | tweety
+kostum | 1 | 83.6% | kostüm
+punsch | 1 | 83.8% | punsch
+idefix | 1 | 84.0% | idefix
+bizeps | 1 | 84.2% | bizeps
+achsel | 1 | 84.4% | achsel
+metall | 1 | 84.6% | metall
+sudoku | 1 | 84.8% | sudoku
+geroll | 1 | 85.0% | geröll
+gluhen | 1 | 85.2% | glühen
+razzia | 1 | 85.4% | razzia
+ananas | 1 | 85.6% | ananas
+rosine | 1 | 85.8% | rosine
+geizig | 1 | 86.0% | geizig
+adidas | 1 | 86.2% | adidas
+ostsee | 1 | 86.4% | ostsee
+athlet | 1 | 86.6% | athlet
+rezept | 1 | 86.8% | rezept
+hermes | 1 | 87.0% | hermes
+muffin | 1 | 87.2% | muffin
+eclair | 1 | 87.4% | eclair
+voodoo | 1 | 87.6% | voodoo
+burste | 1 | 87.8% | bürste
+morder | 1 | 88.0% | mörder
+soldat | 1 | 88.2% | soldat
+server | 1 | 88.4% | server
+apollo | 1 | 88.6% | apollo
+vampir | 1 | 88.8% | vampir
+himmel | 1 | 89.0% | himmel
+zucker | 1 | 89.2% | zucker
+hockey | 1 | 89.4% | hockey
+rennen | 1 | 89.6% | rennen
+kleber | 1 | 89.8% | kleber
+westen | 1 | 90.0% | westen
+sattel | 1 | 90.2% | sattel
+sitzen | 1 | 90.4% | sitzen
+tiegel | 1 | 90.6% | tiegel
+wimper | 1 | 90.8% | wimper
+sommer | 1 | 91.0% | sommer
+lehrer | 1 | 91.2% | lehrer
+hunger | 1 | 91.4% | hunger
+wurgen | 1 | 91.6% | würgen
+facher | 1 | 91.8% | fächer
+zerren | 1 | 92.0% | zerren
+kaffee | 1 | 92.2% | kaffee
+erbsen | 1 | 92.4% | erbsen
+brezel | 1 | 92.6% | brezel
+kanone | 1 | 92.8% | kanone
+dexter | 1 | 93.0% | dexter
+brexit | 1 | 93.2% | brexit
+mobben | 1 | 93.4% | mobben
+fossil | 1 | 93.6% | fossil
+panzer | 1 | 93.8% | panzer
+winzig | 1 | 94.0% | winzig
+loffel | 1 | 94.2% | löffel
+lawine | 1 | 94.4% | lawine
+muskel | 1 | 94.6% | muskel
+spinne | 1 | 94.8% | spinne
+grippe | 1 | 95.0% | grippe
+bagger | 1 | 95.2% | bagger
+fohnen | 1 | 95.4% | föhnen
+strand | 1 | 95.6% | strand
+hupfen | 1 | 95.8% | hüpfen
+grinch | 1 | 96.0% | grinch
+nachos | 1 | 96.2% | nachos
+tasche | 1 | 96.4% | tasche
+pfanne | 1 | 96.6% | pfanne
+graben | 1 | 96.8% | graben
+disney | 1 | 97.0% | disney
+eistee | 1 | 97.2% | eistee
+knospe | 1 | 97.4% | knospe
+stoßen | 1 | 97.6% | stoßen
+rapper | 1 | 97.8% | rapper
+popeye | 1 | 98.0% | popeye
+magnet | 1 | 98.2% | magnet
+buffet | 1 | 98.4% | buffet
+storch | 1 | 98.6% | storch
+karate | 1 | 98.8% | karate
+hirsch | 1 | 99.0% | hirsch
+schock | 1 | 99.2% | schock
+flagge | 1 | 99.4% | flagge
+gefahr | 1 | 99.6% | gefahr
+zirkus | 1 | 99.8% | zirkus
+dollar | 1 | 100.% | dollar
