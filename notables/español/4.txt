@@ -1,0 +1,75 @@
+cata | 8 | 4.30% | capa, cama, rata, cara, lata, pata, caja, casa
+roda | 7 | 8.06% | soda, moda, boda, rosa, roca, roma, yoda
+cela | 6 | 11.2% | vela, cena, tela, cera, ceja, cola
+mato | 6 | 14.5% | mano, malo, pato, gato, moto, mago
+luma | 6 | 17.7% | zuma, luna, lupa, lima, suma, puma
+pono | 6 | 20.9% | poni, polo, cono, pozo, mono, pino
+logo | 5 | 23.6% | lago, lego, lobo, logo, loro
+nubo | 5 | 26.3% | tubo, nudo, cubo, nabo, nube
+tapo | 5 | 29.0% | taco, topo, tipo, sapo, tapa
+rasa | 4 | 31.1% | nasa, rana, rama, pasa
+lala | 4 | 33.3% | pala, lana, bala, lava
+arca | 4 | 35.4% | orca, arco, arma, arpa
+ruba | 4 | 37.6% | runa, cuba, tuba, rubí
+memo | 4 | 39.7% | remo, mimo, meme, nemo
+jaiz | 4 | 41.9% | maíz, jazz, jayz, raíz
+fro  | 3 | 43.5% | afro, faro, frío
+moca | 3 | 45.1% | mora, boca, foca
+coro | 3 | 46.7% | coco, codo, toro
+dapa | 3 | 48.3% | mapa, daga, dama
+bato | 3 | 50.0% | baño, bate, bajo
+haja | 3 | 51.6% | hija, hada, hoja
+pino | 3 | 53.2% | piña, pico, niño
+isea | 3 | 54.8% | idea, isla, ikea
+tlor | 3 | 56.4% | thor, flor, olor
+amar | 3 | 58.0% | atar, amor, arar
+veno | 3 | 59.6% | vino, vena, reno
+divs | 3 | 61.2% | dios, diva, diss
+aul  | 2 | 62.3% | azul, aula
+olf  | 2 | 63.4% | golf, olaf
+jee  | 2 | 64.5% | jeep, jefe
+esa  | 2 | 65.5% | elsa, mesa
+uez  | 2 | 66.6% | nuez, juez
+vas  | 2 | 67.7% | vaso, uvas
+bba  | 2 | 68.8% | abba, baba
+iel  | 2 | 69.8% | piel, miel
+soma | 2 | 70.9% | goma, sopa
+paca | 2 | 72.0% | vaca, pica
+pazo | 2 | 73.1% | pavo, lazo
+nedo | 2 | 74.1% | nido, dedo
+yoya | 2 | 75.2% | yoyó, joya
+tila | 2 | 76.3% | fila, tiza
+hojo | 2 | 77.4% | hijo, rojo
+nine | 2 | 78.4% | niña, nike
+eate | 2 | 79.5% | este, yate
+peta | 2 | 80.6% | seta, pera
+leen | 2 | 81.7% | leer, león
+nerp | 2 | 82.7% | derp, nerd
+audu | 2 | 83.8% | audi, vudú
+orer | 2 | 84.9% | orar, oreo
+asua | 2 | 86.0% | agua, asia
+cafr | 2 | 87.0% | café, caer
+elmo | 1 | 87.6% | elmo
+ovni | 1 | 88.1% | ovni
+ubre | 1 | 88.7% | ubre
+wlan | 1 | 89.2% | wlan
+tren | 1 | 89.7% | tren
+iman | 1 | 90.3% | imán
+ipad | 1 | 90.8% | ipad
+obus | 1 | 91.3% | obús
+kiwi | 1 | 91.9% | kiwi
+zeus | 1 | 92.4% | zeus
+xbox | 1 | 93.0% | xbox
+acne | 1 | 93.5% | acné
+mani | 1 | 94.0% | maní
+pais | 1 | 94.6% | país
+jugo | 1 | 95.1% | jugo
+cine | 1 | 95.6% | cine
+silo | 1 | 96.2% | silo
+buho | 1 | 96.7% | búho
+alce | 1 | 97.3% | alce
+bebe | 1 | 97.8% | bebé
+taxi | 1 | 98.3% | taxi
+yeti | 1 | 98.9% | yeti
+atun | 1 | 99.4% | atún
+hulk | 1 | 100.% | hulk

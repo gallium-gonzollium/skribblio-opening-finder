@@ -1,0 +1,156 @@
+care |11 | 2.11% | case, cart, cure, carp, cafe, cage, cake, card, cape, cave, rare
+hall |11 | 4.23% | half, hail, fall, mall, halo, hell, tall, wall, call, hill, ball
+wine | 9 | 5.97% | vine, wire, wink, wing, wife, line, wind, pine, wine
+beat | 9 | 7.70% | seat, belt, beet, bear, beak, heat, bean, boat, meat
+dork | 8 | 9.24% | dory, cork, dock, dora, dark, work, fork, pork
+pood | 8 | 10.7% | food, wood, poor, poop, good, pond, hood, pool
+rook | 8 | 12.3% | root, room, roof, look, book, rock, cook, hook
+tipe | 8 | 13.8% | tide, ripe, tape, type, tipi, tire, tile, pipe
+tead | 7 | 15.2% | team, toad, tear, head, lead, read, dead
+bail | 7 | 16.5% | mail, tail, bait, boil, nail, rail, jail
+cold | 7 | 17.9% | cord, hold, gold, fold, cola, mold, cold
+ment | 7 | 19.2% | menu, vent, dent, mint, melt, tent, cent
+role | 7 | 20.6% | roll, rome, robe, hole, mole, rope, rose
+foat | 7 | 21.9% | fort, flat, foot, coat, foam, moat, goat
+wast | 7 | 23.3% | west, wart, fast, cast, wash, wasp, east
+clow | 7 | 24.6% | blow, crow, slow, plow, flow, glow, claw
+fill | 6 | 25.8% | dill, pill, kill, full, file, bill
+race | 6 | 26.9% | race, rage, rake, face, rice, mace
+pone | 6 | 28.1% | pony, cone, pope, bone, poke, pong
+soop | 6 | 29.2% | soup, soot, shop, soap, loop, stop
+shin | 6 | 30.4% | ship, shin, thin, chin, spin, skin
+balk | 6 | 31.5% | walk, talk, back, bark, bank, bald
+lick | 6 | 32.7% | kick, sick, lock, rick, link, luck
+mand | 6 | 33.9% | sand, hand, maid, many, mane, band
+lame | 6 | 35.0% | lamb, lime, lane, lake, game, lamp
+dist | 6 | 36.2% | dirt, fist, mist, diet, dish, list
+dive | 6 | 37.3% | diva, dice, dove, hive, dive, give
+sted | 5 | 38.3% | stem, seed, step, stew, sled
+sing | 5 | 39.3% | ring, king, sing, sink, song
+sear | 5 | 40.2% | year, seal, pear, scar, star
+sase | 5 | 41.2% | vase, base, safe, sale, save
+leas | 5 | 42.1% | leaf, peas, leak, lens, legs
+bump | 5 | 43.1% | dump, jump, pump, burp, bump
+domb | 5 | 44.1% | comb, tomb, dome, dumb, bomb
+farn | 5 | 45.0% | fern, barn, fart, farm, yarn
+clab | 5 | 46.0% | clam, crab, clap, club, clay
+trap | 5 | 47.0% | trip, trap, tray, tram, wrap
+coon | 4 | 47.7% | corn, noon, coin, moon
+hurn | 4 | 48.5% | horn, hurt, turn, burn
+dool | 4 | 49.3% | wool, doll, tool, door
+noke | 4 | 50.0% | nike, note, nose, nuke
+cath | 4 | 50.8% | math, cash, path, bath
+cite | 4 | 51.6% | kite, city, cute, bite
+hell | 4 | 52.4% | cell, well, bell, heel
+mass | 4 | 53.1% | mask, bass, mars, moss
+boal | 4 | 53.9% | bowl, coal, goal, boar
+dest | 4 | 54.7% | rest, desk, vest, nest
+swam | 4 | 55.4% | spam, swan, slam, swag
+herp | 4 | 56.2% | derp, hero, harp, herd
+aune | 4 | 57.0% | aunt, dune, acne, rune
+pank | 4 | 57.8% | park, tank, pink, punk
+rish | 4 | 58.5% | wish, fish, rich, risk
+tuma | 4 | 59.3% | zuma, tuna, puma, tuba
+deef | 4 | 60.1% | beef, deep, deer, deaf
+mulk | 3 | 60.6% | hulk, milk, mule
+werm | 3 | 61.2% | germ, warm, worm
+nuck | 3 | 61.8% | neck, duck, suck
+drup | 3 | 62.4% | drum, drip, drug
+paie | 3 | 63.0% | pair, page, pain
+oren | 3 | 63.5% | oven, oreo, open
+loge | 3 | 64.1% | love, logo, doge
+colf | 3 | 64.7% | calf, golf, wolf
+bady | 3 | 65.3% | body, baby, lady
+chep | 3 | 65.8% | chip, chew, chef
+phug | 3 | 66.4% | chug, plug, thug
+snot | 3 | 67.0% | snow, spot, knot
+mame | 3 | 67.6% | maze, meme, mime
+coda | 3 | 68.2% | soda, code, yoda
+dush | 3 | 68.7% | push, dusk, bush
+gamp | 3 | 69.3% | camp, ramp, gasp
+nava | 3 | 69.9% | nasa, navy, lava
+griy | 3 | 70.5% | grey, grid, grin
+sxit | 3 | 71.0% | suit, exit, spit
+silt | 3 | 71.6% | salt, silo, kilt
+cuby | 3 | 72.2% | cuba, ruby, cube
+rift | 3 | 72.8% | riot, gift, raft
+berd | 3 | 73.4% | bend, nerd, bird
+lue  | 3 | 73.9% | glue, blue, lute
+jawn | 3 | 74.5% | dawn, jaws, yawn
+load | 3 | 75.1% | loaf, road, loud
+lip  | 3 | 75.7% | slip, clip, lips
+full | 3 | 76.3% | fuel, bull, pull
+meak | 3 | 76.8% | meal, weak, mean
+fleg | 3 | 77.4% | flag, flex, flea
+vate | 3 | 78.0% | gate, vape, vote
+doss | 3 | 78.6% | loss, dots, boss
+hoil | 3 | 79.1% | howl, soil, foil
+gung | 3 | 79.7% | gang, lung, gong
+taci | 2 | 80.1% | taco, taxi
+legt | 2 | 80.5% | lego, left
+shor | 2 | 80.9% | shoe, thor
+fro  | 2 | 81.3% | frog, afro
+kree | 2 | 81.6% | tree, knee
+turr | 2 | 82.0% | turd, purr
+kiws | 2 | 82.4% | kiwi, kiss
+sigh | 2 | 82.8% | high, sign
+haur | 2 | 83.2% | hair, hour
+liny | 2 | 83.6% | tiny, lily
+aedi | 2 | 84.0% | audi, jedi
+noof | 2 | 84.3% | noob, hoof
+elma | 2 | 84.7% | elsa, elmo
+aoom | 2 | 85.1% | atom, zoom
+asid | 2 | 85.5% | acid, asia
+fife | 2 | 85.9% | fire, fifa
+semo | 2 | 86.3% | sumo, nemo
+ipan | 2 | 86.7% | ipad, iran
+neus | 2 | 87.0% | zeus, news
+polk | 2 | 87.4% | yolk, polo
+ovaf | 2 | 87.8% | oval, olaf
+monh | 2 | 88.2% | moth, monk
+arca | 2 | 88.6% | orca, arch
+beek | 2 | 89.0% | beer, leek
+buof | 2 | 89.4% | buoy, buff
+ion  | 2 | 89.7% | lion, iron
+iea  | 2 | 90.1% | idea, ikea
+looi | 2 | 90.5% | loot, loki
+nein | 2 | 90.9% | vein, neon
+vike | 2 | 91.3% | pike, vise
+aray | 2 | 91.7% | pray, army
+tofn | 2 | 92.1% | tofu, town
+fizn | 2 | 92.4% | finn, fizz
+smur | 2 | 92.8% | spur, smug
+xboe | 2 | 93.2% | oboe, xbox
+jaz  | 2 | 93.6% | jazz, jayz
+poru | 2 | 94.0% | peru, port
+stab | 1 | 94.2% | stab
+edge | 1 | 94.4% | edge
+exam | 1 | 94.6% | exam
+text | 1 | 94.7% | text
+echo | 1 | 94.9% | echo
+copy | 1 | 95.1% | copy
+girl | 1 | 95.3% | girl
+undo | 1 | 95.5% | undo
+yeti | 1 | 95.7% | yeti
+hose | 1 | 95.9% | hose
+ammo | 1 | 96.1% | ammo
+palm | 1 | 96.3% | palm
+whip | 1 | 96.5% | whip
+twig | 1 | 96.7% | twig
+liar | 1 | 96.9% | liar
+ogre | 1 | 97.1% | ogre
+itch | 1 | 97.3% | itch
+yoga | 1 | 97.4% | yoga
+rain | 1 | 97.6% | rain
+duel | 1 | 97.8% | duel
+down | 1 | 98.0% | down
+jeep | 1 | 98.2% | jeep
+wave | 1 | 98.4% | wave
+abba | 1 | 98.6% | abba
+flop | 1 | 98.8% | flop
+tutu | 1 | 99.0% | tutu
+drag | 1 | 99.2% | drag
+hard | 1 | 99.4% | hard
+veil | 1 | 99.6% | veil
+koto | 1 | 99.8% | koto
+lynx | 1 | 100.% | lynx

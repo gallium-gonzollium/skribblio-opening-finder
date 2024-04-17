@@ -1,0 +1,266 @@
+kagel | 7 | 1.41% | kegel, nagel, kamel, kugel, kabel, bagel, hagel
+welle | 5 | 2.43% | welpe, welle, delle, wolle, zelle
+wunge | 5 | 3.44% | zunge, wunde, junge, lunge, wange
+rappe | 5 | 4.46% | rampe, rippe, raupe, kappe, pappe
+begen | 5 | 5.47% | beten, degen, bogen, besen, regen
+line  | 4 | 6.28% | linse, liane, leine, linie
+lachs | 4 | 7.09% | dachs, luchs, wachs, lachs
+huste | 4 | 7.91% | wüste, küste, hütte, hüfte
+haden | 4 | 8.72% | hafen, haken, hades, laden
+mitze | 4 | 9.53% | hitze, zitze, mütze, minze
+kerle | 4 | 10.3% | kehle, keule, perle, kerze
+sturn | 4 | 11.1% | stern, sturm, sturz, stirn
+macke | 4 | 11.9% | mücke, maske, jacke, marke
+katte | 4 | 12.7% | kette, katze, karte, ratte
+geise | 4 | 13.5% | geist, geige, leise, reise
+krane | 4 | 14.4% | krone, kranz, krank, krake
+baser | 4 | 15.2% | laser, taser, bauer, basar
+bihne | 4 | 16.0% | bühne, birne, biene, bohne
+esen  | 3 | 16.6% | essen, eisen, lesen
+buch  | 3 | 17.2% | bruch, busch, bauch
+ecke  | 3 | 17.8% | zecke, hecke, decke
+alle  | 3 | 18.4% | alles, allee, falle
+eich  | 3 | 19.0% | eiche, teich, weich
+wese  | 3 | 19.6% | wiese, weste, wespe
+nabel | 3 | 20.2% | nadel, gabel, nebel
+seine | 3 | 20.8% | beine, seife, seite
+kamen | 3 | 21.5% | kamin, kauen, samen
+wange | 3 | 22.1% | waage, wanze, zange
+seule | 3 | 22.7% | spule, beule, säule
+hogel | 3 | 23.3% | hotel, hügel, vogel
+lacht | 3 | 23.9% | licht, jacht, nacht
+nuder | 3 | 24.5% | ruder, nudel, puder
+harde | 3 | 25.1% | herde, harfe, hürde
+tuppe | 3 | 25.7% | suppe, puppe, tulpe
+spier | 3 | 26.3% | spieß, spiel, speer
+magia | 3 | 26.9% | magma, magie, mafia
+passe | 3 | 27.5% | pause, gasse, tasse
+ioker | 3 | 28.1% | imker, poker, joker
+bratt | 3 | 28.8% | brett, braut, blatt
+kurst | 3 | 29.4% | durst, wurst, kunst
+misch | 3 | 30.0% | milch, tisch, fisch
+bixer | 3 | 30.6% | mixer, biber, boxer
+kafir | 3 | 31.2% | kefir, käfer, käfig
+schah | 3 | 31.8% | schal, schaf, schuh
+pfend | 3 | 32.4% | pfund, pferd, pfand
+nenne | 3 | 33.0% | nonne, henne, penne
+trahe | 3 | 33.6% | krähe, träne, truhe
+tirte | 3 | 34.2% | torte, hirte, tinte
+bango | 3 | 34.8% | bongo, bingo, banjo
+kleis | 3 | 35.4% | kreis, kleid, klein
+ongel | 3 | 36.1% | onkel, engel, orgel
+parts | 3 | 36.7% | darts, party, paris
+lemer | 3 | 37.3% | leber, lemur, leder
+start | 3 | 37.9% | stark, smart, stadt
+rario | 3 | 38.5% | radio, mario, wario
+amfel | 3 | 39.1% | amsel, apfel, ampel
+podel | 3 | 39.7% | pudel, model, popel
+tarbe | 3 | 40.3% | farbe, taube, narbe
+saune | 3 | 40.9% | sauna, daune, sahne
+frust | 3 | 41.5% | faust, brust, frost
+panta | 3 | 42.1% | panda, pasta, fanta
+blute | 3 | 42.7% | blume, blüte, beute
+sten  | 2 | 43.2% | stein, osten
+geie  | 2 | 43.6% | genie, geier
+euer  | 2 | 44.0% | teuer, euter
+azug  | 2 | 44.4% | abzug, anzug
+flte  | 2 | 44.8% | flöte, falte
+nten  | 2 | 45.2% | noten, unten
+spor  | 2 | 45.6% | sport, spore
+oper  | 2 | 46.0% | opfer, opera
+zweg  | 2 | 46.4% | zweig, zwerg
+quee  | 2 | 46.8% | queue, queen
+lanz  | 2 | 47.2% | glanz, lanze
+inel  | 2 | 47.6% | intel, insel
+aler  | 2 | 48.0% | adler, maler
+zege  | 2 | 48.4% | ziege, zeuge
+otte  | 2 | 48.8% | motte, otter
+agen  | 2 | 49.2% | agent, jagen
+hole  | 2 | 49.6% | höhle, hölle
+laue  | 2 | 50.1% | klaue, laute
+flah  | 2 | 50.5% | flach, flash
+liese | 2 | 50.9% | riese, liebe
+warfe | 2 | 51.3% | warze, waffe
+funde | 2 | 51.7% | funke, kunde
+bibet | 2 | 52.1% | bibel, tibet
+kreis | 2 | 52.5% | preis, krebs
+cauch | 2 | 52.9% | couch, rauch
+paume | 2 | 53.3% | palme, pauke
+keder | 2 | 53.7% | feder, köder
+stack | 2 | 54.1% | stock, snack
+bolen | 2 | 54.5% | boxen, polen
+krste | 2 | 54.9% | kiste, kröte
+braum | 2 | 55.3% | traum, braun
+dampe | 2 | 55.7% | lampe, dampf
+bully | 2 | 56.1% | gully, bulle
+dumlo | 2 | 56.5% | dumbo, duplo
+kohie | 2 | 56.9% | kopie, kohle
+pepal | 2 | 57.4% | pedal, nepal
+spioz | 2 | 57.8% | spitz, spion
+mabel | 2 | 58.2% | möbel, säbel
+arend | 2 | 58.6% | trend, abend
+chine | 2 | 59.0% | chile, china
+yushi | 2 | 59.4% | sushi, yoshi
+pilat | 2 | 59.8% | pilot, pirat
+salft | 2 | 60.2% | sanft, salat
+fpeck | 2 | 60.6% | speck, fleck
+somic | 2 | 61.0% | sonic, comic
+kobla | 2 | 61.4% | koala, kobra
+tikan | 2 | 61.8% | titan, tukan
+dotch | 2 | 62.2% | dolch, notch
+roleo | 2 | 62.6% | rodeo, rolex
+duden | 2 | 63.0% | duden, süden
+nehen | 2 | 63.4% | nähen, gehen
+asmen | 2 | 63.8% | asien, atmen
+staul | 2 | 64.3% | stall, staub
+knieg | 2 | 64.7% | krieg, knien
+golee | 2 | 65.1% | gelee, golem
+ozgan | 2 | 65.5% | organ, ozean
+bombi | 2 | 65.9% | bambi, bombe
+calon | 2 | 66.3% | salon, cajon
+chios | 2 | 66.7% | chips, chaos
+vesus | 2 | 67.1% | jesus, venus
+mutor | 2 | 67.5% | motor, autor
+ksche | 2 | 67.9% | küche, asche
+blinz | 2 | 68.3% | blitz, blind
+clogn | 2 | 68.7% | clogs, clown
+mumik | 2 | 69.1% | musik, mumie
+tnast | 2 | 69.5% | knast, toast
+kakoo | 2 | 69.9% | kazoo, kakao
+nitre | 2 | 70.3% | niere, nitro
+girke | 2 | 70.7% | gurke, birke
+zelra | 2 | 71.1% | zebra, zelda
+jiger | 2 | 71.6% | tiger, jäger
+mahre | 2 | 72.0% | möhre, mähne
+vilka | 2 | 72.4% | milka, villa
+papsi | 2 | 72.8% | papst, pepsi
+groll | 2 | 73.2% | troll, grill
+stoft | 2 | 73.6% | stift, stoff
+vatur | 2 | 74.0% | vater, natur
+konig | 2 | 74.4% | honig, könig
+apple | 1 | 74.6% | apple
+dreck | 1 | 74.8% | dreck
+duell | 1 | 75.0% | duell
+eimer | 1 | 75.2% | eimer
+pfeil | 1 | 75.4% | pfeil
+totem | 1 | 75.6% | totem
+sitar | 1 | 75.8% | sitar
+haare | 1 | 76.0% | haare
+pixel | 1 | 76.2% | pixel
+wales | 1 | 76.4% | wales
+uluru | 1 | 76.6% | uluru
+husky | 1 | 76.8% | husky
+pizza | 1 | 77.0% | pizza
+ninja | 1 | 77.2% | ninja
+kirby | 1 | 77.4% | kirby
+pflug | 1 | 77.6% | pflug
+rubin | 1 | 77.8% | rubin
+orbit | 1 | 78.0% | orbit
+kokon | 1 | 78.2% | kokon
+vodka | 1 | 78.4% | vodka
+damon | 1 | 78.7% | dämon
+corgi | 1 | 78.9% | corgi
+pfote | 1 | 79.1% | pfote
+tokio | 1 | 79.3% | tokio
+gummi | 1 | 79.5% | gummi
+donut | 1 | 79.7% | donut
+tails | 1 | 79.9% | tails
+kebab | 1 | 80.1% | kebab
+emoji | 1 | 80.3% | emoji
+roman | 1 | 80.5% | roman
+rugby | 1 | 80.7% | rugby
+gouda | 1 | 80.9% | gouda
+knopf | 1 | 81.1% | knopf
+creme | 1 | 81.3% | creme
+drama | 1 | 81.5% | drama
+ahorn | 1 | 81.7% | ahorn
+profi | 1 | 81.9% | profi
+adobe | 1 | 82.1% | adobe
+tabak | 1 | 82.3% | tabak
+ayran | 1 | 82.5% | ayran
+pluto | 1 | 82.7% | pluto
+shrek | 1 | 82.9% | shrek
+hydra | 1 | 83.1% | hydra
+musli | 1 | 83.3% | müsli
+anime | 1 | 83.5% | anime
+curry | 1 | 83.7% | curry
+guiro | 1 | 83.9% | guiro
+zorro | 1 | 84.1% | zorro
+thron | 1 | 84.3% | thron
+alarm | 1 | 84.5% | alarm
+ac/dc | 1 | 84.7% | ac/dc
+oscar | 1 | 84.9% | oscar
+tesla | 1 | 85.1% | tesla
+inuit | 1 | 85.3% | inuit
+skoda | 1 | 85.5% | skoda
+goofy | 1 | 85.8% | goofy
+antik | 1 | 86.0% | antik
+texas | 1 | 86.2% | texas
+xerox | 1 | 86.4% | xerox
+olive | 1 | 86.6% | olive
+zugel | 1 | 86.8% | zügel
+wippe | 1 | 87.0% | wippe
+tafel | 1 | 87.2% | tafel
+cello | 1 | 87.4% | cello
+fuchs | 1 | 87.6% | fuchs
+munze | 1 | 87.8% | münze
+saure | 1 | 88.0% | säure
+weide | 1 | 88.2% | weide
+disco | 1 | 88.4% | disco
+lilie | 1 | 88.6% | lilie
+steam | 1 | 88.8% | steam
+markt | 1 | 89.0% | markt
+sonne | 1 | 89.2% | sonne
+anker | 1 | 89.4% | anker
+links | 1 | 89.6% | links
+hecht | 1 | 89.8% | hecht
+juwel | 1 | 90.0% | juwel
+wolke | 1 | 90.2% | wolke
+bison | 1 | 90.4% | bison
+morty | 1 | 90.6% | morty
+blase | 1 | 90.8% | blase
+kreuz | 1 | 91.0% | kreuz
+lasso | 1 | 91.2% | lasso
+stuhl | 1 | 91.4% | stuhl
+grube | 1 | 91.6% | grube
+regal | 1 | 91.8% | regal
+faxen | 1 | 92.0% | faxen
+peach | 1 | 92.2% | peach
+ferse | 1 | 92.4% | ferse
+pokal | 1 | 92.6% | pokal
+schoß | 1 | 92.9% | schoß
+genau | 1 | 93.1% | genau
+fluss | 1 | 93.3% | fluss
+alter | 1 | 93.5% | älter
+punkt | 1 | 93.7% | punkt
+luigi | 1 | 93.9% | luigi
+limbo | 1 | 94.1% | limbo
+armel | 1 | 94.3% | ärmel
+monch | 1 | 94.5% | mönch
+pumba | 1 | 94.7% | pumba
+offen | 1 | 94.9% | offen
+gluck | 1 | 95.1% | glück
+durre | 1 | 95.3% | dürre
+radar | 1 | 95.5% | radar
+basis | 1 | 95.7% | basis
+prinz | 1 | 95.9% | prinz
+venom | 1 | 96.1% | venom
+crocs | 1 | 96.3% | crocs
+virus | 1 | 96.5% | virus
+komet | 1 | 96.7% | komet
+jeans | 1 | 96.9% | jeans
+jenga | 1 | 97.1% | jenga
+hyane | 1 | 97.3% | hyäne
+essig | 1 | 97.5% | essig
+tumor | 1 | 97.7% | tumor
+skype | 1 | 97.9% | skype
+groot | 1 | 98.1% | groot
+figur | 1 | 98.3% | figur
+japan | 1 | 98.5% | japan
+robbe | 1 | 98.7% | robbe
+atlas | 1 | 98.9% | atlas
+video | 1 | 99.1% | video
+mulan | 1 | 99.3% | mulan
+sumpf | 1 | 99.5% | sumpf
+doner | 1 | 99.7% | döner
+handy | 1 | 100.% | handy

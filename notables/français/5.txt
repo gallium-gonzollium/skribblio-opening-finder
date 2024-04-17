@@ -1,0 +1,187 @@
+poile | 5 | 1.50% | poule, poire, poilu, poêle, toile
+carre | 5 | 3.01% | carré, cadre, carie, jarre, carte
+poupe | 4 | 4.21% | coupe, soupe, loupe, pouce
+bille | 4 | 5.42% | bible, bulle, fille, balle
+pache | 4 | 6.62% | vache, poche, hache, pêche
+mague | 4 | 7.83% | vague, bague, magie, dague
+fasse | 4 | 9.03% | basse, fesse, masse, tasse
+morde | 4 | 10.2% | monde, corde, merde, morse
+crame | 4 | 11.4% | crème, drame, craie, crabe
+paune | 4 | 12.6% | jaune, prune, pause, paume
+serle | 4 | 13.8% | perle, serre, merle, selle
+cable | 4 | 15.0% | sable, câble, table, cible
+reine | 4 | 16.2% | renne, reine, veine, reins
+tapin | 4 | 17.4% | lapin, tapis, sapin, tapir
+orge  | 3 | 18.3% | orage, gorge, orgue
+lace  | 3 | 19.2% | lance, lacet, glace
+parte | 3 | 20.1% | tarte, patte, porte
+arier | 3 | 21.0% | prier, crier, ariel
+vente | 3 | 21.9% | veste, pente, tente
+piege | 3 | 22.8% | piège, liège, pièce
+cigne | 3 | 23.7% | ligne, cygne, vigne
+foret | 3 | 24.6% | furet, fouet, forêt
+voter | 3 | 25.6% | voler, roter, voter
+bingo | 3 | 26.5% | bingo, dingo, bongo
+balon | 3 | 27.4% | bacon, baloo, talon
+fusee | 3 | 28.3% | musée, fusée, fumée
+futte | 3 | 29.2% | fuite, hutte, lutte
+radir | 3 | 30.1% | radis, radar, radio
+marin | 3 | 31.0% | marié, mario, matin
+momme | 3 | 31.9% | momie, gomme, pomme
+tampe | 3 | 32.8% | rampe, lampe, taupe
+taser | 3 | 33.7% | laser, taser, taper
+tivre | 3 | 34.6% | tigre, titre, livre
+herou | 3 | 35.5% | pérou, héron, héros
+yacho | 3 | 36.4% | nacho, macho, yacht
+femme | 3 | 37.3% | femme, gemme, ferme
+onale | 3 | 38.2% | ongle, ovale, oncle
+leur  | 2 | 38.8% | lueur, fleur
+cano  | 2 | 39.4% | canon, canoë
+ombe  | 2 | 40.0% | ombre, bombe
+oeur  | 2 | 40.6% | coeur, odeur
+sine  | 2 | 41.2% | usine, singe
+appe  | 2 | 41.8% | nappe, apple
+bire  | 2 | 42.4% | boire, bière
+chie  | 2 | 43.0% | chien, chine
+meto  | 2 | 43.6% | métro, météo
+sort  | 2 | 44.2% | short, sport
+hare  | 2 | 44.8% | phare, harpe
+crne  | 2 | 45.4% | corne, crâne
+suce  | 2 | 46.0% | sauce, sucre
+biso  | 2 | 46.6% | bison, bisou
+avon  | 2 | 47.2% | avion, savon
+coule | 2 | 47.8% | coude, moule
+herre | 2 | 48.4% | herbe, verre
+figle | 2 | 49.0% | aigle, figue
+minde | 2 | 49.6% | dinde, mince
+malon | 2 | 50.3% | melon, maçon
+ortue | 2 | 50.9% | ortie, orque
+porty | 2 | 51.5% | morty, porky
+boeud | 2 | 52.1% | noeud, boeuf
+scede | 2 | 52.7% | scène, suède
+panta | 2 | 53.3% | fanta, panda
+rubai | 2 | 53.9% | dubai, ruban
+linus | 2 | 54.5% | sinus, linux
+zrbre | 2 | 55.1% | zèbre, arbre
+milas | 2 | 55.7% | lilas, milan
+sashi | 2 | 56.3% | sasha, sushi
+laime | 2 | 56.9% | laine, larme
+puage | 2 | 57.5% | plage, nuage
+boute | 2 | 58.1% | bouée, boîte
+pluin | 2 | 58.7% | plein, pluie
+doint | 2 | 59.3% | doigt, point
+virux | 2 | 59.9% | vieux, virus
+frond | 2 | 60.5% | froid, front
+bland | 2 | 61.1% | gland, blanc
+riche | 2 | 61.7% | ruche, niche
+lumbo | 2 | 62.3% | limbo, dumbo
+dante | 2 | 62.9% | danse, datte
+genoe | 2 | 63.5% | genre, genou
+chamd | 2 | 64.1% | chaud, champ
+grepe | 2 | 64.7% | crêpe, guêpe
+ocran | 2 | 65.3% | océan, écran
+bamai | 2 | 65.9% | balai, bambi
+kahoo | 2 | 66.5% | yahoo, kazoo
+pimba | 2 | 67.1% | pumba, simba
+wapon | 2 | 67.7% | wagon, japon
+tonge | 2 | 68.3% | tongs, congé
+cotel | 2 | 68.9% | côtes, hôtel
+tacou | 2 | 69.5% | tatou, tacos
+luidi | 2 | 70.1% | luigi, lundi
+rabot | 2 | 70.7% | sabot, robot
+river | 2 | 71.3% | hiver, rêver
+olive | 1 | 71.6% | olive
+ancre | 1 | 71.9% | ancre
+bagel | 1 | 72.2% | bagel
+rails | 1 | 72.5% | rails
+gecko | 1 | 72.8% | gecko
+ecole | 1 | 73.1% | école
+royal | 1 | 73.4% | royal
+notch | 1 | 73.7% | notch
+tibia | 1 | 74.0% | tibia
+calin | 1 | 74.3% | câlin
+pizza | 1 | 74.6% | pizza
+cobra | 1 | 75.0% | cobra
+kebab | 1 | 75.3% | kebab
+vodka | 1 | 75.6% | vodka
+kyoto | 1 | 75.9% | kyoto
+zorro | 1 | 76.2% | zorro
+gilet | 1 | 76.5% | gilet
+quick | 1 | 76.8% | quick
+tokyo | 1 | 77.1% | tokyo
+piano | 1 | 77.4% | piano
+frigo | 1 | 77.7% | frigo
+amour | 1 | 78.0% | amour
+acide | 1 | 78.3% | acide
+shrek | 1 | 78.6% | shrek
+skoda | 1 | 78.9% | skoda
+sonic | 1 | 79.2% | sonic
+rugby | 1 | 79.5% | rugby
+zelda | 1 | 79.8% | zelda
+okapi | 1 | 80.1% | okapi
+etang | 1 | 80.4% | étang
+epice | 1 | 80.7% | épicé
+fache | 1 | 81.0% | fâché
+diner | 1 | 81.3% | dîner
+assis | 1 | 81.6% | assis
+pepsi | 1 | 81.9% | pepsi
+hamac | 1 | 82.2% | hamac
+flash | 1 | 82.5% | flash
+guiro | 1 | 82.8% | guiro
+enfer | 1 | 83.1% | enfer
+steak | 1 | 83.4% | steak
+koala | 1 | 83.7% | koala
+seoul | 1 | 84.0% | séoul
+tuyau | 1 | 84.3% | tuyau
+voyou | 1 | 84.6% | voyou
+kayak | 1 | 84.9% | kayak
+kirby | 1 | 85.2% | kirby
+pelle | 1 | 85.5% | pelle
+rouge | 1 | 85.8% | rouge
+buche | 1 | 86.1% | bûche
+vomir | 1 | 86.4% | vomir
+puree | 1 | 86.7% | purée
+huile | 1 | 87.0% | huile
+maroc | 1 | 87.3% | maroc
+joker | 1 | 87.6% | joker
+banjo | 1 | 87.9% | banjo
+paris | 1 | 88.2% | paris
+maire | 1 | 88.5% | maire
+evier | 1 | 88.8% | évier
+sauna | 1 | 89.1% | sauna
+flute | 1 | 89.4% | flûte
+navet | 1 | 89.7% | navet
+repas | 1 | 90.0% | repas
+hyene | 1 | 90.3% | hyène
+appat | 1 | 90.6% | appât
+sante | 1 | 90.9% | santé
+jeans | 1 | 91.2% | jeans
+mugir | 1 | 91.5% | mugir
+booba | 1 | 91.8% | booba
+tissu | 1 | 92.1% | tissu
+rubis | 1 | 92.4% | rubis
+grece | 1 | 92.7% | grèce
+hibou | 1 | 93.0% | hibou
+puits | 1 | 93.3% | puits
+syrie | 1 | 93.6% | syrie
+femur | 1 | 93.9% | fémur
+chiot | 1 | 94.2% | chiot
+supra | 1 | 94.5% | supra
+yoshi | 1 | 94.8% | yoshi
+regle | 1 | 95.1% | règle
+globe | 1 | 95.4% | globe
+poney | 1 | 95.7% | poney
+sourd | 1 | 96.0% | sourd
+pluto | 1 | 96.3% | pluto
+magma | 1 | 96.6% | magma
+coton | 1 | 96.9% | coton
+timon | 1 | 97.2% | timon
+pekin | 1 | 97.5% | pékin
+creux | 1 | 97.8% | creux
+stade | 1 | 98.1% | stade
+pates | 1 | 98.4% | pâtes
+skype | 1 | 98.7% | skype
+trone | 1 | 99.0% | trône
+train | 1 | 99.3% | train
+queue | 1 | 99.6% | queue
+geant | 1 | 100.% | géant

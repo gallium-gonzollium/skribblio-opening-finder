@@ -1,0 +1,284 @@
+store | 7 | 1.20% | stove, spore, storm, store, stone, score, stork
+crown | 6 | 2.24% | drown, crowd, crown, frown, brown, clown
+shart | 6 | 3.27% | shirt, share, start, smart, shark, short
+srain | 6 | 4.31% | train, stain, grain, drain, spain, brain
+panta | 5 | 5.17% | pants, panda, fanta, santa, pasta
+shale | 5 | 6.03% | whale, shake, shave, shape, scale
+yound | 5 | 6.89% | young, pound, wound, round, sound
+touth | 5 | 7.75% | south, tooth, touch, mouth, tough
+glose | 5 | 8.62% | gloss, globe, goose, glove, close
+slock | 5 | 9.48% | clock, block, shock, stock, flock
+plane | 4 | 10.1% | plant, plate, plane, plank
+steaw | 4 | 10.8% | straw, steal, steam, steak
+cairy | 4 | 11.5% | hairy, carry, dairy, fairy
+corch | 4 | 12.2% | coach, couch, porch, torch
+punny | 4 | 12.9% | funny, bunny, sunny, penny
+cress | 4 | 13.6% | chess, cross, dress, press
+brack | 4 | 14.3% | black, crack, brick, track
+chilk | 4 | 15.0% | child, chalk, chili, chile
+brard | 4 | 15.6% | beard, brand, braid, board
+pario | 4 | 16.3% | mario, patio, paris, wario
+leach | 4 | 17.0% | peach, leash, leech, beach
+bream | 4 | 17.7% | bread, break, cream, dream
+spack | 4 | 18.4% | spark, spank, space, snack
+sheel | 4 | 19.1% | shell, sheet, sheep, wheel
+crame | 4 | 19.8% | crate, crane, crime, frame
+cower | 4 | 20.5% | coder, cover, tower, power
+slamp | 4 | 21.2% | swamp, stamp, slump, clamp
+match | 4 | 21.8% | watch, march, match, hatch
+boker | 4 | 22.5% | boxer, biker, joker, poker
+bango | 4 | 23.2% | banjo, bongo, bingo, mango
+slive | 4 | 23.9% | slave, slide, slime, olive
+flass | 4 | 24.6% | flash, glass, floss, flask
+grash | 3 | 25.1% | graph, trash, grass
+darty | 3 | 25.6% | dirty, party, darts
+memon | 3 | 26.2% | lemon, demon, melon
+thiek | 3 | 26.7% | thief, thick, think
+pouse | 3 | 27.2% | house, mouse, pause
+ight  | 3 | 27.7% | right, light, night
+shost | 3 | 28.2% | shoot, ghost, shout
+lever | 3 | 28.7% | level, liver, fever
+chesk | 3 | 29.3% | chest, check, cheek
+totel | 3 | 29.8% | hotel, totem, towel
+smill | 3 | 30.3% | smell, spill, smile
+laser | 3 | 30.8% | laser, loser, taser
+srunk | 3 | 31.3% | drunk, trunk, skunk
+pride | 3 | 31.8% | price, prize, bride
+belly | 3 | 32.4% | belly, bully, jelly
+arror | 3 | 32.9% | error, armor, arrow
+floot | 3 | 33.4% | floor, float, flood
+spead | 3 | 33.9% | spend, speed, spear
+medal | 3 | 34.4% | medal, metal, pedal
+sirew | 3 | 35.0% | shrew, screw, siren
+stink | 3 | 35.5% | stink, stick, sting
+magia | 3 | 36.0% | magic, magma, mafia
+spoop | 3 | 36.5% | scoop, spool, spoon
+mable | 3 | 37.0% | table, maple, cable
+frush | 3 | 37.5% | fresh, flush, brush
+pence | 3 | 38.1% | penne, fence, peace
+droll | 3 | 38.6% | drill, troll, drool
+swarf | 3 | 39.1% | scarf, swarm, dwarf
+trumb | 3 | 39.6% | thumb, crumb, trump
+chais | 3 | 40.1% | chaos, chain, chair
+weist | 3 | 40.6% | heist, wrist, waist
+pappy | 3 | 41.2% | happy, poppy, puppy
+shruk | 3 | 41.7% | shrub, shrug, shrek
+norse | 3 | 42.2% | noise, nurse, horse
+bunch | 3 | 42.7% | bench, lunch, punch
+hudge | 3 | 43.2% | hedge, fudge, judge
+coust | 3 | 43.7% | court, crust, coast
+sigar | 3 | 44.3% | cigar, sugar, sitar
+jatan | 3 | 44.8% | japan, satan, catan
+lurry | 3 | 45.3% | furry, curry, lorry
+blinp | 3 | 45.8% | bling, blimp, blind
+lough | 3 | 46.3% | laugh, rough, dough
+quilt | 3 | 46.8% | quiet, quilt, quill
+greek | 3 | 47.4% | green, greed, creek
+prawl | 3 | 47.9% | brawl, prawn, crawl
+cleak | 3 | 48.4% | cloak, clean, clerk
+groul | 3 | 48.9% | group, ghoul, growl
+soxic | 2 | 49.3% | toxic, sonic
+phote | 2 | 49.6% | phone, photo
+rolem | 2 | 50.0% | rolex, golem
+monel | 2 | 50.3% | model, money
+gamen | 2 | 50.6% | ramen, gamer
+borld | 2 | 51.0% | world, bored
+coyal | 2 | 51.3% | royal, coral
+clicf | 2 | 51.7% | cliff, click
+sloke | 2 | 52.0% | smoke, slope
+geave | 2 | 52.4% | leave, grave
+dizry | 2 | 52.7% | diary, dizzy
+sprcy | 2 | 53.1% | spray, spicy
+brood | 2 | 53.4% | blood, broom
+limb  | 2 | 53.7% | limbo, climb
+aevil | 2 | 54.1% | devil, anvil
+eath  | 2 | 54.4% | earth, death
+awarm | 2 | 54.8% | award, alarm
+ummy  | 2 | 55.1% | mummy, gummy
+stagf | 2 | 55.5% | stage, staff
+sqeat | 2 | 55.8% | sweat, squat
+twing | 2 | 56.2% | swing, twins
+eans  | 2 | 56.5% | jeans, beans
+ault  | 2 | 56.8% | vault, adult
+knime | 2 | 57.2% | anime, knife
+comit | 2 | 57.5% | comet, vomit
+chite | 2 | 57.9% | chime, white
+piant | 2 | 58.2% | giant, piano
+torst | 2 | 58.6% | toast, torso
+ahorn | 2 | 58.9% | thorn, acorn
+smail | 2 | 59.3% | email, snail
+vodeo | 2 | 59.6% | video, rodeo
+danoe | 2 | 60.0% | dance, canoe
+vinus | 2 | 60.3% | venus, virus
+razar | 2 | 60.6% | razor, radar
+ancle | 2 | 61.0% | uncle, ankle
+agel  | 2 | 61.3% | angel, bagel
+pint  | 2 | 61.7% | point, paint
+stumy | 2 | 62.0% | study, stump
+rive  | 2 | 62.4% | drive, river
+tible | 2 | 62.7% | title, bible
+lagle | 2 | 63.1% | ladle, eagle
+wacon | 2 | 63.4% | wagon, bacon
+tirer | 2 | 63.7% | tiger, tired
+chins | 2 | 64.1% | chips, china
+blake | 2 | 64.4% | brake, blaze
+cocra | 2 | 64.8% | cocoa, cobra
+srade | 2 | 65.1% | spade, trade
+floud | 2 | 65.5% | cloud, flour
+pater | 2 | 65.8% | paper, water
+wades | 2 | 66.2% | hades, wales
+canay | 2 | 66.5% | candy, canal
+cravy | 2 | 66.8% | crazy, gravy
+soshi | 2 | 67.2% | sushi, yoshi
+fluit | 2 | 67.5% | fluid, fruit
+cargi | 2 | 67.9% | corgi, cargo
+gurd  | 2 | 68.2% | guard, gourd
+hondy | 2 | 68.6% | honey, honda
+peal  | 2 | 68.9% | petal, pearl
+heat  | 2 | 69.3% | heart, wheat
+plute | 2 | 69.6% | flute, pluto
+quee  | 2 | 70.0% | queen, queue
+loth  | 2 | 70.3% | cloth, sloth
+sauca | 2 | 70.6% | sauna, sauce
+pilon | 2 | 71.0% | pylon, pilot
+pumbo | 2 | 71.3% | dumbo, pumba
+allen | 2 | 71.7% | alley, alien
+edder | 2 | 72.0% | udder, elder
+noth  | 2 | 72.4% | notch, north
+alove | 2 | 72.7% | alone, above
+berch | 2 | 73.1% | merch, birch
+zebda | 2 | 73.4% | zelda, zebra
+sala  | 2 | 73.7% | salad, salsa
+sreep | 2 | 74.1% | creep, sleep
+orean | 2 | 74.4% | organ, ocean
+cabel | 2 | 74.8% | camel, label
+movse | 2 | 75.1% | movie, moose
+tail  | 2 | 75.5% | trail, tails
+ello  | 2 | 75.8% | cello, jello
+robon | 2 | 76.2% | robot, robin
+bedet | 2 | 76.5% | bidet, beret
+elow  | 2 | 76.8% | elbow, below
+hydna | 2 | 77.2% | hydra, hyena
+dlama | 2 | 77.5% | drama, llama
+drifk | 2 | 77.9% | drift, drink
+gries | 2 | 78.2% | fries, grits
+groam | 2 | 78.6% | groom, groan
+yacho | 2 | 78.9% | yacht, macho
+seool | 2 | 79.3% | stool, seoul
+ineel | 2 | 79.6% | intel, kneel
+pedan | 2 | 80.0% | sedan, pecan
+oasil | 2 | 80.3% | oasis, basil
+egypt | 1 | 80.5% | egypt
+idiot | 1 | 80.6% | idiot
+woman | 1 | 80.8% | woman
+emoji | 1 | 81.0% | emoji
+kayak | 1 | 81.2% | kayak
+luigi | 1 | 81.3% | luigi
+ac/dc | 1 | 81.5% | ac/dc
+skirt | 1 | 81.7% | skirt
+donut | 1 | 81.8% | donut
+socks | 1 | 82.0% | socks
+onion | 1 | 82.2% | onion
+tulip | 1 | 82.4% | tulip
+pizza | 1 | 82.5% | pizza
+boots | 1 | 82.7% | boots
+purse | 1 | 82.9% | purse
+empty | 1 | 83.1% | empty
+genie | 1 | 83.2% | genie
+dryer | 1 | 83.4% | dryer
+kirby | 1 | 83.6% | kirby
+novel | 1 | 83.7% | novel
+skull | 1 | 83.9% | skull
+blush | 1 | 84.1% | blush
+hippo | 1 | 84.3% | hippo
+texas | 1 | 84.4% | texas
+vodka | 1 | 84.6% | vodka
+ninja | 1 | 84.8% | ninja
+tesla | 1 | 85.0% | tesla
+pepsi | 1 | 85.1% | pepsi
+sewer | 1 | 85.3% | sewer
+prism | 1 | 85.5% | prism
+zorro | 1 | 85.6% | zorro
+scent | 1 | 85.8% | scent
+juice | 1 | 86.0% | juice
+cabin | 1 | 86.2% | cabin
+attic | 1 | 86.3% | attic
+music | 1 | 86.5% | music
+shelf | 1 | 86.7% | shelf
+snake | 1 | 86.8% | snake
+angry | 1 | 87.0% | angry
+dunes | 1 | 87.2% | dunes
+skype | 1 | 87.4% | skype
+spine | 1 | 87.5% | spine
+scary | 1 | 87.7% | scary
+squid | 1 | 87.9% | squid
+gnome | 1 | 88.1% | gnome
+apron | 1 | 88.2% | apron
+truck | 1 | 88.4% | truck
+cupid | 1 | 88.6% | cupid
+ruins | 1 | 88.7% | ruins
+lasso | 1 | 88.9% | lasso
+hijab | 1 | 89.1% | hijab
+field | 1 | 89.3% | field
+india | 1 | 89.4% | india
+stand | 1 | 89.6% | stand
+amber | 1 | 89.8% | amber
+bambi | 1 | 90.0% | bambi
+radio | 1 | 90.1% | radio
+rifle | 1 | 90.3% | rifle
+lemur | 1 | 90.5% | lemur
+whisk | 1 | 90.6% | whisk
+nepal | 1 | 90.8% | nepal
+whole | 1 | 91.0% | whole
+goofy | 1 | 91.2% | goofy
+sword | 1 | 91.3% | sword
+ruler | 1 | 91.5% | ruler
+force | 1 | 91.7% | force
+miner | 1 | 91.8% | miner
+kebab | 1 | 92.0% | kebab
+lilac | 1 | 92.2% | lilac
+build | 1 | 92.4% | build
+apple | 1 | 92.5% | apple
+pixel | 1 | 92.7% | pixel
+witch | 1 | 92.9% | witch
+gecko | 1 | 93.1% | gecko
+koala | 1 | 93.2% | koala
+opera | 1 | 93.4% | opera
+morty | 1 | 93.6% | morty
+thigh | 1 | 93.7% | thigh
+jenga | 1 | 93.9% | jenga
+trend | 1 | 94.1% | trend
+xerox | 1 | 94.3% | xerox
+tokyo | 1 | 94.4% | tokyo
+metro | 1 | 94.6% | metro
+uluru | 1 | 94.8% | uluru
+orbit | 1 | 95.0% | orbit
+bison | 1 | 95.1% | bison
+daisy | 1 | 95.3% | daisy
+muddy | 1 | 95.5% | muddy
+vinyl | 1 | 95.6% | vinyl
+pinky | 1 | 95.8% | pinky
+clogs | 1 | 96.0% | clogs
+grill | 1 | 96.2% | grill
+actor | 1 | 96.3% | actor
+italy | 1 | 96.5% | italy
+niece | 1 | 96.7% | niece
+tibet | 1 | 96.8% | tibet
+otter | 1 | 97.0% | otter
+front | 1 | 97.2% | front
+guiro | 1 | 97.4% | guiro
+prune | 1 | 97.5% | prune
+messy | 1 | 97.7% | messy
+quail | 1 | 97.9% | quail
+reeds | 1 | 98.1% | reeds
+kazoo | 1 | 98.2% | kazoo
+algae | 1 | 98.4% | algae
+bulge | 1 | 98.6% | bulge
+tumor | 1 | 98.7% | tumor
+scuba | 1 | 98.9% | scuba
+lobby | 1 | 99.1% | lobby
+abyss | 1 | 99.3% | abyss
+ferry | 1 | 99.4% | ferry
+ozone | 1 | 99.6% | ozone
+viola | 1 | 99.8% | viola
+mayor | 1 | 100.% | mayor

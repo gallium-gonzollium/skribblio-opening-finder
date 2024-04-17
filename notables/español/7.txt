@@ -1,0 +1,296 @@
+carpera | 3 | 0.87% | carpeta, cartera, carrera
+aruario | 3 | 1.75% | acuario, anuario, armario
+gallena | 3 | 2.63% | ballena, galleta, gallina
+cabello | 3 | 3.51% | cabello, caballo, camello
+intura  | 2 | 4.10% | cintura, pintura
+camiar  | 2 | 4.69% | cambiar, caminar
+ascara  | 2 | 5.27% | máscara, cáscara
+estdio  | 2 | 5.86% | estudio, estadio
+planca  | 2 | 6.45% | palanca, plancha
+rdilla  | 2 | 7.03% | ardilla, rodilla
+aquero  | 2 | 7.62% | vaquero, arquero
+torpado | 2 | 8.21% | torpedo, tornado
+casnada | 2 | 8.79% | cascada, carnada
+gajador | 2 | 9.38% | tajador, ganador
+borbero | 2 | 9.97% | barbero, bombero
+marcota | 2 | 10.5% | marmota, mascota
+bantera | 2 | 11.1% | pantera, bandera
+fortuga | 2 | 11.7% | fortuna, tortuga
+mostada | 2 | 12.3% | mostaza, tostada
+cestana | 2 | 12.9% | pestaña, castaña
+boteria | 2 | 13.4% | batería, lotería
+notella | 2 | 14.0% | botella, nutella
+polilia | 2 | 14.6% | polilla, policía
+escalan | 2 | 15.2% | escalar, escalón
+cestigo | 2 | 15.8% | testigo, castigo
+aranero | 2 | 16.4% | granero, arenero
+moraton | 2 | 17.0% | moretón, maratón
+drlgado | 2 | 17.5% | drogado, delgado
+pmision | 2 | 18.1% | prisión, emisión
+pechero | 2 | 18.7% | pechera, lechero
+palsera | 2 | 19.3% | pulsera, palmera
+franada | 2 | 19.9% | frazada, granada
+contina | 2 | 20.5% | cantina, cortina
+eaquina | 2 | 21.1% | esquina, máquina
+percado | 2 | 21.7% | pescado, mercado
+mendaje | 2 | 22.2% | mensaje, vendaje
+tablera | 2 | 22.8% | tablero, tableta
+paatano | 2 | 23.4% | plátano, pantano
+cardero | 2 | 24.0% | cartero, cordero
+sejilla | 2 | 24.6% | semilla, mejilla
+tarista | 2 | 25.2% | turista, taxista
+canario | 1 | 25.5% | canario
+android | 1 | 25.8% | android
+alcalde | 1 | 26.0% | alcalde
+bitcoin | 1 | 26.3% | bitcoin
+piscina | 1 | 26.6% | piscina
+grafiti | 1 | 26.9% | grafiti
+smoking | 1 | 27.2% | smoking
+baclava | 1 | 27.5% | baclava
+grafica | 1 | 27.8% | gráfica
+taberna | 1 | 28.1% | taberna
+lampara | 1 | 28.4% | lámpara
+azafata | 1 | 28.7% | azafata
+segundo | 1 | 29.0% | segundo
+paisaje | 1 | 29.3% | paisaje
+cebolla | 1 | 29.6% | cebolla
+volumen | 1 | 29.9% | volumen
+sonreir | 1 | 30.2% | sonreír
+burbuja | 1 | 30.4% | burbuja
+edredon | 1 | 30.7% | edredón
+hormiga | 1 | 31.0% | hormiga
+maracas | 1 | 31.3% | maracas
+mochila | 1 | 31.6% | mochila
+victima | 1 | 31.9% | víctima
+bellota | 1 | 32.2% | bellota
+quimico | 1 | 32.5% | químico
+girasol | 1 | 32.8% | girasol
+juguete | 1 | 33.1% | juguete
+mapache | 1 | 33.4% | mapache
+gumball | 1 | 33.7% | gumball
+pildora | 1 | 34.0% | píldora
+manzana | 1 | 34.3% | manzana
+rayuela | 1 | 34.6% | rayuela
+navidad | 1 | 34.8% | navidad
+padrino | 1 | 35.1% | padrino
+kendama | 1 | 35.4% | kendama
+brocoli | 1 | 35.7% | brócoli
+caniche | 1 | 36.0% | caniche
+hamster | 1 | 36.3% | hámster
+liquido | 1 | 36.6% | líquido
+silbato | 1 | 36.9% | silbato
+persona | 1 | 37.2% | persona
+panuelo | 1 | 37.5% | pañuelo
+pinocho | 1 | 37.8% | pinocho
+patines | 1 | 38.1% | patines
+esfinge | 1 | 38.4% | esfinge
+campana | 1 | 38.7% | campana
+ombligo | 1 | 39.0% | ombligo
+gigante | 1 | 39.2% | gigante
+riqueza | 1 | 39.5% | riqueza
+samsung | 1 | 39.8% | samsung
+aureola | 1 | 40.1% | aureola
+trombon | 1 | 40.4% | trombón
+arbitro | 1 | 40.7% | árbitro
+cristal | 1 | 41.0% | cristal
+esponja | 1 | 41.3% | esponja
+colegio | 1 | 41.6% | colegio
+alergia | 1 | 41.9% | alergia
+galaxia | 1 | 42.2% | galaxia
+dificil | 1 | 42.5% | difícil
+campeon | 1 | 42.8% | campeón
+consola | 1 | 43.1% | consola
+canguro | 1 | 43.4% | canguro
+colibri | 1 | 43.6% | colibrí
+tobogan | 1 | 43.9% | tobogán
+codicia | 1 | 44.2% | codicia
+dalmata | 1 | 44.5% | dálmata
+asesino | 1 | 44.8% | asesino
+manejar | 1 | 45.1% | manejar
+cerebro | 1 | 45.4% | cerebro
+espiral | 1 | 45.7% | espiral
+neptuno | 1 | 46.0% | neptuno
+levitar | 1 | 46.3% | levitar
+funeral | 1 | 46.6% | funeral
+monster | 1 | 46.9% | monster
+brillar | 1 | 47.2% | brillar
+comedia | 1 | 47.5% | comedia
+escocia | 1 | 47.8% | escocia
+bobsled | 1 | 48.0% | bobsled
+vomitar | 1 | 48.3% | vomitar
+autobus | 1 | 48.6% | autobús
+militar | 1 | 48.9% | militar
+rumania | 1 | 49.2% | rumania
+america | 1 | 49.5% | américa
+mejorar | 1 | 49.8% | mejorar
+desague | 1 | 50.1% | desagüe
+durazno | 1 | 50.4% | durazno
+iglesia | 1 | 50.7% | iglesia
+chupete | 1 | 51.0% | chupete
+detonar | 1 | 51.3% | detonar
+nenufar | 1 | 51.6% | nenúfar
+esgrima | 1 | 51.9% | esgrima
+familia | 1 | 52.1% | familia
+cliente | 1 | 52.4% | cliente
+tiburon | 1 | 52.7% | tiburón
+ukelele | 1 | 53.0% | ukelele
+perfume | 1 | 53.3% | perfume
+insecto | 1 | 53.6% | insecto
+colchon | 1 | 53.9% | colchón
+vlogger | 1 | 54.2% | vlogger
+oxigeno | 1 | 54.5% | oxígeno
+altavoz | 1 | 54.8% | altavoz
+ajedrez | 1 | 55.1% | ajedrez
+apuntar | 1 | 55.4% | apuntar
+estante | 1 | 55.7% | estante
+musculo | 1 | 56.0% | músculo
+verruga | 1 | 56.3% | verruga
+saturno | 1 | 56.5% | saturno
+propina | 1 | 56.8% | propina
+anguila | 1 | 57.1% | anguila
+golpear | 1 | 57.4% | golpear
+albanil | 1 | 57.7% | albañil
+enfocar | 1 | 58.0% | enfocar
+dominos | 1 | 58.3% | dominós
+mafioso | 1 | 58.6% | mafioso
+gandalf | 1 | 58.9% | gandalf
+origami | 1 | 59.2% | origami
+pendulo | 1 | 59.5% | péndulo
+almacen | 1 | 59.8% | almacén
+gaseosa | 1 | 60.1% | gaseosa
+bumeran | 1 | 60.4% | búmeran
+pikachu | 1 | 60.7% | pikachu
+fabrica | 1 | 60.9% | fábrica
+croacia | 1 | 61.2% | croacia
+florete | 1 | 61.5% | florete
+champan | 1 | 61.8% | champán
+beatbox | 1 | 62.1% | beatbox
+soldado | 1 | 62.4% | soldado
+naranja | 1 | 62.7% | naranja
+enchufe | 1 | 63.0% | enchufe
+gaviota | 1 | 63.3% | gaviota
+arbusto | 1 | 63.6% | arbusto
+impacto | 1 | 63.9% | impacto
+confuso | 1 | 64.2% | confuso
+enfermo | 1 | 64.5% | enfermo
+cadaver | 1 | 64.8% | cadáver
+aladdin | 1 | 65.1% | aladdín
+oficina | 1 | 65.3% | oficina
+windows | 1 | 65.6% | windows
+defensa | 1 | 65.9% | defensa
+sonrojo | 1 | 66.2% | sonrojo
+dracula | 1 | 66.5% | drácula
+vinagre | 1 | 66.8% | vinagre
+babuino | 1 | 67.1% | babuino
+burrito | 1 | 67.4% | burrito
+asaltar | 1 | 67.7% | asaltar
+barriga | 1 | 68.0% | barriga
+tenedor | 1 | 68.3% | tenedor
+youtube | 1 | 68.6% | youtube
+abierto | 1 | 68.9% | abierto
+ravioli | 1 | 69.2% | ravioli
+empujar | 1 | 69.5% | empujar
+centimo | 1 | 69.7% | céntimo
+ciencia | 1 | 70.0% | ciencia
+maestro | 1 | 70.3% | maestro
+toronja | 1 | 70.6% | toronja
+irlanda | 1 | 70.9% | irlanda
+capitan | 1 | 71.2% | capitán
+tractor | 1 | 71.5% | tractor
+florida | 1 | 71.8% | florida
+palacio | 1 | 72.1% | palacio
+cerveza | 1 | 72.4% | cerveza
+calamar | 1 | 72.7% | calamar
+retrato | 1 | 73.0% | retrato
+francia | 1 | 73.3% | francia
+colmena | 1 | 73.6% | colmena
+compras | 1 | 73.9% | compras
+tripode | 1 | 74.1% | trípode
+demonio | 1 | 74.4% | demonio
+minivan | 1 | 74.7% | minivan
+peligro | 1 | 75.0% | peligro
+algodon | 1 | 75.3% | algodón
+iceberg | 1 | 75.6% | iceberg
+piernas | 1 | 75.9% | piernas
+pistola | 1 | 76.2% | pistola
+diploma | 1 | 76.5% | diploma
+enojado | 1 | 76.8% | enojado
+vampiro | 1 | 77.1% | vampiro
+cerumen | 1 | 77.4% | cerumen
+londres | 1 | 77.7% | londres
+ventana | 1 | 78.0% | ventana
+tatuaje | 1 | 78.2% | tatuaje
+desfile | 1 | 78.5% | desfile
+antiguo | 1 | 78.8% | antiguo
+partido | 1 | 79.1% | partido
+aplauso | 1 | 79.4% | aplauso
+cemento | 1 | 79.7% | cemento
+alfiler | 1 | 80.0% | alfiler
+viajero | 1 | 80.3% | viajero
+hashtag | 1 | 80.6% | hashtag
+eclipse | 1 | 80.9% | eclipse
+crucero | 1 | 81.2% | crucero
+discord | 1 | 81.5% | discord
+fracaso | 1 | 81.8% | fracaso
+caracol | 1 | 82.1% | caracol
+pinball | 1 | 82.4% | pinball
+maniqui | 1 | 82.6% | maniquí
+corazon | 1 | 82.9% | corazón
+herrero | 1 | 83.2% | herrero
+cuchara | 1 | 83.5% | cuchara
+vegetal | 1 | 83.8% | vegetal
+bufanda | 1 | 84.1% | bufanda
+limpiar | 1 | 84.4% | limpiar
+rebotar | 1 | 84.7% | rebotar
+jugador | 1 | 85.0% | jugador
+debiles | 1 | 85.3% | débiles
+teclado | 1 | 85.6% | teclado
+lechuga | 1 | 85.9% | lechuga
+ferrari | 1 | 86.2% | ferrari
+amapola | 1 | 86.5% | amapola
+circulo | 1 | 86.8% | circulo
+mollete | 1 | 87.0% | mollete
+ciguena | 1 | 87.3% | cigüeña
+brujula | 1 | 87.6% | brújula
+noruega | 1 | 87.9% | noruega
+guadana | 1 | 88.2% | guadaña
+saxofon | 1 | 88.5% | saxofón
+gatillo | 1 | 88.8% | gatillo
+creeper | 1 | 89.1% | creeper
+abrazar | 1 | 89.4% | abrazar
+zepelin | 1 | 89.7% | zepelín
+twitter | 1 | 90.0% | twitter
+credito | 1 | 90.3% | crédito
+villano | 1 | 90.6% | villano
+alcohol | 1 | 90.9% | alcohol
+sacudir | 1 | 91.2% | sacudir
+cansado | 1 | 91.4% | cansado
+uniceja | 1 | 91.7% | uniceja
+estatua | 1 | 92.0% | estatua
+fachada | 1 | 92.3% | fachada
+vortice | 1 | 92.6% | vórtice
+pokemon | 1 | 92.9% | pokémon
+popular | 1 | 93.2% | popular
+reflejo | 1 | 93.5% | reflejo
+helecho | 1 | 93.8% | helecho
+corbata | 1 | 94.1% | corbata
+mansion | 1 | 94.4% | mansión
+eructar | 1 | 94.7% | eructar
+lenador | 1 | 95.0% | leñador
+escupir | 1 | 95.3% | escupir
+karaoke | 1 | 95.6% | karaoke
+coliseo | 1 | 95.8% | coliseo
+enlazar | 1 | 96.1% | enlazar
+doritos | 1 | 96.4% | doritos
+resorte | 1 | 96.7% | resorte
+caldera | 1 | 97.0% | caldera
+espacio | 1 | 97.3% | espacio
+barbaro | 1 | 97.6% | bárbaro
+cazador | 1 | 97.9% | cazador
+batalla | 1 | 98.2% | batalla
+abogado | 1 | 98.5% | abogado
+pocilga | 1 | 98.8% | pocilga
+anuncio | 1 | 99.1% | anuncio
+planeta | 1 | 99.4% | planeta
+mareado | 1 | 99.7% | mareado
+montana | 1 | 100.% | montaña

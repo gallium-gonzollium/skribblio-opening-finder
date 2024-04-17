@@ -1,0 +1,298 @@
+touche | 6 | 1.44% | couche, bouche, douche, mouche, louche, torche
+manque | 4 | 2.40% | mangue, masque, marque, banque
+paison | 4 | 3.36% | maison, saison, prison, poison
+chane  | 3 | 4.08% | chanel, chance, chaîne
+rourir | 3 | 4.80% | mourir, courir, rougir
+riseau | 3 | 5.52% | rideau, réseau, oiseau
+bateau | 3 | 6.25% | râteau, gâteau, bateau
+pouton | 3 | 6.97% | mouton, poumon, bouton
+foudre | 3 | 7.69% | coudre, poudre, fondre
+panger | 3 | 8.41% | manger, panier, danger
+centre | 3 | 9.13% | ventre, cendre, cintre
+frange | 3 | 9.85% | grange, france, orange
+cisque | 3 | 10.5% | risque, cirque, casque
+bacman | 3 | 11.2% | batman, pacman, barman
+garafe | 3 | 12.0% | carafe, garage, girafe
+minuie | 3 | 12.7% | minute, minnie, minuit
+pignon | 3 | 13.4% | pigeon, oignon, mignon
+trite  | 2 | 13.9% | triste, truite
+levre  | 2 | 14.4% | lièvre, lèvres
+medus  | 2 | 14.9% | médusa, méduse
+ousin  | 2 | 15.3% | cousin, oursin
+poche  | 2 | 15.8% | porche, pioche
+point  | 2 | 16.3% | points, pointe
+caton  | 2 | 16.8% | chaton, carton
+poupe  | 2 | 17.3% | poulpe, poupée
+renad  | 2 | 17.7% | renaud, renard
+cient  | 2 | 18.2% | client, ciment
+iroir  | 2 | 18.7% | tiroir, miroir
+canad  | 2 | 19.2% | canard, canada
+aisse  | 2 | 19.7% | caisse, laisse
+cabne  | 2 | 20.1% | cabane, cabine
+anche  | 2 | 20.6% | hanche, manche
+cayon  | 2 | 21.1% | crayon, canyon
+buffe  | 2 | 21.6% | buffet, buffle
+coper  | 2 | 22.1% | couper, copier
+bille  | 2 | 22.5% | billes, billet
+balon  | 2 | 23.0% | balcon, ballon
+pouvre | 2 | 23.5% | pauvre, poivre
+jamion | 2 | 24.0% | jambon, camion
+timire | 2 | 24.5% | timide, timbre
+bronse | 2 | 25.0% | bronze, brosse
+grilpe | 2 | 25.4% | grille, grippe
+sacade | 2 | 25.9% | salade, façade
+rouher | 2 | 26.4% | rouler, rocher
+jarwin | 2 | 26.9% | jardin, darwin
+mourse | 2 | 27.4% | mousse, course
+caspor | 2 | 27.8% | castor, casper
+safard | 2 | 28.3% | cafard, safari
+chasse | 2 | 28.8% | chaise, classe
+treffe | 2 | 29.3% | truffe, trèfle
+pagais | 2 | 29.8% | pagaie, palais
+chahet | 2 | 30.2% | chahut, chalet
+minton | 2 | 30.7% | menton, minion
+miteur | 2 | 31.2% | moteur, mixeur
+vioion | 2 | 31.7% | violon, vision
+floche | 2 | 32.2% | cloche, flèche
+pensei | 2 | 32.6% | sensei, penser
+vglise | 2 | 33.1% | valise, église
+boupie | 2 | 33.6% | bougie, toupie
+paraye | 2 | 34.1% | papaye, parade
+banage | 2 | 34.6% | banane, bagage
+beutre | 2 | 35.0% | beurre, feutre
+tarpon | 2 | 35.5% | tampon, harpon
+suiche | 2 | 36.0% | seiche, quiche
+dendon | 2 | 36.5% | tendon, dindon
+margre | 2 | 37.0% | marbre, maigre
+crotte | 2 | 37.5% | grotte, croûte
+erbite | 2 | 37.9% | orbite, ermite
+surene | 2 | 38.4% | murène, sirène
+soldet | 2 | 38.9% | soldat, soldes
+bouine | 2 | 39.4% | fouine, bobine
+tenris | 2 | 39.9% | tennis, tetris
+pezard | 2 | 40.3% | pétard, lézard
+goyage | 2 | 40.8% | goyave, voyage
+aotion | 2 | 41.3% | potion, action
+paysal | 2 | 41.8% | paysan, paypal
+toyote | 2 | 42.3% | toyota, coyote
+pirote | 2 | 42.7% | pilote, pirate
+graise | 2 | 43.2% | fraise, graine
+mouble | 2 | 43.7% | meuble, double
+chivre | 2 | 44.2% | chèvre, cuivre
+lantue | 2 | 44.7% | langue, laitue
+catron | 2 | 45.1% | patron, citron
+pollet | 2 | 45.6% | mollet, poulet
+cantes | 2 | 46.1% | cannes, nantes
+saucon | 2 | 46.6% | faucon, saumon
+cerile | 2 | 47.1% | cerise, cercle
+partin | 2 | 47.5% | pantin, partir
+vmande | 2 | 48.0% | viande, amande
+arture | 2 | 48.5% | artère, armure
+moucou | 2 | 49.0% | moscou, coucou
+otalie | 2 | 49.5% | italie, otarie
+voucan | 2 | 50.0% | volcan, toucan
+faisin | 2 | 50.4% | raisin, faisan
+sakara | 2 | 50.9% | sakura, sahara
+tickel | 2 | 51.4% | nickel, ticket
+winnie | 1 | 51.6% | winnie
+papier | 1 | 51.9% | papier
+organe | 1 | 52.1% | organe
+brique | 1 | 52.4% | brique
+alarme | 1 | 52.6% | alarme
+belier | 1 | 52.8% | bélier
+amazon | 1 | 53.1% | amazon
+naruto | 1 | 53.3% | naruto
+uranus | 1 | 53.6% | uranus
+lycaon | 1 | 53.8% | lycaon
+sachet | 1 | 54.0% | sachet
+ondine | 1 | 54.3% | ondine
+impact | 1 | 54.5% | impact
+fennec | 1 | 54.8% | fennec
+bounty | 1 | 55.0% | bounty
+jungle | 1 | 55.2% | jungle
+wombat | 1 | 55.5% | wombat
+airbag | 1 | 55.7% | airbag
+requin | 1 | 56.0% | requin
+rasoir | 1 | 56.2% | rasoir
+fourmi | 1 | 56.4% | fourmi
+homard | 1 | 56.7% | homard
+reflet | 1 | 56.9% | reflet
+jaguar | 1 | 57.2% | jaguar
+examen | 1 | 57.4% | examen
+hawaii | 1 | 57.6% | hawaii
+mexico | 1 | 57.9% | mexico
+madrid | 1 | 58.1% | madrid
+piqure | 1 | 58.4% | piqûre
+mozart | 1 | 58.6% | mozart
+vaudou | 1 | 58.8% | vaudou
+mowgli | 1 | 59.1% | mowgli
+gandhi | 1 | 59.3% | gandhi
+frelon | 1 | 59.6% | frelon
+echecs | 1 | 59.8% | échecs
+egouts | 1 | 60.0% | égouts
+dormir | 1 | 60.3% | dormir
+temoin | 1 | 60.5% | témoin
+bowser | 1 | 60.8% | bowser
+modele | 1 | 61.0% | modèle
+chemin | 1 | 61.2% | chemin
+obelix | 1 | 61.5% | obélix
+poster | 1 | 61.7% | poster
+mewtwo | 1 | 62.0% | mewtwo
+paques | 1 | 62.2% | pâques
+moitie | 1 | 62.5% | moitié
+egypte | 1 | 62.7% | égypte
+karate | 1 | 62.9% | karaté
+huitre | 1 | 63.2% | huître
+infini | 1 | 63.4% | infini
+corail | 1 | 63.7% | corail
+faible | 1 | 63.9% | faible
+luette | 1 | 64.1% | luette
+zombie | 1 | 64.4% | zombie
+israel | 1 | 64.6% | israël
+stereo | 1 | 64.9% | stéréo
+berlin | 1 | 65.1% | berlin
+chrome | 1 | 65.3% | chrome
+mohawk | 1 | 65.6% | mohawk
+dessin | 1 | 65.8% | dessin
+cochon | 1 | 66.1% | cochon
+dexter | 1 | 66.3% | dexter
+beluga | 1 | 66.5% | béluga
+cheval | 1 | 66.8% | cheval
+condor | 1 | 67.0% | condor
+adidas | 1 | 67.3% | adidas
+stress | 1 | 67.5% | stress
+muscle | 1 | 67.7% | muscle
+subway | 1 | 68.0% | subway
+epaule | 1 | 68.2% | épaule
+iguane | 1 | 68.5% | iguane
+agneau | 1 | 68.7% | agneau
+bagdad | 1 | 68.9% | bagdad
+limace | 1 | 69.2% | limace
+legume | 1 | 69.4% | légume
+orteil | 1 | 69.7% | orteil
+vaccin | 1 | 69.9% | vaccin
+confus | 1 | 70.1% | confus
+espion | 1 | 70.4% | espion
+narval | 1 | 70.6% | narval
+kraken | 1 | 70.9% | kraken
+europe | 1 | 71.1% | europe
+etoile | 1 | 71.3% | étoile
+quokka | 1 | 71.6% | quokka
+titeuf | 1 | 71.8% | titeuf
+blesse | 1 | 72.1% | blessé
+putois | 1 | 72.3% | putois
+parfum | 1 | 72.5% | parfum
+yaourt | 1 | 72.8% | yaourt
+caviar | 1 | 73.0% | caviar
+credit | 1 | 73.3% | crédit
+espace | 1 | 73.5% | espace
+zoomer | 1 | 73.7% | zoomer
+tresor | 1 | 74.0% | trésor
+bonnet | 1 | 74.2% | bonnet
+litchi | 1 | 74.5% | litchi
+ananas | 1 | 74.7% | ananas
+cinema | 1 | 75.0% | cinéma
+phoque | 1 | 75.2% | phoque
+peigne | 1 | 75.4% | peigne
+monaco | 1 | 75.7% | monaco
+essaim | 1 | 75.9% | essaim
+enfant | 1 | 76.2% | enfant
+tulipe | 1 | 76.4% | tulipe
+tomate | 1 | 76.6% | tomate
+algues | 1 | 76.9% | algues
+ocelot | 1 | 77.1% | ocelot
+hacker | 1 | 77.4% | hacker
+soleil | 1 | 77.6% | soleil
+volume | 1 | 77.8% | volume
+alizee | 1 | 78.1% | alizée
+pedale | 1 | 78.3% | pédale
+ouvert | 1 | 78.6% | ouvert
+bottes | 1 | 78.8% | bottes
+adulte | 1 | 79.0% | adulte
+russie | 1 | 79.3% | russie
+eponge | 1 | 79.5% | éponge
+munich | 1 | 79.8% | munich
+sudoku | 1 | 80.0% | sudoku
+sasuke | 1 | 80.2% | sasuke
+reddit | 1 | 80.5% | reddit
+google | 1 | 80.7% | google
+quebec | 1 | 81.0% | québec
+argent | 1 | 81.2% | argent
+rapide | 1 | 81.4% | rapide
+bresil | 1 | 81.7% | brésil
+flaque | 1 | 81.9% | flaque
+nascar | 1 | 82.2% | nascar
+cactus | 1 | 82.4% | cactus
+frites | 1 | 82.6% | frites
+studio | 1 | 82.9% | studio
+hippie | 1 | 83.1% | hippie
+alpaga | 1 | 83.4% | alpaga
+twitch | 1 | 83.6% | twitch
+puzzle | 1 | 83.8% | puzzle
+eclair | 1 | 84.1% | éclair
+mygale | 1 | 84.3% | mygale
+ottawa | 1 | 84.6% | ottawa
+squash | 1 | 84.8% | squash
+dollar | 1 | 85.0% | dollar
+avachi | 1 | 85.3% | avachi
+desert | 1 | 85.5% | désert
+pyjama | 1 | 85.8% | pyjama
+hobbit | 1 | 86.0% | hobbit
+aviron | 1 | 86.2% | aviron
+propre | 1 | 86.5% | propre
+vilain | 1 | 86.7% | vilain
+ruelle | 1 | 87.0% | ruelle
+haribo | 1 | 87.2% | haribo
+biceps | 1 | 87.5% | biceps
+avocat | 1 | 87.7% | avocat
+alcool | 1 | 87.9% | alcool
+eminem | 1 | 88.2% | eminem
+tunnel | 1 | 88.4% | tunnel
+phenix | 1 | 88.7% | phénix
+compas | 1 | 88.9% | compas
+reveil | 1 | 89.1% | réveil
+trunks | 1 | 89.4% | trunks
+muffin | 1 | 89.6% | muffin
+nature | 1 | 89.9% | nature
+gluant | 1 | 90.1% | gluant
+verrue | 1 | 90.3% | verrue
+radeau | 1 | 90.6% | radeau
+loutre | 1 | 90.8% | loutre
+souris | 1 | 91.1% | souris
+coffre | 1 | 91.3% | coffre
+tarzan | 1 | 91.5% | tarzan
+mariee | 1 | 91.8% | mariée
+chauve | 1 | 92.0% | chauve
+salive | 1 | 92.3% | salive
+macher | 1 | 92.5% | mâcher
+menthe | 1 | 92.7% | menthe
+filtre | 1 | 93.0% | filtre
+casino | 1 | 93.2% | casino
+bambou | 1 | 93.5% | bambou
+garcon | 1 | 93.7% | garçon
+aimant | 1 | 93.9% | aimant
+popeye | 1 | 94.2% | popeye
+gourde | 1 | 94.4% | gourde
+canape | 1 | 94.7% | canapé
+lierre | 1 | 94.9% | lierre
+ecosse | 1 | 95.1% | écosse
+dragon | 1 | 95.4% | dragon
+marche | 1 | 95.6% | marché
+acteur | 1 | 95.9% | acteur
+prince | 1 | 96.1% | prince
+griffe | 1 | 96.3% | griffe
+videur | 1 | 96.6% | videur
+marais | 1 | 96.8% | marais
+tortue | 1 | 97.1% | tortue
+pelvis | 1 | 97.3% | pelvis
+joueur | 1 | 97.5% | joueur
+fluide | 1 | 97.8% | fluide
+jambes | 1 | 98.0% | jambes
+trappe | 1 | 98.3% | trappe
+pilule | 1 | 98.5% | pilule
+vallee | 1 | 98.7% | vallée
+visage | 1 | 99.0% | visage
+palmes | 1 | 99.2% | palmes
+tintin | 1 | 99.5% | tintin
+bureau | 1 | 99.7% | bureau
+gaufre | 1 | 100.% | gaufre
