@@ -22,3 +22,4 @@ If not, download the `skribblopeningfinder.py` file and a language file of your 
 > [!NOTE]
 If you choose English, an extra prompt will show: `Set difficulty priority first? (y/n)`. Choosing "n" will prioritize number of close words over difficulty, as usual, while choosing "y" will choose the opposite. It is less optimal but will increase chances of close words by probability of people picking it. However the data (graciously provided by [wlauyeung](https://github.com/wlauyeung/Skribblio-Word-Bank/)) is slightly scarce for calculating difficulty and mileage may vary.
 
+You can check the `notables` folder for useful examples from the output of this program. Use it at your own will!
