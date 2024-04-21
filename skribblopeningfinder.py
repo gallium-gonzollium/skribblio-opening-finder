@@ -245,7 +245,7 @@ words have been covered in {Colors.fg.BRIGHT_YELLOW}{passes[0]}{Colors.fg.BRIGHT
 
 
 def add_difficulty(word_list, wordbank_map):
-    if filename == "wordbank-en.txt":
+    if filename == "wordbank-en.txt" or use_difficulty:
         common_words_scores = {
             word: wordbank_map[word]
             for word in set(word_list).intersection(wordbank_map.keys())
@@ -278,7 +278,7 @@ def intput(x, threshold=100):
             else:
                 raise ValueError
         except ValueError:
-            print(Colors.fg.BRIGHT_RED + "Invalid number :p")
+            print(Colors.fg.RED + "Invalid number :p")
         except KeyboardInterrupt:
             raise KeyboardInterrupt
         except:
@@ -308,27 +308,61 @@ def wordbank_init(name):
     return wordbank
 
 def start():
-    global difficulty_priority, difficulty_dict, filename
+    global difficulty_priority, difficulty_dict, filename, use_difficulty
+
+    use_difficulty = False
 
     filename = [
         "wordbank-en.txt",
         "wordbank-de.txt",
         "wordbank-es.txt",
-        "wordbank-fr.txt",][intput(
+        "wordbank-fr.txt",
+        0][intput(
 f"""{Colors.fm.RESET_ALL + Colors.fg.BRIGHT_WHITE}Language file to use?
 0 - English
 1 - German
 2 - Spanish
 3 - French
->>> {Colors.fg.BRIGHT_YELLOW}""",4)]
+4 - Custom File
+>>> {Colors.fg.BRIGHT_YELLOW}""",5)]
+    
+    if filename == 0:
+        while True:
+            try:
+                filename = input(Colors.fg.BRIGHT_CYAN + f"Enter the file name of your wordbank.\n{Colors.fg.BRIGHT_WHITE}>>> ")
+                wordbank = wordbank_init(filename)
+                break
+            except FileNotFoundError:
+                print(Colors.fg.BRIGHT_RED + "#@# That file doesn't exist. Try again. #@#")
+            except KeyboardInterrupt:
+                raise KeyboardInterrupt
+            except:
+                print(f"""
+{Colors.fm.UNDERLINE+Colors.fg.RED}In case you don't know how the wordbank works:{Colors.fm.UNUNDERLINE}
 
+{Colors.fg.BRIGHT_GREEN}Every 4 lines is one entry for a word. The format is like this:
+    
+{Colors.fg.BRIGHT_YELLOW}    Line 1: {Colors.fg.CYAN}the word itself.
+{Colors.fg.BRIGHT_YELLOW}    Line 2: {Colors.fg.BRIGHT_CYAN}the length of each word, e.g. "cat" is [3], and "sussy baka" is [5,4]. There must not be any whitespace.
+{Colors.fg.BRIGHT_YELLOW}    Line 3: {Colors.fg.CYAN}frequency, measured as a whole number.
+{Colors.fg.BRIGHT_YELLOW}    Line 4: {Colors.fg.CYAN}difficulty, a decimal from 0 to 1, where lower is easier.
+
+{Colors.fg.RED}There should not be anything else in the file, because that will cause an error.
+{Colors.fg.MAGENTA}If you have not measured frequency and difficulty, set lines 3 and 4 to 0.
+""")
+                input(Colors.fg.BRIGHT_RED+Colors.fm.UNDERLINE+ f"#@# The wordbank '{filename[:20]}{'...' if len(filename) >= 20 else ''}' has a problem. Press enter to see the error. #@#" + Colors.fm.RESET_ALL)
+                wordbank_init(filename)
+        use_difficulty = not input(
+            f"{Colors.fg.BRIGHT_MAGENTA}Does the file have difficulty and frequency? (y/n)\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}").lower() == 'n'
+    use_difficulty |= filename == "wordbank-en.txt"
+    
     print(Colors.fg.BRIGHT_GREEN + "Using: " +filename)
     wordbank = wordbank_init(filename)
     size = [
         intput(f"{Colors.fg.BRIGHT_CYAN}Enter length for word #{i+1}:\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}")
-        for i in range(intput(Colors.fg.BRIGHT_BLUE + f"How many words?\n{Colors.fg.BRIGHT_WHITE}>>> " + Colors.fg.BRIGHT_YELLOW, 10))
+        for i in range(intput(Colors.fg.BRIGHT_BLUE + f"How many words?\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}", 10))
     ]
-    if filename == "wordbank-en.txt":
+    if filename == "wordbank-en.txt" or use_difficulty:
         i = None
         while i not in ["y","n"]:
             i = input(f"{Colors.fg.BRIGHT_MAGENTA}Set difficulty priority first? (y/n)\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}").lower()
