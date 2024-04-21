@@ -2,8 +2,6 @@ from collections import defaultdict
 import os
 import unicodedata
 
-color_capable = input("Use color? (y/n)\n>>> ").lower() == "y"
-
 def remove_diacritics(input_str):
     return ''.join(
         c for c in unicodedata.normalize('NFD', input_str)
@@ -18,6 +16,11 @@ def set_alphabet(name):
         "wordbank-fr.txt": "abcdefghijklmnopqrstuvwxyzàâæçéèêëîïôœùûüÿ9",
     }
     return alphabet.get(name)
+
+try:
+    color_capable = input("Use color? (y/n)\n>>> ").lower() == "y"
+except: 
+    raise SystemExit(0)
 
 def ansi(color_code):
     return color_code if color_capable else ''
