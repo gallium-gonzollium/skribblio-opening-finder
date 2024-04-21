@@ -1,6 +1,8 @@
 from collections import defaultdict
 import os
 import unicodedata
+import sys
+color_capable = sys.stdout.isatty()
 
 def remove_diacritics(input_str):
     return ''.join(
@@ -17,26 +19,93 @@ def set_alphabet(name):
     }
     return alphabet.get(name)
 
+def ansi(color_code):
+    return color_code if color_capable else ''
 
-def modify_words(words, commands):
+class Colors:
+    class fg:
+        BLACK = ansi('\033[30m')
+        RED = ansi('\033[31m')
+        GREEN = ansi('\033[32m')
+        YELLOW = ansi('\033[33m')
+        BLUE = ansi('\033[34m')
+        MAGENTA = ansi('\033[35m')
+        CYAN = ansi('\033[36m')
+        WHITE = ansi('\033[37m')
+        BRIGHT_BLACK = ansi('\033[90m')
+        BRIGHT_RED = ansi('\033[91m')
+        BRIGHT_GREEN = ansi('\033[92m')
+        BRIGHT_YELLOW = ansi('\033[93m')
+        BRIGHT_BLUE = ansi('\033[94m')
+        BRIGHT_MAGENTA = ansi('\033[95m')
+        BRIGHT_CYAN = ansi('\033[96m')
+        BRIGHT_WHITE = ansi('\033[97m')
+
+    class bg:
+        BLACK = ansi('\033[40m')
+        RED = ansi('\033[41m')
+        GREEN = ansi('\033[42m')
+        YELLOW = ansi('\033[43m')
+        BLUE = ansi('\033[44m')
+        MAGENTA = ansi('\033[45m')
+        CYAN = ansi('\033[46m')
+        WHITE = ansi('\033[47m')
+        BRIGHT_BLACK = ansi('\033[100m')
+        BRIGHT_RED = ansi('\033[101m')
+        BRIGHT_GREEN = ansi('\033[102m')
+        BRIGHT_YELLOW = ansi('\033[103m')
+        BRIGHT_BLUE = ansi('\033[104m')
+        BRIGHT_MAGENTA = ansi('\033[105m')
+        BRIGHT_CYAN = ansi('\033[106m')
+        BRIGHT_WHITE = ansi('\033[107m')
+
+    class fm:
+        RESET_ALL = ansi('\033[0m')
+        BOLD = ansi('\033[1m')
+        ITALIC = ansi('\033[3m')
+        UNDERLINE = ansi('\033[4m')
+        BLINK = ansi('\033[5m')
+        REVERSE = ansi('\033[7m')
+        HIDDEN = ansi('\033[8m')
+        UNBOLD = '\033[22m'
+        UNITALIC = '\033[23m'
+        UNUNDERLINE = '\033[24m'
+
+def colorize_output(inp):
+    return Colors.fg.BRIGHT_WHITE + inp[0:length] + \
+           Colors.fm.BOLD + \
+           Colors.fg.BLACK + inp[length:length+2] + \
+           Colors.fm.UNBOLD + \
+           Colors.fg.YELLOW + inp[length+2:length+5] + \
+           Colors.fm.BOLD + \
+           Colors.fg.BLACK + inp[length+5] + \
+           Colors.fm.UNBOLD + \
+           Colors.fg.BRIGHT_GREEN + inp[length+6:length+11] + \
+           Colors.fg.GREEN + inp[length+11:length+13] + \
+           Colors.fm.BOLD + \
+           Colors.fg.BLACK + inp[length+13] + \
+           Colors.fm.UNBOLD + \
+           Colors.fg.BRIGHT_BLUE + inp[length+14:]
+
+
+def modify_words(words, command):
     modified_set = set()
     alphabet = set_alphabet(filename)
     for word in words:
-        for command in commands:
-            if "replace" in command:
-                for index, letter in enumerate(word):
-                    for replace_letter in alphabet:
-                        modified_word = word[:index] + replace_letter + word[index + 1:]
-                        modified_set.add(modified_word.lower())
-            elif "insert" in command:
-                for index in range(len(word) + 1):
-                    for insert_letter in alphabet:
-                        modified_word = word[:index] + insert_letter + word[index:]
-                        modified_set.add(modified_word.lower())
-            elif "pop" in command:
-                for index, _ in enumerate(word):
-                    modified_word = word[:index] + word[index + 1 :]
+        if "replace" == command:
+            for index, _ in enumerate(word):
+                for replace_letter in alphabet:
+                    modified_word = word[:index] + replace_letter + word[index + 1:]
                     modified_set.add(modified_word.lower())
+        elif "insert" == command:
+            for index in range(len(word) + 1):
+                for insert_letter in alphabet:
+                    modified_word = word[:index] + insert_letter + word[index:]
+                    modified_set.add(modified_word.lower())
+        elif "pop" == command:
+            for index, _ in enumerate(word):
+                modified_word = word[:index] + word[index + 1 :]
+                modified_set.add(modified_word.lower())
 
     return modified_set
 
@@ -44,11 +113,12 @@ def modify_words(words, commands):
 def find_similar_words(wordbank, size):
     words = {word[0].lower() for word in wordbank if word[1] == size}
     wordbank_map = {entry[0].lower(): entry[2] * (1 - entry[3]) for entry in wordbank}
+    global length
     length = sum(size) + len(size) - 1
 
-    print(f"Generating all possible words of length {size}...")
-    potential_pop_words = modify_words(words, ["pop"])
-    potential_replace_words = modify_words(words, ["replace"])
+    print(f"{Colors.fg.RED}Generating all possible words of length {Colors.fg.YELLOW}{str(size)[1:-1]}{Colors.fg.RED}...")
+    potential_pop_words = modify_words(words, "pop")
+    potential_replace_words = modify_words(words, "replace")
 
     similar_words_dict = defaultdict(list)
     processed_words = set()
@@ -58,39 +128,21 @@ def find_similar_words(wordbank, size):
         for count, word in enumerate(words_list, 1):
             processed_words.add(word)
             action_type = "insert" if words_list is potential_pop_words else "replace"
-            potential_similar = modify_words([word], [action_type])
+            potential_similar = modify_words([word], action_type)
             for _word in potential_similar:
                 if _word in words:
                     similar_words_dict[word].append(_word)
             if count % (100000 // length) == 0:
                 print(
-                    f"{count//1000*length}k/{total_words//1000*length}k, {int(count/total_words//0.01)}%"
-                )
+                    f"{Colors.fg.YELLOW}{count//1000*length}k{Colors.fg.BRIGHT_WHITE}/\
+{                     Colors.fg.BRIGHT_YELLOW}{total_words//1000*length}k{Colors.fg.BRIGHT_WHITE}, \
+{                     Colors.fg.BRIGHT_CYAN}{int(count/total_words//0.01)}%")
 
-    print("Sorting...")
+    print(f"{Colors.fg.BRIGHT_RED}Starting optimal word search of length {Colors.fg.YELLOW}{str(size)[1:-1]}{Colors.fg.BRIGHT_RED}...")
+    compute_optimal_words(similar_words_dict, wordbank_map, words)
 
-    if difficulty_priority:
-        sorted_similar_words = dict(
-            sorted(
-                similar_words_dict.items(),
-                key=lambda item: (
-                    add_difficulty(item[1], wordbank_map),
-                    len(item[1]),
-                    -len(item[0]),
-                ),
-                reverse=True))
-    else:
-        sorted_similar_words = dict(
-            sorted(
-                similar_words_dict.items(),
-                key=lambda item: (
-                    len(item[1]),
-                    add_difficulty(item[1], wordbank_map),
-                    -len(item[0]),
-                ),
-                reverse=True))
 
-    print(f"Starting optimal word search of length {size}...")
+def compute_optimal_words(sorted_similar_words, wordbank_map, words):
     top = 0
     cumulative = 0
     passes = [0, 0]
@@ -144,22 +196,27 @@ def find_similar_words(wordbank, size):
         if top != 1:
             passes[1] += 1
         elif passes[1] == passes[0] and cumulative / len(words) < 0.95 and difficulty_priority == False:
-            if (input(f"The rest {format(100-cumulative/len(words)//0.001/10,4)}% are now 1 letter.\nPress enter to continue, or type 'end' to end the program.\n>>> ").lower()
+            if (input(f"{Colors.fg.BRIGHT_CYAN}The rest {Colors.fg.BRIGHT_YELLOW}{format(100-cumulative/len(words)//0.001/10,4)}% {Colors.fg.BRIGHT_CYAN}are now 1 letter.\
+    \n{Colors.fg.BRIGHT_MAGENTA}Press enter to continue, or type 'end' to end the program.\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}").lower()
                 in ["end","edn","den","dne","ned","ned"]):
                 end = True
-                print("Ending...")
+                print(Colors.fg.BLUE+"Ending...")
         passes[0] += 1
         cumulative += top
 
-        if end == False:
+        if not end:
             if cumulative == len(words):
-                print(f"{remove_diacritics(similar_list[0])} | {top} | 100.% | {', '.join(i for i in similar_list)}")
+                print(colorize_output(
+                    f"{remove_diacritics(similar_list[0])} | {top} | 100.% | {', '.join(i for i in similar_list)}"))
             elif top > 9:
-                print(f"{remove_diacritics(format(first_item, length))} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
+                print(colorize_output(
+                    f"{remove_diacritics(format(first_item, length))} |{ top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}"))
             elif top == 1:
-                print(f"{remove_diacritics(similar_list[0])} | 1 | {format(cumulative/len(words)*10000//1/100,4)}% | {similar_list[0]}")
+                print(colorize_output(
+                    f"{remove_diacritics(similar_list[0])} | 1 | {format(cumulative/len(words)*10000//1/100,4)}% | {similar_list[0]}"))
             else:
-                print(f"{remove_diacritics(format(first_item, length))} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}")
+                print(colorize_output(
+                    f"{remove_diacritics(format(first_item, length))} | {top} | {format(cumulative/len(words)*100,4)}% | {', '.join(i for i in similar_list)}"))
 
         for _ in range(top):  # for SOME reason doing 1 pass of this isn't enough...
             for word in similar_list:
@@ -169,12 +226,19 @@ def find_similar_words(wordbank, size):
                         if not value:
                             del sorted_similar_words[key]
 
-    print(f"All {len(words)} words have been covered in {passes[0]} words.")
+    print(f"{Colors.fg.BRIGHT_MAGENTA}All {Colors.fg.BRIGHT_YELLOW}{len(words)}{Colors.fg.BRIGHT_MAGENTA} \
+words have been covered in {Colors.fg.BRIGHT_YELLOW}{passes[0]}{Colors.fg.BRIGHT_MAGENTA} words.")
     try:
-        print(f"number of list words (>1 close)          = {format(str(passes[1])+' words',10)} | higher is better")
-        print(f"avg. efficiency per list word            = {format(len(words)/passes[0],5)}      | higher is better")
+        print(f"{Colors.fg.BRIGHT_GREEN}number of list words (>1 close)         {Colors.fg.BLACK} = {Colors.fg.BRIGHT_YELLOW}\
+{format(str(passes[1])+' words',10) } {Colors.fm.BOLD+Colors.fg.BLACK}|{Colors.fm.UNBOLD+Colors.fg.BLUE} higher is better")
+        print(f"{Colors.fg.BRIGHT_GREEN}avg. efficiency per list word           {Colors.fg.BLACK} = {Colors.fg.BRIGHT_YELLOW}\
+{format(len(words)/passes[0],5)}      {Colors.fm.BOLD+Colors.fg.BLACK}|{Colors.fm.UNBOLD+Colors.fg.BLUE} higher is better")
     except ZeroDivisionError:
         0
+    try:
+        input(Colors.fg.RED + Colors.bg.BLACK + Colors.fm.BOLD + "Press enter to restart, or press CTRL-C to close.\n" + Colors.fm.RESET_ALL)
+    except KeyboardInterrupt:
+        raise SystemExit
 
 
 def add_difficulty(word_list, wordbank_map):
@@ -211,7 +275,11 @@ def intput(x, threshold=100):
             else:
                 raise ValueError
         except ValueError:
-            print("Invalid number :p")
+            print(Colors.fg.BRIGHT_RED + "Invalid number :p")
+        except KeyboardInterrupt:
+            raise KeyboardInterrupt
+        except:
+            print(Colors.fm.RESET_ALL)
 
 
 def wordbank_init(name):
@@ -236,27 +304,31 @@ def wordbank_init(name):
         wordbank.append(sublist_data)
     return wordbank
 
-
-def main():
+def start():
     global difficulty_priority, difficulty_dict, filename
 
     filename = [
         "wordbank-en.txt",
         "wordbank-de.txt",
         "wordbank-es.txt",
-        "wordbank-fr.txt",
-    ][intput("Language file to use?\n0 - English\n1 - German\n2 - Spanish\n3 - French\n>>> ",4)]
+        "wordbank-fr.txt",][intput(
+f"""{Colors.fm.RESET_ALL + Colors.fg.BRIGHT_WHITE}Language file to use?
+0 - English
+1 - German
+2 - Spanish
+3 - French
+>>> {Colors.fg.BRIGHT_YELLOW}""",4)]
 
-    print("Using: " + filename)
+    print(Colors.fg.BRIGHT_GREEN + "Using: " +filename)
     wordbank = wordbank_init(filename)
     size = [
-        intput(f"Enter length for word #{i+1}:\n>>> ")
-        for i in range(intput("How many words?\n>>> ", 10))
+        intput(f"{Colors.fg.BRIGHT_CYAN}Enter length for word #{i+1}:\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}")
+        for i in range(intput(Colors.fg.BRIGHT_BLUE + f"How many words?\n{Colors.fg.BRIGHT_WHITE}>>> " + Colors.fg.BRIGHT_YELLOW, 10))
     ]
     if filename == "wordbank-en.txt":
         i = None
         while i not in ["y","n"]:
-            i = input("Set difficulty priority first? (y/n)\n>>> ").lower()
+            i = input(f"{Colors.fg.BRIGHT_MAGENTA}Set difficulty priority first? (y/n)\n{Colors.fg.BRIGHT_WHITE}>>> {Colors.fg.BRIGHT_YELLOW}").lower()
             if i == "y":
                 difficulty_priority = True
             elif i == "n":
@@ -266,17 +338,28 @@ def main():
     difficulty_dict = {entry[0].lower(): entry[2] * (1 - entry[3]) for entry in wordbank}
     find_similar_words(wordbank, size)
 
-
-try:
-    main()
-except KeyboardInterrupt or EOFError:
-    print("\n\nRestarting... (Press CTRL-C twice more to close)")
-    try:
-        main()
-    except KeyboardInterrupt or EOFError:
-        print("\n\nRestarting... (Press CTRL-C once more to close)")
+def main():
+    global restart
+    restart = True
+    while restart: 
         try:
-            main()
-        except KeyboardInterrupt or EOFError:
-            print("Exiting...")
-            exit()
+            start()
+        except KeyboardInterrupt: # This stupid mess is me trying to stop stinking EOFError leaking through while doing KeyboardInterrupt...
+            try:
+                if input(Colors.fg.RED + f"Would you like to exit? (y/n)\n{Colors.fg.BRIGHT_WHITE}>>> " + Colors.fg.BRIGHT_YELLOW).lower() in ['y','','yes']:
+                    restart = False
+            except KeyboardInterrupt:
+                restart = False
+            except EOFError:
+                try:
+                    print(Colors.fg.BRIGHT_RED + "#@# Hit an EOFError, exiting... #@#" + Colors.fm.RESET_ALL)
+                    raise SystemExit(1)
+                except:
+                    raise SystemExit(1)
+    try:
+        print(Colors.fm.RESET_ALL, end='')
+        raise SystemExit(0)
+    except KeyboardInterrupt:
+        raise SystemExit(0)
+
+main()
