@@ -3,6 +3,7 @@ import os
 import unicodedata
 
 color_capable = input("Use color? (y/n)\n>>> ").lower() == "y"
+
 def remove_diacritics(input_str):
     return ''.join(
         c for c in unicodedata.normalize('NFD', input_str)
@@ -66,9 +67,9 @@ class Colors:
         BLINK = ansi('\033[5m')
         REVERSE = ansi('\033[7m')
         HIDDEN = ansi('\033[8m')
-        UNBOLD = '\033[22m'
-        UNITALIC = '\033[23m'
-        UNUNDERLINE = '\033[24m'
+        UNBOLD = ansi('\033[22m')
+        UNITALIC = ansi('\033[23m')
+        UNUNDERLINE = ansi('\033[24m')
 
 def colorize_output(inp):
     return Colors.fg.BRIGHT_WHITE + inp[0:length] + \
