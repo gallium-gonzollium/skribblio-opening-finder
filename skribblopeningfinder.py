@@ -1,9 +1,8 @@
 from collections import defaultdict
 import os
 import unicodedata
-import sys
-color_capable = sys.stdout.isatty()
 
+color_capable = input("Use color? (y/n)\n>>> ").lower() == "y"
 def remove_diacritics(input_str):
     return ''.join(
         c for c in unicodedata.normalize('NFD', input_str)
